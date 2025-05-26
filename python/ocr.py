@@ -28,9 +28,12 @@ def create_prompt(format_instructions):
         partial_variables={"format_instructions": format_instructions},
         template=QA_TEMPLATE)
 
+
 # Define your desired data structure.
 class Docs(BaseModel):
-    pass
+    header: str = Field(description="Header of a section in the give file")
+    body: str = Field(description="body of a section in the give file")
+
 
 ##### LLM VARIABLES SETTINGS #####
 model_select = 'llava'
@@ -39,6 +42,7 @@ format_instructions = output_parser.get_format_instructions()
 llm = OllamaLLM(model = model_select, temperature = 0.0)
 prompt = create_prompt(format_instructions)
 llm_chain = prompt | llm | output_parser
+
 
 ##### FUNCTIONS #####
 def llm_extract(text_content):
@@ -58,6 +62,8 @@ def intake_pdf_from_dir(directory):
         pdf_file = pdfquery.PDFQuery(file_address)
         loaded_list_of_pdf_files[uuid] = pdf_file.load()
     return loaded_list_of_pdf_files
+
+
 ###---------------------------------------------------------------###
 if __name__ == "__main__": 
     start_time = datetime.now()

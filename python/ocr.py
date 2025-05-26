@@ -59,8 +59,9 @@ def intake_pdf_from_dir(directory):
         uuid = pdf[5:11]
         print(f"\tuuid: {uuid}")
         file_address = os.path.join(sys.argv[1], pdf)
-        pdf_file = pdfquery.PDFQuery(file_address)
-        loaded_list_of_pdf_files[uuid] = pdf_file.load()
+        # pdf_file = pdfquery.PDFQuery(file_address)
+        with open(file_address, 'rt', encoding='utf-8') as pdf_file:
+            loaded_list_of_pdf_files[uuid] = pdf_file
     return loaded_list_of_pdf_files
 
 
@@ -71,7 +72,7 @@ if __name__ == "__main__":
     dir_of_jsons = intake_pdf_from_dir(file_list_in_directory)
     print(f"Finished {len(dir_of_jsons)} files")
     for doc_id, doc in dir_of_jsons.items():
-        extracted_header = llm_extract(doc)
+    #     extracted_header = llm_extract(doc)
         print(f"For ID {doc_id}, the content is:\n\t{doc}")
     end_time = datetime.now()
     seconds = (end_time - start_time).total_seconds()

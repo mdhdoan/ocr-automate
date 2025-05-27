@@ -6,10 +6,21 @@ from langchain_ollama import OllamaLLM
 from pydantic import BaseModel, Field, model_validator
 
 import os 
-import pdfquery
+import pytesseract
 # import shutil
 import sys
 
+##### TEST-LIBRARIES #####
+pytesseract.pytesseract.tesseract_cmd = 'C:/Users/DOANM/AppData/Local/Programs/Tesseract-OCR/tesseract.exe'
+# pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files (x86)/Tesseract-OCR/tesseract.exe'
+
+from utils import ocr_to_text
+
+OCR_CONFIG = {
+            "grayscale": "true",
+            "user_defined_dpi": "250",
+            "oem": "1",
+            }
 ##### INPUT VARIABLES SETTINGS #####
 file_list_in_directory = os.listdir(sys.argv[1])
 
@@ -64,16 +75,34 @@ def intake_pdf_from_dir(directory):
             loaded_list_of_pdf_files[uuid] = pdf_file
     return loaded_list_of_pdf_files
 
+def intake_img_from_dir(directory):
+    loaded_list_of_img_files = {}
+    # Load the PDF file using pypdf library
+    for img in directory:
+        uuid = img[-10:-4]
+        print(f"\tuuid: {uuid}")
+        file_address = os.path.join(sys.argv[1], img)
+        # pdf_file = pdfquery.PDFQuery(file_address)
+        # image = Image.open(file_address)
+        # loaded_list_of_img_files[uuid] = pytesseract.image_to_string(image)
+    return loaded_list_of_img_files
+
 
 ###---------------------------------------------------------------###
 if __name__ == "__main__": 
     start_time = datetime.now()
     print("Running local at", start_time)
-    dir_of_jsons = intake_pdf_from_dir(file_list_in_directory)
-    print(f"Finished {len(dir_of_jsons)} files")
-    for doc_id, doc in dir_of_jsons.items():
-    #     extracted_header = llm_extract(doc)
-        print(f"For ID {doc_id}, the content is:\n\t{doc}")
+    # dir_of_jsons = intake_img_from_dir(file_list_in_directory)
+    # print(f"Finished {len(dir_of_jsons)} files")
+    numpage_text_bundle = sorted(
+        [page for page in ocr_to_text(sys.argv[1], **OCR_CONFIG)],
+        key=lambda x: x[1],
+    )
+    ocr_text = "\n".join([page[0] for page in numpage_text_bundle])
+    # for doc_id, doc in dir_of_jsons.items():
+        # extracted_header = llm_extract(doc)
+        # print(f"For ID {doc_id}, the content is:\n\t{doc}\n\tHeader is: {extracted_header}")
+        # print(f"For ID {doc_id}, the content is:\n\t{doc}\n\t")
     end_time = datetime.now()
     seconds = (end_time - start_time).total_seconds()
     print(f"Total Execution time: {seconds} secs for {len(file_list_in_directory)} files at {end_time}", flush=True)

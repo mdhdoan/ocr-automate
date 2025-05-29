@@ -40,6 +40,10 @@ class Docs(BaseModel):
     header: str = Field(description="Header of a section in the give file")
     body: str = Field(description="body of a section in the give file")
 
+class QA_Answer(BaseModel):
+    No_Special: str = Field(description="Existence of special characters in the answer")
+    English: str = Field(description="Language of the answer")
+
 
 ##### LLM VARIABLES SETTINGS #####
 model_select = 'llava'
@@ -49,8 +53,8 @@ llm = OllamaLLM(model = model_select, temperature = 0.0)
 prompt = create_prompt(format_instructions)
 llm_chain = prompt | llm | output_parser
 
-vision_model_list = ["minicpm-v","granite3.2-vision","gemma3", "qwen2.5vl", "llama3.2-vision"]
-
+vision_model_list = ["qwen2.5vl", "llama3.2-vision"]
+reasoning_model_list =["llama3.1", "gemma3"]
 ##### FUNCTIONS #####
 def convert_to_base64(pil_image):
     """
@@ -106,27 +110,62 @@ def prompt_func(data):
     }
     content_parts = []
     text_part = {"type": "text", "text": text}
-
     content_parts.append(image_part)
     content_parts.append(text_part)
+    return [HumanMessage(content=content_parts)]
 
+def QA_prompt(data):
+    text = data["text"]
+    content_parts = []
+    text_part = {"type": "text", "text": text}
+    content_parts.append(text_part)
     return [HumanMessage(content=content_parts)]
 
 def testing_visual_models(img):
     file_path = img
     pil_image = Image.open(file_path)
-
     image_b64 = convert_to_base64(pil_image)
+    ocr_result = []
     for vision_model in vision_model_list:
         attempt = 1
+        llm = ChatOllama(model=vision_model, temperature=0)
+        chain = prompt_func | llm | StrOutputParser()
         while attempt < 10:
-            llm = ChatOllama(model=vision_model, temperature=0)
-            chain = prompt_func | llm | StrOutputParser()
             query_chain = chain.invoke(
-                {"text": "This form has a COMMENTS section to the bottom right. Identify the COMMENTS data and provide me only the comments. If it's not in english, provide me both the raw and what you could improve to make it meaningful.", "image": image_b64}
+                {
+                    "text": """
+                        This form has a COMMENTS section to the bottom right. 
+                        Identify the COMMENTS data and provide me only the comments. 
+                        If it's not in english or include special characters, provide me the clean up version in english, without the special characters.
+                        DO NOT INCLUDE ANY EXPLANATION
+                        RETURN ONLY THE TEXT RESULT, NO SPECIAL CHARACTERS
+                    """, 
+                    "image": image_b64
+                }
             )
-            print("MODEL:", vision_model, "\n\tAttempt:", attempt,"\n\tANSWER:", query_chain)
+            ocr_result.append(query_chain)
             attempt += 1
+    return ocr_result
+
+def QA_checker(text_input):
+    qa_result = []
+    for prelim_data in text_input:
+        model_result = []
+        for reasoning_model in reasoning_model_list:
+            llm = ChatOllama(model=reasoning_model, temperature=0)
+            chain = QA_prompt | llm | StrOutputParser()
+            query_chain = chain.invoke({
+                    "text": """
+                        Is the result of ```{data}``` a comprehensible english phrase with no special characters?
+                        If yes return 'Yes' else 'No'
+                        DO NOT INCLUDE ANY EXPLANATION
+                        RETURN ONLY THE TEXT RESULT, NO SPECIAL CHARACTERS, NO NEWLINE AT THE END OF YOUR ANSWERS
+                    """,
+                    "data": prelim_data
+                })
+            model_result.append(query_chain) ## ['yes']
+        qa_result = list(set(qa_result) | set(model_result)) 
+    return qa_result
 
 
 ###---------------------------------------------------------------###
@@ -136,8 +175,12 @@ if __name__ == "__main__":
     dir_of_imgs = intake_img_from_dir(file_list_in_directory)
     print(f"Finished {len(dir_of_imgs)} files")
     for doc_id, doc in dir_of_imgs.items():
+        print(f"-----#####{doc_id}#####-----")
         # extracted_header = llm_extract(doc)
-        print(f"-----#####{doc_id}#####-----\n{testing_visual_models(doc)}")
+        prelim_result = testing_visual_models(doc)
+        print("PRELIM:\n\t", prelim_result)
+        qa_result = QA_checker(prelim_result)
+        print("FINAL:\n\t", qa_result)
         # print(f"For ID {doc_id}, the content is:\n\t{doc}\n\tHeader is: {extracted_header}")
         # print(f"For ID {doc_id}, the content is:\n\t{doc}\n\t")
 

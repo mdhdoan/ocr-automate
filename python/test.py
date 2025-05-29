@@ -42,7 +42,7 @@ from langchain_ollama import ChatOllama
 
 # llama_chain = ["minicpm-v","llava","bakllava","llava-llama3","moondream","llava-phi3","granite3.2-vision","gemma3", "llama4", "qwen2.5vl", "llama3.2-vision"]
 # llama_chain = ["minicpm-v","granite3.2-vision","gemma3", "qwen2.5vl", "llama3.2-vision"]
-# llm = ChatOllama(model="minicpm-v", temperature=0)
+# llm = ChatOllama(model="qwen2.5vl", temperature=0)
 llm = ChatOllama(model="llama3.2-vision", temperature=0)
 # attempt = 1
 # for vision_model in llama_chain:
@@ -79,3 +79,34 @@ query_chain = chain.invoke(
 
 print("ANSWER:", query_chain)
 # attempt += 1
+
+import base64
+
+import httpx
+from langchain.chat_models import init_chat_model
+
+# Fetch PDF data
+pdf_url = "https://pdfobject.com/pdf/sample.pdf"
+pdf_data = base64.b64encode(httpx.get(pdf_url).content).decode("utf-8")
+
+
+# Pass to LLM
+llm = init_chat_model("anthropic:claude-3-5-sonnet-latest")
+
+message = {
+    "role": "user",
+    "content": [
+        {
+            "type": "text",
+            "text": "Describe the document:",
+        },
+        {
+            "type": "file",
+            "source_type": "base64",
+            "data": pdf_data,
+            "mime_type": "application/pdf",
+        },
+    ],
+}
+response = llm.invoke([message])
+print(response.text())

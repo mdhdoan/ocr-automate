@@ -1,6 +1,7 @@
 ##### LIBRARIES #####
 from datetime import datetime
 from langchain_core.messages import HumanMessage
+from langchain_core.output_parsers import JsonOutputParser
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import PromptTemplate
 from langchain.output_parsers.pydantic import PydanticOutputParser
@@ -21,18 +22,18 @@ import sys
 file_list_in_directory = [file for file in os.listdir(sys.argv[1]) if file.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.bmp', '.tiff'))]
 
 ##### LLM PROMPTS #####
-def create_prompt(format_instructions):
-    QA_TEMPLATE = """
-        READ THE CURRENT IMAGE ENCASED BY ``` AND FIND THE HEADERS FOR EACH SECTIONS:
-        ```{document}```
-        RETURN THE RESULT AS AN OBJECT WITH THOSE HEADERS ONLY.
-        {format_instructions}
-    """
-    #Verify your answer, and if the result list has more than 2 items, then Value has multiple parts. Treat them all as one value only, and ignore the number in brackets in them. Retry to shorten it to format above.
-    return PromptTemplate(
-        input_variables=["document"], 
-        partial_variables={"format_instructions": format_instructions},
-        template=QA_TEMPLATE)
+# def create_prompt(format_instructions):
+#     QA_TEMPLATE = """
+#         READ THE CURRENT IMAGE ENCASED BY ``` AND FIND THE HEADERS FOR EACH SECTIONS:
+#         ```{document}```
+#         RETURN THE RESULT AS AN OBJECT WITH THOSE HEADERS ONLY.
+#         {format_instructions}
+#     """
+#     #Verify your answer, and if the result list has more than 2 items, then Value has multiple parts. Treat them all as one value only, and ignore the number in brackets in them. Retry to shorten it to format above.
+#     return PromptTemplate(
+#         input_variables=["document"], 
+#         partial_variables={"format_instructions": format_instructions},
+#         template=QA_TEMPLATE)
 
 
 # Define your desired data structure.
@@ -46,14 +47,17 @@ class QA_Answer(BaseModel):
 
 
 ##### LLM VARIABLES SETTINGS #####
-model_select = 'llava'
-output_parser = PydanticOutputParser(pydantic_object=Docs)  
-format_instructions = output_parser.get_format_instructions()
-llm = OllamaLLM(model = model_select, temperature = 0.0)
-prompt = create_prompt(format_instructions)
-llm_chain = prompt | llm | output_parser
+# model_select = 'llava'
+# output_parser = PydanticOutputParser(pydantic_object=Docs)  
+# format_instructions = output_parser.get_format_instructions()
+# llm = OllamaLLM(model = model_select, temperature = 0.0)
+# prompt = create_prompt(format_instructions)
+# llm_chain = prompt | llm | output_parser
 
-vision_model_list = ["qwen2.5vl", "llama3.2-vision"]
+output_parser = JsonOutputParser() 
+format_instructions = output_parser.get_format_instructions()
+vision_model_list = ["qwen2.5vl"]
+# vision_model_list = ["qwen2.5vl", "llama3.2-vision"]
 reasoning_model_list =["llama3.1", "gemma3"]
 ##### FUNCTIONS #####
 def convert_to_base64(pil_image):
@@ -93,7 +97,7 @@ def intake_img_from_dir(directory):
 
     # Load the PDF file using pypdf library
     for img in directory:
-        uuid = img[-10:-4]
+        uuid = img[5:11]
         print(f"\tuuid: {uuid}")
         file_address = os.path.join(sys.argv[1], img)
         pil_image = Image.open(file_address)
@@ -127,24 +131,44 @@ def testing_visual_models(img):
     image_b64 = convert_to_base64(pil_image)
     ocr_result = []
     for vision_model in vision_model_list:
+        print(f"{vision_model} running", end = '', flush = True)
         attempt = 1
         llm = ChatOllama(model=vision_model, temperature=0)
         chain = prompt_func | llm | StrOutputParser()
-        while attempt < 10:
+        while attempt < 3:
+            print('.', end = '', flush = True)
             query_chain = chain.invoke(
                 {
                     "text": """
-                        This form has a COMMENTS section to the bottom right. 
-                        Identify the COMMENTS data and provide me only the comments. 
-                        If it's not in english or include special characters, provide me the clean up version in english, without the special characters.
-                        DO NOT INCLUDE ANY EXPLANATION
-                        RETURN ONLY THE TEXT RESULT, NO SPECIAL CHARACTERS
+                        Read through all information and provide me a summary of them.
                     """, 
                     "image": image_b64
                 }
             )
             ocr_result.append(query_chain)
             attempt += 1
+        print(' :)')
+    return ocr_result
+
+def extracting_visual(img):
+    file_path = img
+    pil_image = Image.open(file_path)
+    image_b64 = convert_to_base64(pil_image)
+    ocr_result = []
+    for vision_model in vision_model_list:
+        print(f"{vision_model} running", flush = True)
+        llm = ChatOllama(model=vision_model, temperature=0)
+        chain = prompt_func | llm | StrOutputParser()
+        query_chain = chain.invoke(
+            {
+                "text": """
+                    Read through all information and extract the text as closely as possible.
+                """, 
+                "image": image_b64
+            }
+        )
+        # print("\t", query_chain[:50], flush = True)
+        ocr_result.append(query_chain)
     return ocr_result
 
 def QA_checker(text_input):
@@ -156,7 +180,7 @@ def QA_checker(text_input):
             chain = QA_prompt | llm | StrOutputParser()
             query_chain = chain.invoke({
                     "text": """
-                        Is the result of ```{data}``` a comprehensible english phrase with no special characters?
+                        Is the result of {data} a comprehensible english phrase with no special characters?
                         If yes return 'Yes' else 'No'
                         DO NOT INCLUDE ANY EXPLANATION
                         RETURN ONLY THE TEXT RESULT, NO SPECIAL CHARACTERS, NO NEWLINE AT THE END OF YOUR ANSWERS
@@ -167,6 +191,30 @@ def QA_checker(text_input):
         qa_result = list(set(qa_result) | set(model_result)) 
     return qa_result
 
+def create_prompt(format_instructions):
+    QA_TEMPLATE = """
+        {format_instructions}
+
+        Read through all information and provide me a summary of them: {data}
+        Then give me the footprint size or area that has been impacted by an activity that is proposed in the data.
+    """
+    return PromptTemplate(
+        input_variables=["data"], 
+        partial_variables={"format_instructions": format_instructions},
+        template=QA_TEMPLATE)
+
+def llm_summarize(data):
+    summary = ''
+    # print(input)
+    sprompt = create_prompt(format_instructions)
+    for reasoning_model in reasoning_model_list:
+        sllm = OllamaLLM(model = reasoning_model, temperature = 0.0)
+        summary_chain = sprompt | sllm | output_parser
+        print(f"{reasoning_model} is summarizing:...")
+        query_chain = summary_chain.invoke({"data": data})
+        summary = query_chain
+    return summary
+
 
 ###---------------------------------------------------------------###
 if __name__ == "__main__": 
@@ -174,15 +222,24 @@ if __name__ == "__main__":
     print("Running local at", start_time)
     dir_of_imgs = intake_img_from_dir(file_list_in_directory)
     print(f"Finished {len(dir_of_imgs)} files")
+    ocr_data = []
     for doc_id, doc in dir_of_imgs.items():
         print(f"-----#####{doc_id}#####-----")
         # extracted_header = llm_extract(doc)
-        prelim_result = testing_visual_models(doc)
-        print("PRELIM:\n\t", prelim_result)
-        qa_result = QA_checker(prelim_result)
-        print("FINAL:\n\t", qa_result)
+        # prelim_result = testing_visual_models(doc)
+        # print("PRELIM:\n\t", prelim_result)
+        ocr_data = list(set(ocr_data) | set(extracting_visual(doc)))
+        # print("Current ocr_data:")
+        # for data in ocr_data:
+            # print("\t", data[:50], flush = True)
+        # qa_result = QA_checker(prelim_result)
+        # print("FINAL:\n\t", qa_result)
         # print(f"For ID {doc_id}, the content is:\n\t{doc}\n\tHeader is: {extracted_header}")
         # print(f"For ID {doc_id}, the content is:\n\t{doc}\n\t")
+    # print(ocr_data)
+    # input = ', '.join(ocr_data)
+    # summary = llm_summarize(input)
+    # print(f"Summary: {summary}")
 
     end_time = datetime.now()
     seconds = (end_time - start_time).total_seconds()

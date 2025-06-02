@@ -12,6 +12,7 @@ from PIL import Image
 from pydantic import BaseModel, Field, model_validator
 
 import base64
+import json
 import os 
 # import shutil
 import sys
@@ -97,12 +98,12 @@ def intake_img_from_dir(directory):
 
     # Load the PDF file using pypdf library
     for img in directory:
-        uuid = img[5:11]
+        uuid = img[8:13]
         print(f"\tuuid: {uuid}")
         file_address = os.path.join(sys.argv[1], img)
         pil_image = Image.open(file_address)
         image_b64 = convert_to_base64(pil_image)
-        loaded_list_of_img_files[uuid] = file_address
+        loaded_list_of_img_files[uuid] = image_b64
     return loaded_list_of_img_files
 
 def prompt_func(data):
@@ -125,7 +126,7 @@ def QA_prompt(data):
     content_parts.append(text_part)
     return [HumanMessage(content=content_parts)]
 
-def testing_visual_models(img):
+def testing_visual_models(image_b64):
     file_path = img
     pil_image = Image.open(file_path)
     image_b64 = convert_to_base64(pil_image)
@@ -150,10 +151,10 @@ def testing_visual_models(img):
         print(' :)')
     return ocr_result
 
-def extracting_visual(img):
-    file_path = img
-    pil_image = Image.open(file_path)
-    image_b64 = convert_to_base64(pil_image)
+def extracting_visual(image_b64):
+    # file_path = img
+    # pil_image = Image.open(file_path)
+    # image_b64 = convert_to_base64(pil_image)
     ocr_result = []
     for vision_model in vision_model_list:
         print(f"{vision_model} running", flush = True)
@@ -208,7 +209,7 @@ def llm_summarize(data):
     # print(input)
     sprompt = create_prompt(format_instructions)
     for reasoning_model in reasoning_model_list:
-        sllm = OllamaLLM(model = reasoning_model, temperature = 0.0)
+        sllm = OllamaLLM(model = reasoning_model, temperature = 0.0, format = 'json')
         summary_chain = sprompt | sllm | output_parser
         print(f"{reasoning_model} is summarizing:...")
         query_chain = summary_chain.invoke({"data": data})
@@ -222,8 +223,8 @@ if __name__ == "__main__":
     print("Running local at", start_time)
     dir_of_imgs = intake_img_from_dir(file_list_in_directory)
     print(f"Finished {len(dir_of_imgs)} files")
-    ocr_data = []
     for doc_id, doc in dir_of_imgs.items():
+        ocr_data = []
         print(f"-----#####{doc_id}#####-----")
         # extracted_header = llm_extract(doc)
         # prelim_result = testing_visual_models(doc)
@@ -236,10 +237,14 @@ if __name__ == "__main__":
         # print("FINAL:\n\t", qa_result)
         # print(f"For ID {doc_id}, the content is:\n\t{doc}\n\tHeader is: {extracted_header}")
         # print(f"For ID {doc_id}, the content is:\n\t{doc}\n\t")
-    # print(ocr_data)
-    # input = ', '.join(ocr_data)
-    # summary = llm_summarize(input)
-    # print(f"Summary: {summary}")
+        print(ocr_data)
+        input = ', '.join(ocr_data)
+        summary = llm_summarize(input)
+        print(f"Summary: {summary}")
+        json_data = json.dumps(summary, indent = 4)
+        with open('OCR_' + doc_id + '.json', "w") as ocr_result:
+            ocr_result.write(json_data)
+        print(f"{doc_id} written")
 
     end_time = datetime.now()
     seconds = (end_time - start_time).total_seconds()

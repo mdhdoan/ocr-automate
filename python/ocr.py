@@ -228,8 +228,14 @@ if __name__ == "__main__":
         input = ', '.join(ocr_data)
         summary = llm_summarize(input)
         print(f"Summary: {summary}")
+
+        current_directory = os.getcwd()
+        file_name = 'OCR_' + doc_id + '.json'
+        target_directory = current_directory + '/json/'
+        os.makedirs(target_directory, exist_ok = True)
+        output_file = os.path.join(target_directory, file_name)
         json_data = json.dumps(summary, indent = 4)
-        with open('OCR_' + doc_id + '.json', "w") as ocr_result:
+        with open(output_file, "w") as ocr_result:
             ocr_result.write(json_data)
         print(f"{doc_id} written")
 

@@ -78,7 +78,7 @@ output_parser = JsonOutputParser()
 format_instructions = output_parser.get_format_instructions()
 vision_model_list = ["qwen2.5vl"]
 # vision_model_list = ["qwen2.5vl", "llama3.2-vision"]
-reasoning_model_list =["llama3.1", "gemma3"]
+reasoning_model_list =["gemma3"]
 ##### FUNCTIONS #####
 def convert_to_base64(pil_image):
     """
@@ -122,7 +122,10 @@ def intake_img_from_dir(directory):
         file_address = os.path.join(sys.argv[1], img)
         pil_image = Image.open(file_address)
         image_b64 = convert_to_base64(pil_image)
-        loaded_list_of_img_files[uuid] = image_b64
+        if uuid not in loaded_list_of_img_files:
+            loaded_list_of_img_files[uuid] = image_b64
+        else:
+            loaded_list_of_img_files[uuid] = list(set(loaded_list_of_img_files[uuid]) | set([image_b64])) 
     return loaded_list_of_img_files
 
 def testing_visual_models(image_b64):
@@ -200,7 +203,7 @@ def llm_summarize(data):
         summary_chain = sprompt | sllm | output_parser
         print(f"{reasoning_model} is summarizing:...")
         query_chain = summary_chain.invoke({"data": data})
-        summary = query_chain
+        summary += query_chain
     return summary
 
 
@@ -216,6 +219,7 @@ if __name__ == "__main__":
         # extracted_header = llm_extract(doc)
         # prelim_result = testing_visual_models(doc)
         # print("PRELIM:\n\t", prelim_result)
+        doc = ', '.join(doc)
         ocr_data = list(set(ocr_data) | set(extracting_visual(doc)))
         # print("Current ocr_data:")
         # for data in ocr_data:

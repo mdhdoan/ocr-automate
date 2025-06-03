@@ -221,7 +221,7 @@ if __name__ == "__main__":
         # print("PRELIM:\n\t", prelim_result)
         # doc = ', '.join(doc)
         for doc_page in doc:
-            print(doc_page)
+            # print(doc_page)
             ocr_data = list(set(ocr_data) | set(extracting_visual(doc_page)))
         # print("Current ocr_data:")
         # for data in ocr_data:

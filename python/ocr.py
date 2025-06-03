@@ -67,12 +67,12 @@ class QA_Answer(BaseModel):
 
 
 ##### LLM VARIABLES SETTINGS #####
-model_select = 'llava'
-output_parser = PydanticOutputParser(pydantic_object=Docs)  
-format_instructions = output_parser.get_format_instructions()
-llm = OllamaLLM(model = model_select, temperature = 0.0)
-prompt = create_prompt(format_instructions)
-llm_chain = prompt | llm | output_parser
+# model_select = 'llava'
+# output_parser = PydanticOutputParser(pydantic_object=Docs)
+# format_instructions = output_parser.get_format_instructions()
+# llm = OllamaLLM(model = model_select, temperature = 0.0)
+# prompt = create_prompt(format_instructions)
+# llm_chain = prompt | llm | output_parser
 
 output_parser = JsonOutputParser() 
 format_instructions = output_parser.get_format_instructions()

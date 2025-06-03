@@ -123,7 +123,7 @@ def intake_img_from_dir(directory):
         pil_image = Image.open(file_address)
         image_b64 = convert_to_base64(pil_image)
         if uuid not in loaded_list_of_img_files:
-            loaded_list_of_img_files[uuid] = image_b64
+            loaded_list_of_img_files[uuid] = [image_b64]
         else:
             loaded_list_of_img_files[uuid] = list(set(loaded_list_of_img_files[uuid]) | set([image_b64])) 
     return loaded_list_of_img_files
@@ -221,6 +221,7 @@ if __name__ == "__main__":
         # print("PRELIM:\n\t", prelim_result)
         # doc = ', '.join(doc)
         for doc_page in doc:
+            print(doc_page)
             ocr_data = list(set(ocr_data) | set(extracting_visual(doc_page)))
         # print("Current ocr_data:")
         # for data in ocr_data:

@@ -23,18 +23,37 @@ import sys
 file_list_in_directory = [file for file in os.listdir(sys.argv[1]) if file.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.bmp', '.tiff'))]
 
 ##### LLM PROMPTS #####
-# def create_prompt(format_instructions):
-#     QA_TEMPLATE = """
-#         READ THE CURRENT IMAGE ENCASED BY ``` AND FIND THE HEADERS FOR EACH SECTIONS:
-#         ```{document}```
-#         RETURN THE RESULT AS AN OBJECT WITH THOSE HEADERS ONLY.
-#         {format_instructions}
-#     """
-#     #Verify your answer, and if the result list has more than 2 items, then Value has multiple parts. Treat them all as one value only, and ignore the number in brackets in them. Retry to shorten it to format above.
-#     return PromptTemplate(
-#         input_variables=["document"], 
-#         partial_variables={"format_instructions": format_instructions},
-#         template=QA_TEMPLATE)
+def prompt_func(data):
+    text = data["text"]
+    image = data["image"]
+    image_part = {
+        "type": "image_url",
+        "image_url": f"data:image/jpeg;base64,{image}",
+    }
+    content_parts = []
+    text_part = {"type": "text", "text": text}
+    content_parts.append(image_part)
+    content_parts.append(text_part)
+    return [HumanMessage(content=content_parts)]
+
+def QA_prompt(data):
+    text = data["text"]
+    content_parts = []
+    text_part = {"type": "text", "text": text}
+    content_parts.append(text_part)
+    return [HumanMessage(content=content_parts)]
+
+def create_prompt(format_instructions):
+    QA_TEMPLATE = """
+        {format_instructions}
+
+        Read through all information and provide me a summary of them: {data}
+        Then give me the footprint size or area that has been impacted by an activity that is proposed in the data.
+    """
+    return PromptTemplate(
+        input_variables=["data"], 
+        partial_variables={"format_instructions": format_instructions},
+        template=QA_TEMPLATE)
 
 
 # Define your desired data structure.
@@ -48,12 +67,12 @@ class QA_Answer(BaseModel):
 
 
 ##### LLM VARIABLES SETTINGS #####
-# model_select = 'llava'
-# output_parser = PydanticOutputParser(pydantic_object=Docs)  
-# format_instructions = output_parser.get_format_instructions()
-# llm = OllamaLLM(model = model_select, temperature = 0.0)
-# prompt = create_prompt(format_instructions)
-# llm_chain = prompt | llm | output_parser
+model_select = 'llava'
+output_parser = PydanticOutputParser(pydantic_object=Docs)  
+format_instructions = output_parser.get_format_instructions()
+llm = OllamaLLM(model = model_select, temperature = 0.0)
+prompt = create_prompt(format_instructions)
+llm_chain = prompt | llm | output_parser
 
 output_parser = JsonOutputParser() 
 format_instructions = output_parser.get_format_instructions()
@@ -106,30 +125,10 @@ def intake_img_from_dir(directory):
         loaded_list_of_img_files[uuid] = image_b64
     return loaded_list_of_img_files
 
-def prompt_func(data):
-    text = data["text"]
-    image = data["image"]
-    image_part = {
-        "type": "image_url",
-        "image_url": f"data:image/jpeg;base64,{image}",
-    }
-    content_parts = []
-    text_part = {"type": "text", "text": text}
-    content_parts.append(image_part)
-    content_parts.append(text_part)
-    return [HumanMessage(content=content_parts)]
-
-def QA_prompt(data):
-    text = data["text"]
-    content_parts = []
-    text_part = {"type": "text", "text": text}
-    content_parts.append(text_part)
-    return [HumanMessage(content=content_parts)]
-
 def testing_visual_models(image_b64):
-    file_path = img
-    pil_image = Image.open(file_path)
-    image_b64 = convert_to_base64(pil_image)
+    # file_path = img
+    # pil_image = Image.open(file_path)
+    # image_b64 = convert_to_base64(pil_image)
     ocr_result = []
     for vision_model in vision_model_list:
         print(f"{vision_model} running", end = '', flush = True)
@@ -191,18 +190,6 @@ def QA_checker(text_input):
             model_result.append(query_chain) ## ['yes']
         qa_result = list(set(qa_result) | set(model_result)) 
     return qa_result
-
-def create_prompt(format_instructions):
-    QA_TEMPLATE = """
-        {format_instructions}
-
-        Read through all information and provide me a summary of them: {data}
-        Then give me the footprint size or area that has been impacted by an activity that is proposed in the data.
-    """
-    return PromptTemplate(
-        input_variables=["data"], 
-        partial_variables={"format_instructions": format_instructions},
-        template=QA_TEMPLATE)
 
 def llm_summarize(data):
     summary = ''

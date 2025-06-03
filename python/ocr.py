@@ -203,7 +203,7 @@ def llm_summarize(data):
         summary_chain = sprompt | sllm | output_parser
         print(f"{reasoning_model} is summarizing:...")
         query_chain = summary_chain.invoke({"data": data})
-        summary += query_chain
+        summary = query_chain
     return summary
 
 
@@ -233,7 +233,7 @@ if __name__ == "__main__":
         print(ocr_data)
         input = ', '.join(ocr_data)
         summary = llm_summarize(input)
-        print(f"Summary: {summary}")
+        print(f"SUMMARY:\n\t{summary}")
 
         current_directory = os.getcwd()
         file_name = 'OCR_' + doc_id + '.json'

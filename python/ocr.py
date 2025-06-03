@@ -76,7 +76,7 @@ class QA_Answer(BaseModel):
 
 output_parser = JsonOutputParser() 
 format_instructions = output_parser.get_format_instructions()
-vision_model_list = ["minicpm-v"]
+vision_model_list = ["qwen2.5vl"]
 # vision_model_list = ["qwen2.5vl", "llama3.2-vision"]
 reasoning_model_list =["gemma3"]
 ##### FUNCTIONS #####

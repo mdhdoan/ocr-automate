@@ -219,8 +219,9 @@ if __name__ == "__main__":
         # extracted_header = llm_extract(doc)
         # prelim_result = testing_visual_models(doc)
         # print("PRELIM:\n\t", prelim_result)
-        doc = ', '.join(doc)
-        ocr_data = list(set(ocr_data) | set(extracting_visual(doc)))
+        # doc = ', '.join(doc)
+        for doc_page in doc:
+            ocr_data = list(set(ocr_data) | set(extracting_visual(doc_page)))
         # print("Current ocr_data:")
         # for data in ocr_data:
             # print("\t", data[:50], flush = True)

@@ -1,1 +1,34 @@
-{}
+{
+    "activities": [
+        {
+            "activity": "Creation of overwintering pool habitat",
+            "footprint_size": 294,
+            "description": "The construction of stable deep pools that will retain an open-water portion throughout the winter months, allowing fish occupation year-round."
+        },
+        {
+            "activity": "Bank remediation and rehabilitation",
+            "footprint_size": 1113,
+            "description": "The restoration of approximately 1,113 m\u00b2 of an unstable and eroding bank section located immediately downstream of the bridge structure on the east river bank."
+        },
+        {
+            "activity": "Sediment and erosion control measures",
+            "footprint_size": null,
+            "description": "Sediment and erosion control measures must be in place and shall be upgraded and maintained, such that release of sediment is avoided at the location of the authorized work, undertaking, or activity."
+        },
+        {
+            "activity": "Installation of rip-rap",
+            "footprint_size": 1,
+            "description": "The replacement of two corrugated steel pipe (CSP) drainage outlets with a 1 m bottom ditch lined with rip-rap"
+        },
+        {
+            "activity": "Modification of CSP drainage outlet",
+            "footprint_size": null,
+            "description": "The modification of a third CSP drainage outlet to outlet into a controlled pool with a rock pad"
+        },
+        {
+            "activity": "Re-grading of bank section",
+            "footprint_size": null,
+            "description": "The re-grading of the bank section to accommodate the new drainage outlets and reduce erosion"
+        }
+    ]
+}

@@ -1,1 +1,54 @@
-{}
+{
+    "Authorization": {
+        "Proponent": "Baffinland Iron Mines Corporation",
+        "Location": "Milne Port, 134 km southwest of Pond Inlet",
+        "Project Description": "Construction of a Freight dock at the port in Milne Inlet for The Mary River Project"
+    },
+    "Conditions": [
+        {
+            "Condition Number": 1,
+            "Description": "Work, undertaking or activity that results in serious harm to fish is authorized to be carried on during the period from the date of issuance to June 1, 2020",
+            "Footprint Size": null
+        },
+        {
+            "Condition Number": 2.1,
+            "Description": "Sediment and erosion control measures must be in place and shall be upgraded and maintained, such that release of sediment is avoided at the location of the authorized work, undertaking, or activity",
+            "Footprint Size": null
+        },
+        {
+            "Condition Number": 2.1,
+            "Description": "Before commencing any works, undertakings and/or activities that have the potential to release sediment into Milne Inlet or the unnamed stream, the Proponent shall prepare and implement site specific sediment and erosion control plans for any near or in-water works under the guidance of a certified Professional in erosion and sediment control (CPESC or equivalent)",
+            "Footprint Size": null
+        },
+        {
+            "Condition Number": 2.1,
+            "Description": "The erosion and sediment control plans shall include, but not be limited to, the following: Delineation of areas of work; Plan for construction staging and storage logistics, including disposal of spoils; Anticipated construction schedule and construction duration; A description of erosion and sediment control measures to be used during and following construction (purpose, type, location, dimensions and design considerations); Areas of the site susceptible to erosion problems; Areas of the site inspection and maintenance program and schedule",
+            "Footprint Size": null
+        },
+        {
+            "Condition Number": 2.1,
+            "Description": "Turbidity levels shall be monitored in water adjacent to the work zone during construction activities, and works shall be halted if monitoring indicates that the measures and standards to avoid and mitigate serious harm to fish are not successful",
+            "Footprint Size": null
+        },
+        {
+            "Condition Number": 2.1,
+            "Description": "Works shall be halted if monitoring required in condition 3 and 4 below indicated that the measures and standards to avoid and mitigate serious harm to fish are not successful",
+            "Footprint Size": null
+        },
+        {
+            "Condition Number": 2.1,
+            "Description": "Measures and standards to avoid and mitigate serious harm to fish shall be implemented prior to the commencement of construction.",
+            "Footprint Size": null
+        },
+        {
+            "Condition Number": 3,
+            "Description": "The Proponent shall monitor the implementation of avoidance and mitigation measures referred to in section 2 of this authorization and provide a report to DFO, by February 28, 2020",
+            "Footprint Size": null
+        },
+        {
+            "Condition Number": 4.1,
+            "Description": "Course rock substrate will be placed around the perimeter of the freight dock and moorings at Milne Inlet to provide 2729 HEUs of potential fish habitat.",
+            "Footprint Size": 2729
+        }
+    ]
+}

@@ -1,1 +1,18 @@
-{}
+{
+    "offsetting_criteria": {
+        "4.3.1": {
+            "name": "Boulder/cobble placements",
+            "description": "include large, medium and small boulders with D50 of 900 mm, 600 mm and 400 mm respectively.",
+            "footprint_size": "approximately 26.6 m downstream"
+        },
+        "4.3.2": {
+            "name": "Large boulder placements",
+            "description": "placed in lines downstream from the instream piers on 5 m centres starting approximately 4 to 5 m downstream of the pier.",
+            "footprint_size": "approximately 75 m x 15 m"
+        },
+        "4.3.3": {
+            "name": "Offsetting measures completion",
+            "description": "shall be completed by October 9, 2016."
+        }
+    }
+}

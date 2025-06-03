@@ -1,1 +1,24 @@
-{}
+{
+    "activities": [
+        {
+            "activity": "Installation of four cement blocks on the riverbed to support a suspended platform",
+            "footprint_size": 5,
+            "description": "Permanent alteration of fish habitat associated with excavation for the pier footing"
+        },
+        {
+            "activity": "Instream works that include construction of a temporary cofferdam to accommodate excavation and construction of a new midstream pier",
+            "footprint_size": 66,
+            "description": "Permanent alteration of fish habitat associated with construction of the temporary cofferdam around the midstream pier"
+        },
+        {
+            "activity": "Construction of a temporary cofferdam around the west abutment",
+            "footprint_size": 4,
+            "description": "Permanent alteration of fish habitat associated with the installation of four cement blocks on the riverbed to support the suspended working platform"
+        },
+        {
+            "activity": "Fish rescue within the isolated areas prior to dewatering to relocate fish and mussels",
+            "footprint_size": 2,
+            "description": "Death of fish associated with fish rescue and mussel relocation prior to dewatering within the isolated areas"
+        }
+    ]
+}

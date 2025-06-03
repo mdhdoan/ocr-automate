@@ -1,1 +1,41 @@
-{}
+{
+    "Authorization": {
+        "PATH No.": "18-HCAA-00253",
+        "Summary": [
+            {
+                "Section": 2,
+                "Description": "Measures and standards to avoid and mitigate serious harm to fish"
+            },
+            {
+                "Section": 3,
+                "Description": "Monitoring and reporting of measures and standards to avoid and mitigate serious harm to fish"
+            },
+            {
+                "Section": 4,
+                "Description": "Offsetting of the serious harm to fish likely to result from the authorized work, undertaking or activity"
+            }
+        ]
+    },
+    "Impacted Areas": [
+        {
+            "Activity": "Installation /extension of four instream piers for the Stoney Trail Bridges",
+            "Footprint Size": 158
+        },
+        {
+            "Activity": "Installation and maintenance of two instream berms for the pedestrian bridge",
+            "Footprint Size": 1636
+        },
+        {
+            "Activity": "Installation of two instream piers for the pedestrian bridge",
+            "Footprint Size": 8
+        },
+        {
+            "Activity": "Permanent alteration of up to 12,457 m\u00b2 for a time period that spans the normal life history processes for resident fish species.",
+            "Footprint Size": 12457
+        },
+        {
+            "Activity": "Permanent alteration of up to 7,262 m\u00b2 of habitat due to hydraulic impacts in the channel adjacent to and between the berms",
+            "Footprint Size": 7262
+        }
+    ]
+}

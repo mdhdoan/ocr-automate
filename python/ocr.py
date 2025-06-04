@@ -246,7 +246,7 @@ def llm_summarize(data):
 if __name__ == "__main__": 
     start_time = datetime.now()
     print("Running local at", start_time)
-    dir_of_files = intake_pdf_from_dir(file_list_in_directory)
+    dir_of_files = intake_img_from_dir(file_list_in_directory)
     print(f"Finished {len(dir_of_files)} files")
     for doc_id, doc in dir_of_files.items():
         ocr_data = []
@@ -257,9 +257,9 @@ if __name__ == "__main__":
         # doc = ', '.join(doc)
         for doc_page in doc:
             # print(doc_page)
-            # ocr_data = list(set(ocr_data) | set(extracting_visual_img(doc_page)))
+            ocr_data = list(set(ocr_data) | set(extracting_visual_img(doc_page)))
         # print(doc_page)
-            ocr_data = list(set(ocr_data) | set(extracting_visual_pdf(doc_page)))
+            # ocr_data = list(set(ocr_data) | set(extracting_visual_pdf(doc_page)))
         # print("Current ocr_data:")
         # for data in ocr_data:
             # print("\t", data[:50], flush = True)

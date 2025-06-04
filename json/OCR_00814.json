@@ -1,18 +1,16 @@
 {
-    "offsetting_criteria": {
-        "4.3.1": {
-            "name": "Boulder/cobble placements",
-            "description": "include large, medium and small boulders with D50 of 900 mm, 600 mm and 400 mm respectively.",
-            "footprint_size": "approximately 26.6 m downstream"
+    "data": [
+        {
+            "activity": "Dam construction",
+            "footprint_size": "9.4 hectares"
         },
-        "4.3.2": {
-            "name": "Large boulder placements",
-            "description": "placed in lines downstream from the instream piers on 5 m centres starting approximately 4 to 5 m downstream of the pier.",
-            "footprint_size": "approximately 75 m x 15 m"
+        {
+            "activity": "Boulder/cobble placements",
+            "footprint_size": "26.6 meters downstream of the concrete sill"
         },
-        "4.3.3": {
-            "name": "Offsetting measures completion",
-            "description": "shall be completed by October 9, 2016."
+        {
+            "activity": "Large boulders placement",
+            "footprint_size": "5 rows of 15 boulders, approximately 4 to 5 m downstream of the pier"
         }
-    }
+    ]
 }

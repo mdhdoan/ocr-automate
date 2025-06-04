@@ -1,41 +1,40 @@
 {
-    "Authorization": {
-        "PATH No.": "18-HCAA-00253",
-        "Summary": [
-            {
-                "Section": 2,
-                "Description": "Measures and standards to avoid and mitigate serious harm to fish"
-            },
-            {
-                "Section": 3,
-                "Description": "Monitoring and reporting of measures and standards to avoid and mitigate serious harm to fish"
-            },
-            {
-                "Section": 4,
-                "Description": "Offsetting of the serious harm to fish likely to result from the authorized work, undertaking or activity"
-            }
-        ]
-    },
-    "Impacted Areas": [
+    "PATH No.": "18-HCAA-00253",
+    "Activities": [
         {
-            "Activity": "Installation /extension of four instream piers for the Stoney Trail Bridges",
-            "Footprint Size": 158
+            "Activity": "Installation /extension of four instream piers for the Stoney Trail Bridges covering 158 m\u00b2.",
+            "Footprint Size": 158,
+            "Description": "Installation/extension of four instream piers"
         },
         {
-            "Activity": "Installation and maintenance of two instream berms for the pedestrian bridge",
-            "Footprint Size": 1636
+            "Activity": "Installation and maintenance of two instream berms for the pedestrian bridge covering 1,636 m\u00b2 for 14 months.",
+            "Footprint Size": 1636,
+            "Description": "Installation and maintenance of two instream berms"
         },
         {
-            "Activity": "Installation of two instream piers for the pedestrian bridge",
-            "Footprint Size": 8
+            "Activity": "Installation of two instream piers for the pedestrian bridge covering 8 m\u00b2.",
+            "Footprint Size": 8,
+            "Description": "Installation of two instream piers"
         },
         {
-            "Activity": "Permanent alteration of up to 12,457 m\u00b2 for a time period that spans the normal life history processes for resident fish species.",
-            "Footprint Size": 12457
+            "Activity": "Replacement of two existing bridges with two wider three-span bridges across the Bow River to accommodate future traffic on the South Calgary Ring Road.",
+            "Footprint Size": 12457,
+            "Description": "Replacement of two existing bridges"
         },
         {
-            "Activity": "Permanent alteration of up to 7,262 m\u00b2 of habitat due to hydraulic impacts in the channel adjacent to and between the berms",
-            "Footprint Size": 7262
+            "Activity": "Installation of a 3,042 m\u00b2 berm on the east bank with a 1,467 m\u00b2 central berm extending towards the central pier in the existing eastbound bridge.",
+            "Footprint Size": 3042,
+            "Description": "Installation of a 3,042 m\u00b2 berm"
+        },
+        {
+            "Activity": "Installation of a 6,312 m\u00b2 berm on the west bank to facilitate removal of one pier (18 m\u00b2), extension of another pier (19 m\u00b2), and installation of a new pier (60 m\u00b2).",
+            "Footprint Size": 6312,
+            "Description": "Installation of a 6,312 m\u00b2 berm"
+        },
+        {
+            "Activity": "A new pedestrian bridge will be constructed over the Bow River approximately 230 m downstream of the bridge replacement.",
+            "Footprint Size": 563,
+            "Description": "Construction of a new pedestrian bridge"
         }
     ]
 }

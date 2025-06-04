@@ -1,70 +1,12 @@
 {
-    "2.1 Sediment and erosion control": {
-        "description": "Sediment and erosion control measures must be in place and shall be upgraded and maintained, such that release of sediment is avoided at the location of the authorized work, undertaking, or activity.",
-        "footprint_size": null
-    },
-    "2.1.1 Effective erosion and sediment control measures shall be in place prior to, during, and after construction activities and until revegetation or other mitigation measures are sufficient to control erosion": {
-        "description": "Effective erosion and sediment control measures shall be in place prior to, during, and after construction activities and until revegetation or other mitigation measures are sufficient to control erosion.",
-        "footprint_size": null
-    },
-    "2.1.2 Measures for managing water flowing onto the site shall be implemented such that sediment is filtered out prior to the water entering a waterbody": {
-        "description": "Measures for managing water flowing onto the site shall be implemented such that sediment is filtered out prior to the water entering a waterbody.",
-        "footprint_size": null
-    },
-    "2.1.3 Waste material (e.g., dredging spoils, construction waste and materials, commercial logging waste, uprooted or cut aquatic plants, accumulated debris) shall be stored above the high water level, and located and stabilized so that it cannot enter the watercourse": {
-        "description": "Waste material (e.g., dredging spoils, construction waste and materials, commercial logging waste, uprooted or cut aquatic plants, accumulated debris) shall be stored above the high water level, and located and stabilized so that it cannot enter the watercourse.",
-        "footprint_size": null
-    },
-    "2.1.4 Work that could result in sedimentation shall stop during periods of heavy or persistent rainfall": {
-        "description": "Work that could result in sedimentation shall stop during periods of heavy or persistent rainfall.",
-        "footprint_size": null
-    },
-    "2.2 List of measures and standards to avoid and mitigate impacts to fish and fish habitat": {
-        "description": "To protect spawning fish, their incubating eggs and larval life stages, no in-water works shall occur during the restricted activity timing window of March 15 to June 15 of any given year.",
-        "footprint_size": null
-    },
-    "4.2.8 Construction of six (6) pools, each with a bankfull depth of 1.4 m, on the outside of meander bends within the new, realigned channel of Reach SN02 of Seneca Creek": {
-        "description": "Construction of six (6) pools, each with a bankfull depth of 1.4 m, on the outside of meander bends within the new, realigned channel of Reach SN02 of Seneca Creek.",
-        "footprint_size": null
-    },
-    "4.2.9 Construction of seven (7) riffle features within the new, realigned channel of Reach SN02 of Seneca Creek": {
-        "description": "Construction of seven (7) riffle features within the new, realigned channel of Reach SN02 of Seneca Creek.",
-        "footprint_size": null
-    },
-    "4.2.10 Construction of a new, realigned channel within the unnamed tributary of Seneca Creek to create an additional 140 m of new channel": {
-        "description": "Construction of a new, realigned channel within the unnamed tributary of Seneca Creek to create an additional 140 m of new channel.",
-        "footprint_size": null
-    },
-    "4.2.11 Planting of riparian vegetation, consisting of deciduous and coniferous trees, shrubs, native grasses, wetland emergent plug plantings, and live staking adjacent to Seneca Creek as per the Restoration Planting Plans, drawings LP-0 to LP-6, prepared by MMM Group, dated December 2015": {
-        "description": "Planting of riparian vegetation, consisting of deciduous and coniferous trees, shrubs, native grasses, wetland emergent plug plantings, and live staking adjacent to Seneca Creek as per the Restoration Planting Plans, drawings LP-0 to LP-6, prepared by MMM Group, dated December 2015.",
-        "footprint_size": null
-    },
-    "4.2.1 Removal of a barrier to flow at an informal farm crossing in Reach SN01 of Seneca Creek": {
-        "description": "Removal of a barrier to flow at an informal farm crossing in Reach SN01 of Seneca Creek.",
-        "footprint_size": null
-    },
-    "4.2.2 Removal of instream emergent vegetation (cattails) and associated sediment deposits in Reach SN01 of Seneca Creek to facilitate construction of downstream pools and connecting riffle feature": {
-        "description": "Removal of instream emergent vegetation (cattails) and associated sediment deposits in Reach SN01 of Seneca Creek to facilitate construction of downstream pools and connecting riffle feature.",
-        "footprint_size": null
-    },
-    "4.2.3 Construction of three (3) pools, each with a bankfull depth of 0.7 m, within the existing channel of Reach SN01": {
-        "description": "Construction of three (3) pools, each with a bankfull depth of 0.7 m, within the existing channel of Reach SN01.",
-        "footprint_size": null
-    },
-    "4.2.4 Construction of two (2) riffle features within the existing channel of Reach SN01": {
-        "description": "Construction of two (2) riffle features within the existing channel of Reach SN01.",
-        "footprint_size": null
-    },
-    "4.2.5 Construction of a riffle feature and continuous low flow channel between the two downstream pools within Reach SN01 of Seneca Creek": {
-        "description": "Construction of a riffle feature and continuous low flow channel between the two downstream pools within Reach SN01 of Seneca Creek.",
-        "footprint_size": null
-    },
-    "4.2.6 Realignment of the inside of an existing meander bend near the downstream limit of Reach SN01 of Seneca Creek to create a point bar to stabilize the meander bend": {
-        "description": "Realignment of the inside of an existing meander bend near the downstream limit of Reach SN01 of Seneca Creek to create a point bar to stabilize the meander bend.",
-        "footprint_size": null
-    },
-    "4.2.7 Construction of a new, realigned channel within Reach SN02 of Seneca Creek": {
-        "description": "Construction of a new, realigned channel within Reach SN02 of Seneca Creek.",
-        "footprint_size": null
-    }
+    "data": [
+        {
+            "key": "Activity",
+            "value": "Construction of a new, realigned channel within Reach SN02 of Seneca Creek"
+        },
+        {
+            "key": "Footprint Size (m2)",
+            "value": 14000
+        }
+    ]
 }

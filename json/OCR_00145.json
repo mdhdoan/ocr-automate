@@ -1,34 +1,24 @@
 {
     "activities": [
         {
-            "activity": "Creation of overwintering pool habitat",
-            "footprint_size": 294,
-            "description": "The construction of stable deep pools that will retain an open-water portion throughout the winter months, allowing fish occupation year-round."
+            "name": "Installation of temporary rock causeways",
+            "footprint_size": 779,
+            "description": "Temporary rock causeways with a combined footprint of 779 m\u00b2 below the high water mark of the Grand River for a duration of approximately 6 months during year one of construction."
         },
         {
-            "activity": "Bank remediation and rehabilitation",
-            "footprint_size": 1113,
-            "description": "The restoration of approximately 1,113 m\u00b2 of an unstable and eroding bank section located immediately downstream of the bridge structure on the east river bank."
+            "name": "Installation of temporary rock causeways",
+            "footprint_size": 1057,
+            "description": "Temporary rock causeways with a combined footprint of 1057 m\u00b2 below the high water mark of the Grand River for a duration of approximately 6 months during year two of construction."
         },
         {
-            "activity": "Sediment and erosion control measures",
-            "footprint_size": null,
-            "description": "Sediment and erosion control measures must be in place and shall be upgraded and maintained, such that release of sediment is avoided at the location of the authorized work, undertaking, or activity."
+            "name": "Installation of temporary rock causeways",
+            "footprint_size": 227,
+            "description": "Temporary rock causeways with a combined footprint of 227 m\u00b2 below the high water mark of the Grand River for a duration of approximately 6 months during year three of construction."
         },
         {
-            "activity": "Installation of rip-rap",
-            "footprint_size": 1,
-            "description": "The replacement of two corrugated steel pipe (CSP) drainage outlets with a 1 m bottom ditch lined with rip-rap"
-        },
-        {
-            "activity": "Modification of CSP drainage outlet",
-            "footprint_size": null,
-            "description": "The modification of a third CSP drainage outlet to outlet into a controlled pool with a rock pad"
-        },
-        {
-            "activity": "Re-grading of bank section",
-            "footprint_size": null,
-            "description": "The re-grading of the bank section to accommodate the new drainage outlets and reduce erosion"
+            "name": "Installation of new bridge piers",
+            "footprint_size": 677,
+            "description": "Two new bridge piers with a combined footprint of 677 m\u00b2 below the high water mark of the Grand River."
         }
     ]
 }

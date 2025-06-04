@@ -1,4 +1,16 @@
 {
-    "footprint_size": 0.75,
-    "description": "The realignment and decommissioning of the lower 375 m of Hooper Drain to the east, around the enlarged SWM pond."
+    "activities": [
+        {
+            "name": "Creation of marsh habitat",
+            "footprint_size": 600
+        },
+        {
+            "name": "Restoration of an unnamed tributary to Lavallee Creek",
+            "footprint_size": 1539
+        },
+        {
+            "name": "Riparian buffer planting",
+            "footprint_size": 10332
+        }
+    ]
 }

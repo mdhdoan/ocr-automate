@@ -1,23 +1,23 @@
 {
     "activities": [
         {
-            "activity": "Installation of four cement blocks on the riverbed to support a suspended platform",
+            "name": "Installation of four cement blocks on the riverbed to support a suspended platform",
             "footprint_size": 5,
-            "description": "Permanent alteration of fish habitat associated with excavation for the pier footing"
+            "description": "Permanent alteration of fish habitat associated with installation of four cement blocks"
         },
         {
-            "activity": "Instream works that include construction of a temporary cofferdam to accommodate excavation and construction of a new midstream pier",
+            "name": "Instream works that include construction of a temporary cofferdam to accommodate excavation and construction of a new midstream pier",
             "footprint_size": 66,
-            "description": "Permanent alteration of fish habitat associated with construction of the temporary cofferdam around the midstream pier"
+            "description": "Permanent alteration of fish habitat associated with construction of a temporary cofferdam around the midstream pier"
         },
         {
-            "activity": "Construction of a temporary cofferdam around the west abutment",
+            "name": "Construction of a temporary cofferdam around the west abutment",
             "footprint_size": 4,
-            "description": "Permanent alteration of fish habitat associated with the installation of four cement blocks on the riverbed to support the suspended working platform"
+            "description": "Permanent alteration of fish habitat associated with construction of a temporary cofferdam around the west abutment"
         },
         {
-            "activity": "Fish rescue within the isolated areas prior to dewatering to relocate fish and mussels",
-            "footprint_size": 2,
+            "name": "Fish rescue within the isolated areas prior to dewatering to relocate fish and mussels",
+            "footprint_size": null,
             "description": "Death of fish associated with fish rescue and mussel relocation prior to dewatering within the isolated areas"
         }
     ]

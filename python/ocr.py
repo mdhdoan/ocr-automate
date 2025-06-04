@@ -123,6 +123,7 @@ def intake_img_from_dir(directory):
         uuid = img[8:13]
         print(f"\tuuid: {uuid}")
         file_address = os.path.join(sys.argv[1], img)
+        print(f"\tfile_address: {file_address}")
         pil_image = Image.open(file_address)
         image_b64 = convert_to_base64(pil_image)
         if uuid not in loaded_list_of_img_files:

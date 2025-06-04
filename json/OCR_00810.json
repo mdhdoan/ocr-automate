@@ -1,34 +1,28 @@
 {
     "data": [
         {
-            "key": "Activity",
-            "value": "Incidental death of fish due to: The construction, commissioning and removal of cofferdams; Incidental stranding from the dewatering of wetted areas within the cofferdams.",
-            "footprint_size": null
+            "activity": "Installation of upstream and downstream slim cofferdams",
+            "footprint_size": 7200
         },
         {
-            "key": "Activity",
-            "value": "Permanent alteration to fish habitat, including:",
-            "footprint_size": 1365
+            "activity": "Demolition and removal of existing water control dam",
+            "footprint_size": 7200
         },
         {
-            "key": "Activity",
-            "value": "Permanent alteration to fish habitat, including:",
-            "footprint_size": 1665
+            "activity": "Construction of new water control structure",
+            "footprint_size": 14400
         },
         {
-            "key": "Activity",
-            "value": "Permanent alteration to fish habitat, including:",
-            "footprint_size": 3430
+            "activity": "Installation of upstream granular cofferdams",
+            "footprint_size": 3600
         },
         {
-            "key": "Activity",
-            "value": "Permanent alteration to fish habitat, including:",
-            "footprint_size": 4325
+            "activity": "Isolation of upstream work areas",
+            "footprint_size": 7200
         },
         {
-            "key": "Activity",
-            "value": "Destruction of fish habitat, including: The 1,883 m\u00b2 footprint of the new water control dam which will result in the destruction of spawning, rearing, and foraging habitat.",
-            "footprint_size": 1883
+            "activity": "Alterations to upstream slim cofferdam",
+            "footprint_size": 14400
         }
     ]
 }

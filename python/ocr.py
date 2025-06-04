@@ -82,9 +82,22 @@ vision_model_list = ["minicpm-v", "gemma3", "qwen2.5vl", "llama3.2-vision"]
 # vision_model_list = ["qwen2.5vl", "llama3.2-vision"]
 reasoning_model_list =["llama3.1"]
 ##### FUNCTIONS #####
-def convert_to_base64(pil_image):
+def convert_img_to_base64(pil_image):
     """
     Convert PIL images to Base64 encoded strings
+
+    :param pil_image: PIL image
+    :return: Re-sized Base64 string
+    """
+
+    buffered = BytesIO()
+    pil_image.save(buffered, format="JPEG")  # You can change the format if needed
+    img_str = base64.b64encode(buffered.getvalue()).decode("utf-8")
+    return img_str
+
+def convert_pdf_to_base64(pil_image):
+    """
+    Convert PDF images to Base64 encoded strings
 
     :param pil_image: PIL image
     :return: Re-sized Base64 string
@@ -125,7 +138,7 @@ def intake_img_from_dir(directory):
         file_address = os.path.join(sys.argv[1], img)
         print(f"\tfile_address: {file_address}")
         pil_image = Image.open(file_address)
-        image_b64 = convert_to_base64(pil_image)
+        image_b64 = convert_img_to_base64(pil_image)
         if uuid not in loaded_list_of_img_files:
             loaded_list_of_img_files[uuid] = [image_b64]
         else:
@@ -157,10 +170,28 @@ def testing_visual_models(image_b64):
         print(' :)')
     return ocr_result
 
-def extracting_visual(image_b64):
+def extracting_visual_img(image_b64):
     # file_path = img
     # pil_image = Image.open(file_path)
     # image_b64 = convert_to_base64(pil_image)
+    ocr_result = []
+    for vision_model in vision_model_list:
+        print(f"{vision_model} running", flush = True)
+        llm = ChatOllama(model=vision_model, temperature=0)
+        chain = prompt_func | llm | StrOutputParser()
+        query_chain = chain.invoke(
+            {
+                "text": """
+                    Read through all information and extract the text as closely as possible.
+                """, 
+                "image": image_b64
+            }
+        )
+        # print("\t", query_chain[:50], flush = True)
+        ocr_result.append(query_chain)
+    return ocr_result
+
+def extracting_visual_pdf(pdf_file):
     ocr_result = []
     for vision_model in vision_model_list:
         print(f"{vision_model} running", flush = True)
@@ -215,9 +246,9 @@ def llm_summarize(data):
 if __name__ == "__main__": 
     start_time = datetime.now()
     print("Running local at", start_time)
-    dir_of_imgs = intake_img_from_dir(file_list_in_directory)
-    print(f"Finished {len(dir_of_imgs)} files")
-    for doc_id, doc in dir_of_imgs.items():
+    dir_of_files = intake_pdf_from_dir(file_list_in_directory)
+    print(f"Finished {len(dir_of_files)} files")
+    for doc_id, doc in dir_of_files.items():
         ocr_data = []
         print(f"-----#####{doc_id}#####-----")
         # extracted_header = llm_extract(doc)
@@ -226,7 +257,9 @@ if __name__ == "__main__":
         # doc = ', '.join(doc)
         for doc_page in doc:
             # print(doc_page)
-            ocr_data = list(set(ocr_data) | set(extracting_visual(doc_page)))
+            # ocr_data = list(set(ocr_data) | set(extracting_visual_img(doc_page)))
+        # print(doc_page)
+            ocr_data = list(set(ocr_data) | set(extracting_visual_pdf(doc_page)))
         # print("Current ocr_data:")
         # for data in ocr_data:
             # print("\t", data[:50], flush = True)

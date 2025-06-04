@@ -86,7 +86,7 @@ import httpx
 from langchain.chat_models import init_chat_model
 
 # Fetch PDF data
-pdf_url = "https://pdfobject.com/pdf/sample.pdf"
+pdf_url = sys.argv[1]
 pdf_data = base64.b64encode(httpx.get(pdf_url).content).decode("utf-8")
 
 

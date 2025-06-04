@@ -48,7 +48,7 @@ def create_prompt(format_instructions):
         {format_instructions}
 
         Read through all information and provide me a summary of them: {data}
-        Then give me the footprint size or area that has been impacted by any activity that is proposed in the data.
+        Then give me the footprint size or area that has been impacted by any activity that is proposed in the data. Use meter sq
         Make "activity" and "footprint size" as one of the key for the json result
     """
     return PromptTemplate(
@@ -109,6 +109,7 @@ def intake_pdf_from_dir(directory):
         uuid = pdf[5:11]
         print(f"\tuuid: {uuid}")
         file_address = os.path.join(sys.argv[1], pdf)
+        print(f"\tfile_address: {file_address}")
         # pdf_file = pdfquery.PDFQuery(file_address)
         with open(file_address, 'rt', encoding='utf-8') as pdf_file:
             loaded_list_of_pdf_files[uuid] = pdf_file

@@ -1,12 +1,8 @@
 {
-    "data": [
-        {
-            "key": "Activity",
-            "value": "Construction of a new, realigned channel within Reach SN02 of Seneca Creek"
-        },
-        {
-            "key": "Footprint Size (m2)",
-            "value": 14000
-        }
-    ]
+    "authorization_number": "12345",
+    "date_of_issuance": "Oct 16, 2019",
+    "approved_by": "David Nanang",
+    "title": "Regional Director General",
+    "department": "Fisheries and Oceans Canada",
+    "region": "Central and Arctic Region"
 }

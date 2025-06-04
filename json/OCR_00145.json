@@ -1,24 +1,96 @@
 {
-    "activities": [
+    "Authorization": {
+        "id": "12345",
+        "date_of_issuance": "2020-01-10",
+        "approved_by": "David Nanang",
+        "title": "Regional Director General, Central and Arctic Region, Fisheries and Oceans Canada"
+    },
+    "Conditions": [
         {
-            "name": "Installation of temporary rock causeways",
-            "footprint_size": 779,
-            "description": "Temporary rock causeways with a combined footprint of 779 m\u00b2 below the high water mark of the Grand River for a duration of approximately 6 months during year one of construction."
+            "condition_number": 1,
+            "description": "The Proponent is solely responsible for plans and specifications relating to this authorization and for all design, safety and workmanship aspects of all the works associated with this authorization."
         },
         {
-            "name": "Installation of temporary rock causeways",
-            "footprint_size": 1057,
-            "description": "Temporary rock causeways with a combined footprint of 1057 m\u00b2 below the high water mark of the Grand River for a duration of approximately 6 months during year two of construction."
-        },
-        {
-            "name": "Installation of temporary rock causeways",
-            "footprint_size": 227,
-            "description": "Temporary rock causeways with a combined footprint of 227 m\u00b2 below the high water mark of the Grand River for a duration of approximately 6 months during year three of construction."
-        },
-        {
-            "name": "Installation of new bridge piers",
-            "footprint_size": 677,
-            "description": "Two new bridge piers with a combined footprint of 677 m\u00b2 below the high water mark of the Grand River."
+            "condition_number": 2,
+            "description": "This authorization does not purport to release the applicant from any obligation to obtain permission from or to comply with the requirements of any other regulatory agencies."
         }
-    ]
+    ],
+    "Authorization_Limitations_and_Application_Conditions": [
+        {
+            "limitation": "The Proponent is solely responsible for plans and specifications relating to this authorization and for all design, safety and workmanship aspects of all the works associated with this authorization.",
+            "application_condition": "This authorization does not purport to release the applicant from any obligation to obtain permission from or to comply with the requirements of any other regulatory agencies."
+        }
+    ],
+    "Monitoring_and_Reporting": [
+        {
+            "schedule": "The Proponent shall conduct monitoring of the implementation of offsetting measures according to the approved offsetting plan, as summarized in the timeline and criteria below.",
+            "criteria": "Photographic Documentation: A digital photographic record of pre-construction, during construction and post-construction conditions shall be compiled using the same vantage points and direction."
+        }
+    ],
+    "Offsetting_Measures": [
+        {
+            "measure_number": 1,
+            "description": "Creation of overwintering pool habitat",
+            "criteria": "All created habitat shall retain depths of no less than 1.7 m, shall maintain typical pool substrate, shall not significantly disrupt other morphological features of the river, shall maintain temperatures suitable for fish survival over the winter months and shall be actively utilized by fish."
+        },
+        {
+            "measure_number": 2,
+            "description": "Bank remediation and rehabilitation",
+            "criteria": "The restored bank section and drainage outlets shall be stable and show no signs of excessive erosion beyond the natural range."
+        }
+    ],
+    "Contingency_Measures": [
+        {
+            "measure_number": 1,
+            "description": "If the results of monitoring as required in condition 5 indicate that the offsetting measures are not completed by the date specified and/or are not functioning according to the above criteria in 4.2, the Proponent shall give written notice to DFO and shall implement the contingency measures and associated monitoring measures, as contained within the approved offsetting plan, in consultation with DFO, to ensure the implementation of the offsetting measures is completed and/or functioning as required by this authorization."
+        }
+    ],
+    "Pydantic_Model": {
+        "Authorization": {
+            "id": "12345",
+            "date_of_issuance": "2020-01-10",
+            "approved_by": "David Nanang",
+            "title": "Regional Director General, Central and Arctic Region, Fisheries and Oceans Canada"
+        },
+        "Conditions": [
+            {
+                "condition_number": 1,
+                "description": "The Proponent is solely responsible for plans and specifications relating to this authorization and for all design, safety and workmanship aspects of all the works associated with this authorization."
+            },
+            {
+                "condition_number": 2,
+                "description": "This authorization does not purport to release the applicant from any obligation to obtain permission from or to comply with the requirements of any other regulatory agencies."
+            }
+        ],
+        "Authorization_Limitations_and_Application_Conditions": [
+            {
+                "limitation": "The Proponent is solely responsible for plans and specifications relating to this authorization and for all design, safety and workmanship aspects of all the works associated with this authorization.",
+                "application_condition": "This authorization does not purport to release the applicant from any obligation to obtain permission from or to comply with the requirements of any other regulatory agencies."
+            }
+        ],
+        "Monitoring_and_Reporting": [
+            {
+                "schedule": "The Proponent shall conduct monitoring of the implementation of offsetting measures according to the approved offsetting plan, as summarized in the timeline and criteria below.",
+                "criteria": "Photographic Documentation: A digital photographic record of pre-construction, during construction and post-construction conditions shall be compiled using the same vantage points and direction."
+            }
+        ],
+        "Offsetting_Measures": [
+            {
+                "measure_number": 1,
+                "description": "Creation of overwintering pool habitat",
+                "criteria": "All created habitat shall retain depths of no less than 1.7 m, shall maintain typical pool substrate, shall not significantly disrupt other morphological features of the river, shall maintain temperatures suitable for fish survival over the winter months and shall be actively utilized by fish."
+            },
+            {
+                "measure_number": 2,
+                "description": "Bank remediation and rehabilitation",
+                "criteria": "The restored bank section and drainage outlets shall be stable and show no signs of excessive erosion beyond the natural range."
+            }
+        ],
+        "Contingency_Measures": [
+            {
+                "measure_number": 1,
+                "description": "If the results of monitoring as required in condition 5 indicate that the offsetting measures are not completed by the date specified and/or are not functioning according to the above criteria in 4.2, the Proponent shall give written notice to DFO and shall implement the contingency measures and associated monitoring measures, as contained within the approved offsetting plan, in consultation with DFO, to ensure the implementation of the offsetting measures is completed and/or functioning as required by this authorization."
+            }
+        ]
+    }
 }

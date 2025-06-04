@@ -1,16 +1,7 @@
 {
-    "data": [
-        {
-            "activity": "Dam construction",
-            "footprint_size": "9.4 hectares"
-        },
-        {
-            "activity": "Boulder/cobble placements",
-            "footprint_size": "26.6 meters downstream of the concrete sill"
-        },
-        {
-            "activity": "Large boulders placement",
-            "footprint_size": "5 rows of 15 boulders, approximately 4 to 5 m downstream of the pier"
-        }
-    ]
+    "authorization_number": "14-HCAA-00814",
+    "date_of_issuance": "JUN 05 2015",
+    "approved_by": "David Burden",
+    "title": "Regional Director General",
+    "region": "Central and Arctic Region"
 }

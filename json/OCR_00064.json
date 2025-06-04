@@ -1,16 +1,79 @@
 {
-    "activities": [
-        {
-            "name": "Creation of marsh habitat",
-            "footprint_size": 600
+    "Authorization": {
+        "id": "18-HCAA-00064",
+        "date_of_issuance": "07/2020",
+        "approved_by": {
+            "name": "David Nanang",
+            "title": "Regional Director General",
+            "organization": "Fisheries and Oceans Canada"
         },
-        {
-            "name": "Restoration of an unnamed tributary to Lavallee Creek",
-            "footprint_size": 1539
-        },
-        {
-            "name": "Riparian buffer planting",
-            "footprint_size": 10332
-        }
-    ]
+        "conditions": [
+            {
+                "type": "Monitoring and Reporting of Implementation of Offsetting Measures",
+                "schedule_and_criteria": {
+                    "years": [
+                        2022,
+                        2023,
+                        2024,
+                        2026
+                    ],
+                    "photographic_documentation": "A digital photographic record of pre-construction, during construction and post-construction conditions shall be compiled using the same vantage points and direction (all years).",
+                    "as-built_survey": "An as-built survey shall be conducted within 3 months of completion of the offsetting construction, and reported on in year 1 (2022)."
+                },
+                "list_of_reports_to_be_provided_to_dfo": [
+                    {
+                        "type": "Post-Construction Monitoring Report",
+                        "due_date": "June 14, 2022"
+                    },
+                    {
+                        "type": "Annual Monitoring Reports",
+                        "due_dates": [
+                            "December 31, 2022",
+                            "December 31, 2023",
+                            "December 31, 2024",
+                            "December 31, 2026"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Monitoring and Reporting of Implementation of Offsetting Measures (Contingency)",
+                "schedule_and_criteria": {
+                    "years": [
+                        2022,
+                        2023,
+                        2024,
+                        2026
+                    ],
+                    "photographic_documentation": "A digital photographic record of pre-construction, during construction and post-construction conditions shall be compiled using the same vantage points and direction (all years).",
+                    "as-built_survey": "An as-built survey shall be conducted within 3 months of completion of the offsetting construction, and reported on in year 1 (2022)."
+                },
+                "list_of_reports_to_be_provided_to_dfo": [
+                    {
+                        "type": "Post-Construction Monitoring Report",
+                        "due_date": "June 14, 2022"
+                    },
+                    {
+                        "type": "Annual Monitoring Reports",
+                        "due_dates": [
+                            "December 31, 2022",
+                            "December 31, 2023",
+                            "December 31, 2024",
+                            "December 31, 2026"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "Authorization Limitations and Application Conditions",
+                "description": "The Proponent is solely responsible for plans and specifications relating to this authorization and for all design, safety and workmanship aspects of all the works associated with this authorization."
+            }
+        ],
+        "authorization_limitations_and_application_conditions": [
+            {
+                "type": "Authorization Limitations and Application Conditions",
+                "description": "The Proponent is solely responsible for plans and specifications relating to this authorization and for all design, safety and workmanship aspects of all the works associated with this authorization."
+            }
+        ]
+    }
 }

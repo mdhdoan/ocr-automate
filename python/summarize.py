@@ -61,8 +61,7 @@ class Answer(BaseModel):
 
 
 ##### LLM VARIABLES SETTINGS #####
-output_parser = PydanticOutputParser(pydantic_object=Answer)
-str_output_parser = StrOutputParser() 
+output_parser = JsonOutputParser(pydantic_object=Answer)
 format_instructions = output_parser.get_format_instructions()
 reasoning_model_list =["llama3.1"]
 ##### FUNCTIONS #####
@@ -70,7 +69,8 @@ def import_txt_files(directory):
     library_of_files = {}
     for file in directory:
         uuid = file[:-4]
-        with open(file, 'rt', encoding='utf-8') as text_file:
+        file_address = os.path.join(sys.argv[1], file)
+        with open(file_address, 'rt', encoding='utf-8') as text_file:
             library_of_files[uuid] = text_file.read()
     return library_of_files
     
@@ -101,12 +101,8 @@ if __name__ == "__main__":
     for doc_id, doc in dir_of_files.items():
         ocr_data = ''
         print(f"-----#####{doc_id}#####-----")
-        # extracted_header = llm_extract(doc)
-        # prelim_result = testing_visual_models(doc)
-        # print("PRELIM:\n\t", prelim_result)
-        # doc = ', '.join(doc)
         # for doc_page in doc:
-        print(doc[:100])
+        # print(doc[:100])
             # ocr_data = list(set(ocr_data) | set(extracting_visual_pdf(doc_page)))
         # print("Current ocr_data:")
         # for data in ocr_data:
@@ -117,18 +113,18 @@ if __name__ == "__main__":
         # print(f"For ID {doc_id}, the content is:\n\t{doc}\n\t")
         # print(ocr_data)
         # input = ', '.join(ocr_data)
-        # summary = llm_summarize(ocr_data)
-        # print(f"SUMMARY:\n\t{summary}")
+        summary = llm_summarize(doc)
+        print(f"SUMMARY:\n\t{summary}")
 
-        # current_directory = os.getcwd()
-        # file_name = 'OCR_' + doc_id + '.json'
-        # target_directory = current_directory + '/json/'
-        # os.makedirs(target_directory, exist_ok = True)
-        # output_file = os.path.join(target_directory, file_name)
-        # json_data = json.dumps(summary, indent = 4)
-        # with open(output_file, "w") as ocr_result:
-        #     ocr_result.write(json_data)
-        # print(f"{doc_id} written")
+        current_directory = os.getcwd()
+        file_name = doc_id + '.json'
+        target_directory = current_directory + '/json/'
+        os.makedirs(target_directory, exist_ok = True)
+        output_file = os.path.join(target_directory, file_name)
+        json_data = json.dumps(summary, indent = 4)
+        with open(output_file, "w") as ocr_result:
+            ocr_result.write(json_data)
+        print(f"{doc_id} written")
 
     end_time = datetime.now()
     seconds = (end_time - start_time).total_seconds()

@@ -1,49 +1,86 @@
 {
-    "authorization": {
-        "date_of_issuance": "March 21, 2019",
-        "approved_by": "Scott Gilbert",
-        "proponent": "Baffinland Iron Mines Corporation"
+    "authorization_id": "12345",
+    "project_name": "Milne Inlet Ore Dock Construction",
+    "location": {
+        "latitude": 67.4567,
+        "longitude": -114.5678
     },
-    "project_location": {
-        "location": "Milne Port",
-        "nearest_community": "Pond Inlet",
-        "municipality": "Baffin Region",
-        "territory": "Nunavut"
+    "offsetting_measures": [
+        {
+            "measure_type": "Course rock substrate placement",
+            "description": "Placement of course rock substrate around the perimeter of the freight dock and moorings at Milne Inlet to provide 2729 HEUs of potential fish habitat.",
+            "scale": 2729,
+            "status": "in_progress"
+        }
+    ],
+    "monitoring_plan": {
+        "type": "offsetting",
+        "description": "Monitoring plan for offsetting measures",
+        "timeline": [
+            {
+                "year": 2020,
+                "activity": "Installation of monitoring equipment"
+            },
+            {
+                "year": 2025,
+                "activity": "Data collection and analysis"
+            }
+        ],
+        "criteria": [
+            {
+                "metric": "Fish abundance",
+                "target": 100
+            },
+            {
+                "metric": "Water quality",
+                "target": 80
+            }
+        ]
     },
-    "proposed_project": {
-        "description": "Construction of a Freight dock at the port in Milne Inlet",
-        "associated_with": "The Mary River Project, an operating iron ore mine located on Baffin Island in the Qikiqtaaluk Region of Nunavut"
+    "contingency_plan": {
+        "type": "offsetting",
+        "description": "Contingency plan for offsetting measures",
+        "timeline": [
+            {
+                "year": 2020,
+                "activity": "Development of contingency plan"
+            },
+            {
+                "year": 2025,
+                "activity": "Implementation of contingency plan"
+            }
+        ],
+        "criteria": [
+            {
+                "metric": "Fish abundance",
+                "target": 100
+            },
+            {
+                "metric": "Water quality",
+                "target": 80
+            }
+        ]
     },
-    "authorized_works": [
+    "letters_of_credit": [
         {
-            "description": "Infilling of fish habitat in Milne Inlet resulting from the construction of the freight dock and mooring structures",
-            "footprint_size": 26449,
-            "activity": "Construction of a Freight dock at the port in Milne Inlet"
+            "amount": 3000000,
+            "description": "Letter of credit for offsetting measures"
         },
         {
-            "description": "Removal of rock-fill berm",
-            "footprint_size": null,
-            "activity": "Construction of a Freight dock at the port in Milne Inlet"
+            "amount": 500000,
+            "description": "Letter of credit for monitoring"
         },
         {
-            "description": "Removal of Sea Ice",
-            "footprint_size": null,
-            "activity": "Construction of a Freight dock at the port in Milne Inlet"
+            "amount": 250000,
+            "description": "Letter of credit for contingency plan development"
+        }
+    ],
+    "authorization_limitations": [
+        {
+            "limitation": "Deposit of deleterious substances in water frequented by fish"
         },
         {
-            "description": "Dredging and disposal of dredged material",
-            "footprint_size": null,
-            "activity": "Construction of a Freight dock at the port in Milne Inlet"
-        },
-        {
-            "description": "Placement of rock/fill",
-            "footprint_size": null,
-            "activity": "Construction of a Freight dock at the port in Milne Inlet"
-        },
-        {
-            "description": "Vibratory Pile driving",
-            "footprint_size": null,
-            "activity": "Construction of a Freight dock at the port in Milne Inlet"
+            "limitation": "Killing, harming, harassment, capture or taking of individuals of any aquatic species listed under the Species at Risk Act (SARA)"
         }
     ]
 }

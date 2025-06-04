@@ -1,24 +1,22 @@
 {
-    "activities": [
-        {
-            "name": "Installation of four cement blocks on the riverbed to support a suspended platform",
-            "footprint_size": 5,
-            "description": "Permanent alteration of fish habitat associated with installation of four cement blocks"
-        },
-        {
-            "name": "Instream works that include construction of a temporary cofferdam to accommodate excavation and construction of a new midstream pier",
-            "footprint_size": 66,
-            "description": "Permanent alteration of fish habitat associated with construction of a temporary cofferdam around the midstream pier"
-        },
-        {
-            "name": "Construction of a temporary cofferdam around the west abutment",
-            "footprint_size": 4,
-            "description": "Permanent alteration of fish habitat associated with construction of a temporary cofferdam around the west abutment"
-        },
-        {
-            "name": "Fish rescue within the isolated areas prior to dewatering to relocate fish and mussels",
-            "footprint_size": null,
-            "description": "Death of fish associated with fish rescue and mussel relocation prior to dewatering within the isolated areas"
-        }
-    ]
+    "authorization_id": "12345",
+    "date_of_issuance": "JAN 10 2020",
+    "name_of_approving_official": "David Nanang",
+    "title_of_approving_official": "Regional Director General",
+    "region_of_approving_official": "Central and Arctic Region",
+    "description_of_works": "Installation of vegetation-enhanced armour stone walls on a 25 m section of the east bank, amounting to 50 m\u00b2 of enhanced fish habitat. In addition, retrofitting 10 parking lot catchbasins with catchbasin shields along a 565 m section of the Moira River on the east bank.",
+    "location_of_works": "Moira River",
+    "description_of_species_at_risk": "Channel Darter",
+    "species_at_risk_id": "12345",
+    "description_of_offsetting_measures": "Installation of vegetation-enhanced armour stone walls and retrofitting parking lot catchbasins with catchbasin shields.",
+    "offsetting_measure_id": "67890",
+    "description_of_contingency_measures": "Conduct necessary works to ensure structural stability and ongoing functionality of contingency offsetting habitat.",
+    "contingency_measure_id": "34567",
+    "description_of_monitoring_and_reporting_requirements": "The Proponent shall conduct monitoring of the implementation of offsetting measures according to the timeline and criteria below: The Proponent shall report to DFO on whether the offsetting measures along the Moira River were implemented according to the conditions of this authorization by providing a report to be submitted no later than November 30, 2021. The Proponent shall engage in post-construction monitoring of the offset works for a period of two years following the completion of the offset works along the Moira River, with a report to be submitted annually no later than November 30 of the monitoring year, beginning in 2021.",
+    "monitoring_and_reporting_requirement_id": "90123",
+    "description_of_authorization_limitations": "The Proponent is solely responsible for plans and specifications relating to this authorization and for all design, safety and workmanship aspects of all the works associated with this authorization. The holder of this authorization is hereby authorized under the authority of Paragraph 35(2)(b) of the Fisheries Act, R.S.C., 1985, c.F-14, to carry on the work(s), undertaking(s) and/or activity(ies) that are likely to result in serious harm to fish as described herein. The holder of this authorization is also authorized under the authority of subsections 73(1) and 74 of the Species at Risk Act S.C. 2002, c. 29 to carry on the works, undertakings and/or activities that are likely to kill, harm, harass or capture Channel Darter, and destroy the critical habitat of Channel Darter, as described herein.",
+    "authorization_limitation_id": "45678",
+    "description_of_application_conditions": "This authorization may be revoked or amended to ensure the survival or recovery of the above aquatic species at risk. Without limiting the generality of the foregoing, DFO may: suspend any authorized activities to avoid or mitigate additional adverse direct or indirect effects to the above aquatic species at risk; amend or revoke this authorization; direct or Proponent to carry out at the Proponent\u2019s expense any modifications or actions deemed necessary by DFO to avoid or mitigate existing impacts or to avoid further adverse direct and indirect impacts to the above aquatic species at risk.",
+    "application_condition_id": "78901",
+    "description_of_pydantic_model": "This is a pydantic model that represents an authorization issued under the Fisheries Act and Species at Risk Act."
 }

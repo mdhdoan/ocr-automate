@@ -40,9 +40,14 @@ import httpx
 from langchain.chat_models import init_chat_model
 
 # Fetch PDF data
-pdf_url = sys.argv[1]
-pdf_data = base64.b64encode(httpx.get(pdf_url).content).decode("utf-8")
+pdf_file_address = sys.argv[1]
+def convert_to_base64(pdf_file_address):
+    buffered = BytesIO()
+    pdf_file_address.save(buffered, format="pdf")  # You can change the format if needed
+    pdf_data = base64.b64encode(buffered.getvalue()).decode("utf-8")
+    return pdf_data
 
+pdf_data = convert_to_base64(pdf_file_address)
 
 # Pass to LLM
 llm = init_chat_model("anthropic:claude-3-5-sonnet-latest")

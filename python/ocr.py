@@ -202,7 +202,7 @@ def extracting_visual_pdf(pdf_file):
                 "text": """
                     Read through all information and extract the text as closely as possible.
                 """, 
-                "image": image_b64
+                "image": pdf_file
             }
         )
         # print("\t", query_chain[:50], flush = True)

@@ -48,8 +48,8 @@ def create_prompt(format_instructions):
         {format_instructions}
 
         Read through all information and provide me a summary of them: {data}
-        Then give me the footprint size or area that has been impacted by an activity that is proposed in the data.
-        Make "footprint size" as one of the key for the json result
+        Then give me the footprint size or area that has been impacted by any activity that is proposed in the data.
+        Make "activity" and "footprint size" as one of the key for the json result
     """
     return PromptTemplate(
         input_variables=["data"], 

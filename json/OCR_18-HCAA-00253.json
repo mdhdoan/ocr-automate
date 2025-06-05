@@ -1,16 +1,17 @@
 {
     "Latitude": "50.894225",
     "Longitude": "-114.009975",
-    "Date_of_Issuance": "feb 04 2018",
-    "Condition_summary_1": "Sediment and erosion control measures must be in place and maintained to avoid sediment release into water. In-water activity timing restrictions to protect spawning fish and their eggs (May 1st to July 15th and September 16th to April 5th).",
-    "Condition_summary_2": "Berm construction and removal must adhere to approved plans, with footprint not exceeding 5% of design area without DFO approval. Natural structures must be replaced after construction.",
-    "Condition_summary_3": "Revegetation with native plants, equipment cleanliness to prevent invasive species, spill response plans, and stockpiling materials above high water level.",
-    "Condition_summary_4": "3,462 m\u00b2 of fish habitat restoration upstream/downstream on west bank. Monitoring and reporting on offset effectiveness over three years.",
-    "Habitat_Type": "river habitat (offsetting measures on west bank)",
+    "Coordinates": "Longitude: -114.009975, Latitude: 50.894225",
+    "Date_of_Issuance": "FEB 04 2018",
+    "Condition_summary_1": "Sediment and erosion control measures must be in place and maintained to avoid sediment release into water. Turbidity monitoring follows the 2018 plan. Contingency measures include upgrading erosion controls, adding armor, raising berms, and halting work if thresholds are met.",
+    "Condition_summary_2": "3,462 m\u00b2 of habitat restoration upstream/downstream on the west bank per the offsetting plan. Monitoring reports due by Jan 15, 2023, with three years of post-construction monitoring ending Dec 31, 2025.",
+    "Condition_summary_3": "Prohibits deposit of deleterious substances, harming SARA-listed species, or damaging their habitats. Authorization cannot be transferred without DFO approval.",
+    "Condition_summary_4": "Proponent responsible for all design and safety aspects. Must comply with other regulatory agencies. Reports on mitigation measures post-work with photos and inspection reports.",
+    "Habitat_Type": "Riverine",
     "Fish_species": "None explicitly listed in the document",
     "Offset_footprint_size": "3462 m\u00b2",
-    "Vegetation_Cover": "None specified",
-    "Boulder": "None specified",
-    "Woody_coverage": "None specified",
-    "Instream_structures": "None specified"
+    "Vegetation_Cover": "None explicitly mentioned in offsetting measures",
+    "Boulder": "None explicitly mentioned",
+    "Woody_coverage": "None explicitly mentioned",
+    "Instream_structures": "None explicitly mentioned in offsetting measures"
 }

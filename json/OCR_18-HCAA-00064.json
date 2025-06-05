@@ -1,16 +1,17 @@
 {
     "Latitude": "None",
     "Longitude": "None",
+    "Coordinates": "None",
     "Date_of_Issuance": "Feb 07/2020",
-    "Condition_summary_1": "The Proponent must implement offsetting measures including marsh habitat creation, tributary restoration, riparian buffer planting, and storm water management pond expansion to mitigate impacts on fish and fish habitat. Contingency measures are required if these measures fail to meet criteria.",
-    "Condition_summary_2": "Monitoring and reporting are mandatory, including post-construction assessments, fish sampling, and vegetation survival checks. Reports must be submitted by June 14, 2022.",
-    "Condition_summary_3": "Prohibition on depositing deleterious substances in water frequented by fish. Compliance with other regulatory agencies is required.",
-    "Condition_summary_4": "The Proponent is solely responsible for design and safety of works. Authorization cannot be transferred without prior notification to DFO.",
-    "Habitat_Type": "marsh habitat, unnamed tributary restoration, riparian buffer, storm water management pond, realigned drain channels",
-    "Fish_species": "None explicitly listed in section 4; general references to fish utilization and species composition in monitoring sections",
-    "Offset_footprint_size": "marsh habitat expansion (size unspecified), unnamed tributary restoration (size unspecified), riparian buffer planting (80% coverage target), Hooper Drain channel (morphology retention), Central Drain channel (morphology retention), SWM pond (average depth 0.9m)",
-    "Vegetation_Cover": "80% survival for aquatic vegetation in marsh and 80% coverage for riparian plantings",
-    "Boulder": "None explicitly mentioned",
-    "Woody_coverage": "Habitat enhancement features (e.g., woody debris) in marsh and tributary require no destabilization",
-    "Instream_structures": "Habitat enhancement features in marsh and tributary must remain stable"
+    "Condition_summary_1": "The Proponent must conduct monitoring and reporting on offsetting measures, including post-construction assessments and fish sampling, with reports due by June 14, 2022.",
+    "Condition_summary_2": "Structural stability and functionality of offsetting habitats must be maintained; contingency measures required if not met.",
+    "Condition_summary_3": "Prohibition on depositing deleterious substances in water frequented by fish.",
+    "Condition_summary_4": "Authorization cannot be transferred without prior notification to DFO.",
+    "Habitat_Type": "Storm water management pond, tributary, drain, marsh",
+    "Fish_species": "None explicitly listed in the provided sections",
+    "Offset_footprint_size": "Storm water management pond (average depth 0.9m), unnamed tributary restoration, Hooper Drain channel, Central Drain channel, marsh habitat with berm",
+    "Vegetation_Cover": "Riparian vegetation (trees and shrubs)",
+    "Boulder": "None mentioned",
+    "Woody_coverage": "Habitat enhancement features (e.g., woody debris) in tributary restoration",
+    "Instream_structures": "Pool/deepwater habitat in SWM pond, riffles in tributary, channel morphology in drains"
 }

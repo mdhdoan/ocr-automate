@@ -1,16 +1,17 @@
 {
-    "Latitude": "44.1913",
-    "Longitude": "-78.8722",
+    "Latitude": "None",
+    "Longitude": "None",
+    "Coordinates": "None",
     "Date_of_Issuance": "JAN 10 2020",
-    "Condition_summary_1": "The Proponent must install vegetation-enhanced armour stone walls on a 25 m section of the east bank (50 m\u00b2) and retrofit 10 parking lot catchbasins with shields along a 565 m section of the Moira River east bank.",
-    "Condition_summary_2": "Monitoring of offsetting measures for two years post-construction, with annual reports by November 30.",
-    "Condition_summary_3": "Prohibition on activities adversely impacting offsetting measures and requirement for access permissions.",
-    "Condition_summary_4": "Authorization limitations, including compliance with other regulations and prohibition on deleterious substance deposits.",
-    "Habitat_Type": "river bank, parking lot catchbasins",
+    "Condition_summary_1": "Install vegetation-enhanced armour stone walls on a 25 m section of the east bank (50 m\u00b2) and retrofit 10 parking lot catchbasins with shields along a 565 m section of the Moira River east bank.",
+    "Condition_summary_2": "Monitor offsetting measures for two years post-construction, reporting annually by November 30.",
+    "Condition_summary_3": "Implement contingency measures if offsetting measures fail to meet criteria (e.g., 80% vegetation survival or 50% turbidity reduction).",
+    "Condition_summary_4": "Prohibit adverse impacts on offsetting measures and ensure DFO access rights for implementation and monitoring.",
+    "Habitat_Type": "Riverine",
     "Fish_species": "Channel Darter",
-    "Offset_footprint_size": "50 m\u00b2 vegetation-enhanced armour stone walls, 10 catchbasin shields over 565 m river section",
-    "Vegetation_Cover": "80% vegetation survival required for effectiveness",
-    "Boulder": "armour stone used in revetment",
+    "Offset_footprint_size": "50 m\u00b2 vegetation-enhanced stone revetment, 10 catchbasin shields over 565 m river section",
+    "Vegetation_Cover": "Riparian vegetation (enhanced through stone revetment)",
+    "Boulder": "None explicitly mentioned",
     "Woody_coverage": "None explicitly mentioned",
-    "Instream_structures": "catchbasin shields"
+    "Instream_structures": "Vegetation-enhanced armour stone walls (structural habitat), catchbasin shields (turbidity reduction infrastructure)"
 }

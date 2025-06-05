@@ -1,16 +1,17 @@
 {
     "Latitude": "53\u00b036'40.96\"N",
     "Longitude": "108\u00b044'38.01\"W",
+    "Coordinates": "53\u00b036'40.96\"N, 108\u00b044'38.01\"W; 12U 58311E E, 5940187 N",
     "Date_of_Issuance": "FEB 26 2020",
-    "Condition_summary_1": "Sediment and erosion control measures must be in place and maintained to avoid sediment entering the NSR during all project phases.",
-    "Condition_summary_2": "Fish screens must meet requirements of 0.125 m/s intake flow with 7,045 m\u00b2 of total screen area to prevent entrainment.",
-    "Condition_summary_3": "Installation of a gravel/cobble bar (5,800 m\u00b2) to offset habitat loss, using rounded stone 15\u2013150 mm in diameter.",
-    "Condition_summary_4": "Monitoring and reporting requirements include post-construction surveys, embeddedness surveys, and functional monitoring over three years.",
-    "Habitat_Type": "river bank, gravel/cobble bar",
+    "Condition_summary_1": "Sediment and erosion control measures including installation of gravel/boulder bar during low flow periods.",
+    "Condition_summary_2": "Monitoring of offset structures post-construction for three years, including embeddedness surveys and sonar surveys.",
+    "Condition_summary_3": "Compliance with Species at Risk Act (SARA) restrictions, no harm to listed species or their habitats.",
+    "Condition_summary_4": "Submission of yearly reports (2022-2024) detailing monitoring results and adherence to offset criteria.",
+    "Habitat_Type": "Riverine",
     "Fish_species": "None explicitly listed in section 4 or elsewhere",
-    "Offset_footprint_size": "5800 m2 (gravel/boulder bar)",
-    "Vegetation_Cover": "None specified",
-    "Boulder": "Gravel/boulder bar with stones 15\u2013150 mm",
-    "Woody_coverage": "None mentioned",
-    "Instream_structures": "Gravel/boulder bar installation"
+    "Offset_footprint_size": "Gravel/boulder bar installation with area measurement required as per Offsetting Plan",
+    "Vegetation_Cover": "Riparian vegetation (consultation with DFO on specifications)",
+    "Boulder": "Gravel/boulder bar installation as part of offset measures",
+    "Woody_coverage": "None explicitly mentioned",
+    "Instream_structures": "Gravel/boulder bar (not extending beyond intake structure)"
 }

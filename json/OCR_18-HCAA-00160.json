@@ -1,16 +1,17 @@
 {
     "Latitude": "71.889403\u00b0N",
     "Longitude": "-80.887592\u00b0W",
+    "Coordinates": "71.889403\u00b0N, -80.887592\u00b0W; Zone: 17 W, Easting: 503900 m E, Northings: 796600 m N",
     "Date_of_Issuance": "March 21, 2019",
     "Condition_summary_1": "The work must be completed by the expiration date or DFO must be notified for extension.",
     "Condition_summary_2": "Implement sediment and erosion control measures, including approved plans and monitoring turbidity levels.",
     "Condition_summary_3": "Monitor and report on mitigation measures and submit reports by specified dates.",
-    "Condition_summary_4": "Offset habitat loss by placing course rock substrate and adhere to contingency plans.",
+    "Condition_summary_4": "Offset habitat loss by placing course rock substrate to provide 2792 HEUs of habitat and implement contingency plans if needed.",
     "Habitat_Type": "Intertidal marine habitat, Subtidal marine habitat, Intertidal unnamed stream",
-    "Fish_species": "None explicitly listed in the provided sections",
+    "Fish_species": "None explicitly mentioned in the document",
     "Offset_footprint_size": "2792 HEUs of potential fish habitat",
-    "Vegetation_Cover": "None mentioned",
+    "Vegetation_Cover": "None explicitly mentioned",
     "Boulder": "Course rock substrate placement as part of offset measures",
-    "Woody_coverage": "None mentioned",
-    "Instream_structures": "None mentioned"
+    "Woody_coverage": "None explicitly mentioned",
+    "Instream_structures": "None explicitly mentioned"
 }

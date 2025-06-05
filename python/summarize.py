@@ -27,16 +27,19 @@ def create_prompt(format_instructions):
 
         Read through all information:
         ```{data}```
-        Latitude, Longitude, usually near the beginning of the document, starts with "Longitude and latitude, UTM Coordinates:". Some may include multiple coordinates, get them all
-        Habitat Type mentioned in the document. "Fish habitat" is too generic.
+        Latitude, Longitude, usually near the beginning of the document, starts with "Longitude and latitude, UTM Coordinates:". Some may include multiple coordinates, get them all. 
+        Coordinates - a replacement in case no Latitude or Longitude can be specifically identified.
+        Habitat Type mentioned in the document. "Fish habitat" is too generic. Example: "Riverine"
         Fish_species are usually in section 4.
         Offset_footprint_size are usualy in section 4, documenting the footprint of each of the different offsetting measures and recording the measures according to the type of habitat they provide. Each offsetting type or location has its own line, so some projects have 2 or more lines of offsetting information
         Find me the Date of Issuance, usually at the end of the document.
+        For Instream_structures, here are some examples: "Pool/deepwater habitat", "Riffles (rivers)", "Undercut bank (e.g. lunker bunker)"
+        For Vegetation_Cover, here are some examples: "Emergent vegetation (e.g. cattails and rush)","Riparian vegetation (e.g. trees and shrubs and grass)"
         There are usually 4 conditions in each documents, all with varying contents
         Answer me in lowercase letters, if you have meter squared, use "m2" as the unit
         For example:
         Then fill in the schema below. Try to get as accurate as possible, even if the data type is not conventional.
-            {{"Latitude":,"Longitude":,"Date_of_Issuance":, "Condition_summary_X":, "Habitat_Type":, "Fish_species":, "Offset_footprint_size":,
+            {{"Latitude":,"Longitude":,"Coordinates":, "Date_of_Issuance":, "Condition_summary_X":, "Habitat_Type":, "Fish_species":, "Offset_footprint_size":,
             "Vegetation_Cover":, "Boulder":, "Woody_coverage":, "Instream_structures":,}}
         If no data is found, try again one more time, then return "None" for that value
     """

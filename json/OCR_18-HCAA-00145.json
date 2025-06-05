@@ -1,16 +1,17 @@
 {
     "Latitude": "43.79381",
     "Longitude": "-80.386060",
+    "Coordinates": "43.79381, -80.386060",
     "Date_of_Issuance": "JAN 10 2020",
-    "Condition_summary_1": "Sediment and erosion control measures must be in place and maintained to avoid sediment release during work.",
-    "Condition_summary_2": "Fish rescue and relocation required before work in isolated areas.",
-    "Condition_summary_3": "Monitoring and reporting including photographic records and as-built surveys.",
-    "Condition_summary_4": "Habitat offsetting measures with specific criteria (e.g., overwintering pools, vegetation coverage).",
-    "Habitat_Type": "fish habitat (permanent alteration, destruction)",
+    "Condition_summary_1": "Sediment and erosion control measures must be in place and maintained to avoid sediment release.",
+    "Condition_summary_2": "Qualified environmental professional on-site to monitor instream and shoreline activities.",
+    "Condition_summary_3": "Fish rescue and relocation in isolated areas before work commences.",
+    "Condition_summary_4": "Temporary rock causeways must be installed no sooner than July 1 and removed by September 30 annually.",
+    "Habitat_Type": "Riverine",
     "Fish_species": "trout",
-    "Offset_footprint_size": "50 m2 (boulder clusters), 100 m2 (sweeper trees), 80% vegetation coverage",
-    "Vegetation_Cover": "80%",
-    "Boulder": "large boulder clusters (50 m2)",
-    "Woody_coverage": "anchored sweeper trees (100 m2)",
-    "Instream_structures": "overwintering pool habitat (1.7m depth), boulder clusters, sweeper trees"
+    "Offset_footprint_size": "50 m2 boulder clusters, 100 m2 sweeper trees",
+    "Vegetation_Cover": "Riparian vegetation (e.g. trees and shrubs and grass)",
+    "Boulder": "Boulder clusters for velocity refuge habitat",
+    "Woody_coverage": "Anchored sweeper trees",
+    "Instream_structures": "Overwintering pool habitat with minimum 1.7m depth"
 }

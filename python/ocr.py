@@ -46,7 +46,7 @@ def convert_img_to_base64(pil_image):
     """
 
     buffered = BytesIO()
-    pil_image.save(buffered, format="JPEG")  # You can change the format if needed
+    pil_image.save(buffered, format="PNG")  # You can change the format if needed
     img_str = base64.b64encode(buffered.getvalue()).decode("utf-8")
     return img_str
 

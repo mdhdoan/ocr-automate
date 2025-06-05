@@ -1,5 +1,16 @@
 {
-    "Langitude": -80.38606,
-    "Longitude": 43.79381,
-    "Description": "The proposed project involves the replacement of four long span bridge structures crossing the Grand River near Kitchener, ON, along with the extension of corrugated steel pipe culverts. This work is authorized under the Fisheries Act and necessitates careful mitigation to avoid harm to fish populations. The project includes the installation of temporary rock causeways, the construction of new bridge piers, and the restoration of riparian habitat.  Due to the potential impact on aquatic ecosystems, a comprehensive monitoring plan is required to ensure compliance with environmental regulations. The project\u2019s success hinges on meticulous execution of mitigation measures, including sediment and erosion control, fish rescue and relocation, and the implementation of appropriate habitat restoration techniques. The authorization is valid until December 31, 2024, and requires ongoing reporting and oversight to guarantee the protection of the Grand River\u2019s aquatic environment."
+    "Latitude": "43.79381",
+    "Longitude": "-80.386060",
+    "Date_of_Issuance": "JAN 10 2020",
+    "Condition_summary_1": "Sediment and erosion control measures must be in place and maintained to avoid sediment release during work.",
+    "Condition_summary_2": "Fish rescue and relocation required before work in isolated areas.",
+    "Condition_summary_3": "Monitoring and reporting including photographic records and as-built surveys.",
+    "Condition_summary_4": "Habitat offsetting measures with specific criteria (e.g., overwintering pools, vegetation coverage).",
+    "Habitat_Type": "fish habitat (permanent alteration, destruction)",
+    "Fish_species": "trout",
+    "Offset_footprint_size": "50 m2 (boulder clusters), 100 m2 (sweeper trees), 80% vegetation coverage",
+    "Vegetation_Cover": "80%",
+    "Boulder": "large boulder clusters (50 m2)",
+    "Woody_coverage": "anchored sweeper trees (100 m2)",
+    "Instream_structures": "overwintering pool habitat (1.7m depth), boulder clusters, sweeper trees"
 }

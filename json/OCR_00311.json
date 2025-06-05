@@ -1,5 +1,16 @@
 {
-    "Langitude": "43.79381",
-    "Longitude": "-80.386060",
-    "Description": "This authorization, issued on October 16, 2019, grants permission to the Proponent to carry out works likely to cause serious harm to fish within the Seneca Creek watershed in Pennsylvania. The authorization is a critical component of a larger project focused on stream realignment and habitat restoration. The project aims to mitigate potential negative impacts on fish populations resulting from construction activities. <start_of_image>The core of the authorization centers around a comprehensive plan to manage and minimize harm to aquatic life. Key elements include the implementation of offsetting measures, specifically a detailed plan for creating and maintaining habitat to compensate for any unavoidable damage. This involves constructing and restoring instream habitat features, such as riffles and pools, to provide diverse conditions for fish spawning, rearing, and refuge. <start_of_image>The authorization explicitly mandates ongoing monitoring and reporting. The Proponent is required to conduct annual assessments of the restored stream reach, focusing on channel morphology, constructed habitat features, and fish populations. This monitoring will track the success of the restoration efforts and ensure that the intended benefits are being realized. <start_of_image>Furthermore, the authorization emphasizes the importance of adhering to the Species at Risk Act (SARA), prohibiting the deposit of deleterious substances into the waterbody. This underscores the commitment to protecting aquatic ecosystems and preventing pollution. <start_of_image>The authorization is a legally binding agreement, and any non-compliance carries significant penalties under the Fisheries Act. It\u2019s a testament to the stringent regulatory framework designed to safeguard Canada\u2019s valuable aquatic resources. The project\u2019s success hinges on meticulous execution of the authorized activities, coupled with diligent monitoring and adaptive management strategies. The authorization represents a significant step towards restoring the Seneca Creek watershed and ensuring the long-term health of its fish populations."
+    "Langitude": "None",
+    "Longitude": "None",
+    "Date_of_Issuance": "oct 16, 2019",
+    "Condition_summary_1": "authorization under Fisheries Act for work likely to cause serious harm to fish, requiring compliance with conditions including habitat offsetting, monitoring, and reporting",
+    "Condition_summary_2": "prohibition on depositing deleterious substances in water frequented by fish",
+    "Condition_summary_3": "requirement to obtain access permissions for lands/waters not owned by proponent",
+    "Condition_summary_4": "no transfer of authorization without prior notification to DFO",
+    "Habitat_Type": "stream, channel, riparian zone, instream habitat features",
+    "Fish_species": "rainbow trout",
+    "Offset_footprint_size": "reach sn01, reach sn02, unnamed tributary of seneca creek (specific sizes not quantified in m2)",
+    "Vegetation_Cover": "80% survival target for planted vegetation in riparian zone",
+    "Boulder": "None",
+    "Woody_coverage": "None",
+    "Instream_structures": "constructed instream habitat features including channel morphological features, spawning surveys required"
 }

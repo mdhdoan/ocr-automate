@@ -1,5 +1,16 @@
 {
-    "Langitude": "-114.009975",
-    "Longitude": "50.894225",
-    "Description": "The proposed project of which the work, undertaking or activity authorized is a part involves: - Replacement of two existing bridges with two wider three-span bridges across the Bow River to accommodate future traffic on the South Calgary Ring Road. Bridge replacement will require the installation of two temporary instream berms to install the new piers and will additionally function as a working platform. - Installation of a 3,042 m\u00b2 berm on the east bank with a 1,467 m\u00b2 central berm extending towards the central pier in the existing eastbound lane to accommodate future traffic on the South Calgary Ring Road. - Removal of the existing eastbound lane to accommodate future traffic on the South Calgary Ring Road. - Installation of a 3,042 m\u00b2 berm on the east bank with a 1,467 m\u00b2 central berm extending towards the central pier in the existing eastbound lane to accommodate future traffic on the South Calgary Ring Road. - Removal of the existing eastbound lane to accommodate future traffic on the South Calgary Ring Road. - Installation of a 3,042 m\u00b2 berm on the east bank with a 1,467 m\u00b2 central berm extending towards the central pier in the existing eastbound lane to accommodate future traffic on the South Calgary Ring Road. - Removal of the existing eastbound lane to accommodate future traffic on the South Calgary Ring Road."
+    "Latitude": "50.894225",
+    "Longitude": "-114.009975",
+    "Date_of_Issuance": "feb 04 2018",
+    "Condition_summary_1": "Sediment and erosion control measures must be in place and maintained to avoid sediment release into water. In-water activity timing restrictions to protect spawning fish and their eggs (May 1st to July 15th and September 16th to April 5th).",
+    "Condition_summary_2": "Berm construction and removal must adhere to approved plans, with footprint not exceeding 5% of design area without DFO approval. Natural structures must be replaced after construction.",
+    "Condition_summary_3": "Revegetation with native plants, equipment cleanliness to prevent invasive species, spill response plans, and stockpiling materials above high water level.",
+    "Condition_summary_4": "3,462 m\u00b2 of fish habitat restoration upstream/downstream on west bank. Monitoring and reporting on offset effectiveness over three years.",
+    "Habitat_Type": "river habitat (offsetting measures on west bank)",
+    "Fish_species": "None explicitly listed in the document",
+    "Offset_footprint_size": "3462 m\u00b2",
+    "Vegetation_Cover": "None specified",
+    "Boulder": "None specified",
+    "Woody_coverage": "None specified",
+    "Instream_structures": "None specified"
 }

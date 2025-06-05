@@ -1,6 +1,16 @@
 {
-    "Langitude": "71.889403",
-    "Longitude": "-80.887592",
-    "Description": "The proposed project is the construction of a Freight dock at the port in Milne Inlet. The work, undertaking or activity authorized is associated with The Mary River Project, an operating iron ore mine located on Baffin Island in the Qikiqtani Region of Nunavut. The Early Revenue Phase of the Mary River Project will involve mining and shipment of iron ore via the port at Milne Inlet. The new freight dock will allow more efficient use for shipping purposes.",
-    "Date_of_Issuance": "March 21, 2019"
+    "Latitude": "71.889403\u00b0N",
+    "Longitude": "-80.887592\u00b0W",
+    "Date_of_Issuance": "March 21, 2019",
+    "Condition_summary_1": "The work must be completed by the expiration date or DFO must be notified for extension.",
+    "Condition_summary_2": "Implement sediment and erosion control measures, including approved plans and monitoring turbidity levels.",
+    "Condition_summary_3": "Monitor and report on mitigation measures and submit reports by specified dates.",
+    "Condition_summary_4": "Offset habitat loss by placing course rock substrate and adhere to contingency plans.",
+    "Habitat_Type": "Intertidal marine habitat, Subtidal marine habitat, Intertidal unnamed stream",
+    "Fish_species": "None explicitly listed in the provided sections",
+    "Offset_footprint_size": "2792 HEUs of potential fish habitat",
+    "Vegetation_Cover": "None mentioned",
+    "Boulder": "Course rock substrate placement as part of offset measures",
+    "Woody_coverage": "None mentioned",
+    "Instream_structures": "None mentioned"
 }

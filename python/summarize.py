@@ -4,6 +4,7 @@ from langchain.output_parsers.pydantic import PydanticOutputParser
 from langchain_core.output_parsers import JsonOutputParser
 from langchain_core.prompts import PromptTemplate
 from langchain_ollama import OllamaLLM
+from openpyxl import load_workbook, Workbook
 from pydantic import BaseModel, Field, model_validator
 
 import json
@@ -17,18 +18,27 @@ import sys
 ##### INPUT VARIABLES SETTINGS #####
 file_list_in_directory = [file for file in sorted(os.listdir(sys.argv[1]))]
 random.seed(2024)
+worksheet = load_workbook("DFO_PATH_IP.xlsx")['DFO_PATH_IP_Offset']
 
 ##### LLM PROMPTS #####
 def create_prompt(format_instructions):
     QA_TEMPLATE = """
         {format_instructions}
 
-        Read through all information: {data}
-        Find me the Langitude, Longitude, Date of Issuance
-        Provide me a maximum 500 words description
+        Read through all information:
+        ```{data}```
+        Langitude, Longitude, usually near the beginning of the document, starts with "Longitude and latitude, UTM Coordinates:". Some may include multiple coordinates, get them all
+        Habitat Type mentioned in the document. "Fish habitat" is too generic.
+        Fish_species are usually in section 4.
+        Offset_footprint_size are usualy in section 4, documenting the footprint of each of the different offsetting measures and recording the measures according to the type of habitat they provide. Each offsetting type or location has its own line, so some projects have 2 or more lines of offsetting information
+        Find me the Date of Issuance, usually at the end of the document.
+        There are usually 4 conditions in each documents, all with varying contents
+        Answer me in lowercase letters, if you have meter squared, use "m2" as the unit
         For example:
-            Longitude and latitude, UTM Coordinates: 43.79381, -80.386060
-            {{"Langitude":"-80.386060","Longitude":"43.79381","Description":"A study on a waterbody"}}
+        Then fill in the schema below. Try to get as accurate as possible, even if the data type is not conventional.
+            {{"Langitude":,"Longitude":,"Date_of_Issuance":, "Condition_summary_X":, "Habitat_Type":, "Fish_species":, "Offset_footprint_size":,
+            "Vegetation_Cover":, "Boulder":, "Woody_coverage":, "Instream_structures":,}}
+        If no data is found, try again one more time, then return "None" for that value
     """
     return PromptTemplate(
         input_variables=["data"], 
@@ -36,17 +46,18 @@ def create_prompt(format_instructions):
         template=QA_TEMPLATE)
 
 # Define your desired data structure.
-class Answer(BaseModel):
-    Langitude: str = Field(description="langtitude of the location in the document")
-    Longitude: str = Field(description="longitude of the location in the document")
-    Description: str = Field(description="brief summary description of the document")
-    Date_of_Issuance: str = Field(description="Dates of Issuance, usually found at the end of the document")
+# class Answer(BaseModel):
+#     Langitude: str = Field(description="langtitude of the location in the document")
+#     Longitude: str = Field(description="longitude of the location in the document")
+#     Description: str = Field(description="brief summary description of the document")
+#     Habitat_Type: str = Field(description="type of habitat described.")
+#     Date_of_Issuance: str = Field(description="Dates of Issuance, usually found at the end of the document")
 
 
 ##### LLM VARIABLES SETTINGS #####
-output_parser = JsonOutputParser(pydantic_object=Answer)
+output_parser = JsonOutputParser()
 format_instructions = output_parser.get_format_instructions()
-reasoning_model_list =["gemma3"]
+reasoning_model_list =["qwq"]
 
 
 ##### FUNCTIONS #####

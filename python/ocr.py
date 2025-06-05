@@ -151,7 +151,7 @@ if __name__ == "__main__":
 
         current_directory = os.getcwd()
         file_name = 'OCR_' + doc_id + '.txt'
-        target_directory = current_directory + '/txt/'
+        target_directory = current_directory + '/txt/all_text/'
         os.makedirs(target_directory, exist_ok = True)
         output_file = os.path.join(target_directory, file_name)
         with open(output_file, "w+") as ocr_result:

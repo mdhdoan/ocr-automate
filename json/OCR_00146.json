@@ -1,5 +1,16 @@
 {
-    "Langitude": -80.38606,
-    "Longitude": 43.79381,
-    "Description": "A study on a waterbody"
+    "Latitude": "5672412N",
+    "Longitude": "11678490E",
+    "Date_of_Issuance": "AUG 17 2018",
+    "Condition_summary_1": "Sedimentation and erosion control measures must be in place and maintained to avoid sediment release into the watercourse.",
+    "Condition_summary_2": "Total suspended sediment and turbidity monitoring must adhere to the plan in Appendix C of the 2018 Aquatic Effects Assessment.",
+    "Condition_summary_3": "All riprap must be clean, free of fine materials, and not obtained from fish-frequented waters below the ordinary high water mark.",
+    "Condition_summary_4": "Dewatering must direct water to vegetated areas or settling basins, ensuring water quality meets standards before returning to fish habitats.",
+    "Habitat_Type": "fish habitat (specific type not explicitly stated beyond 'resident fish species' and 'fish-frequented waters')",
+    "Fish_species": "resident fish species (specific species not listed)",
+    "Offset_footprint_size": "7,800 m\u00b2 for the secondary channel regrading downstream",
+    "Vegetation_Cover": "None explicitly mentioned beyond general requirements for sediment control and spoil disposal areas",
+    "Boulder": "Natural structures like large boulders contributing to fish habitat must be stockpiled for replacement post-construction",
+    "Woody_coverage": "Natural structures including woody debris must be stockpiled for replacement",
+    "Instream_structures": "Berm construction and riprap placement are noted as in-stream activities with specific mitigation measures"
 }

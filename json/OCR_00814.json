@@ -1,5 +1,16 @@
 {
-    "Langitude": "43.79381",
-    "Longitude": "-80.386060",
-    "Description": "A comprehensive study examining the impact of a proposed dam construction on a freshwater lake ecosystem. The project, initiated in June 2015, aimed to assess the potential ecological consequences of altering the lake\u2019s hydrology, including changes to water temperature, nutrient distribution, and fish populations. The study involved extensive field data collection, laboratory analyses, and predictive modeling to evaluate the long-term effects of the dam on the lake\u2019s biodiversity and overall health. Key areas of investigation included sediment analysis, water quality monitoring, fish surveys, and habitat assessments. The research sought to inform adaptive management strategies to mitigate potential negative impacts and ensure the sustainable operation of the dam. The study\u2019s findings were crucial for obtaining regulatory approvals and developing a robust environmental management plan. The project\u2019s success hinged on a collaborative approach between the dam developers, Fisheries and Oceans Canada, and local stakeholders. The data collected contributed to a deeper understanding of the complex interactions within the lake ecosystem and provided a scientific basis for informed decision-making."
+    "Langitude": "None",
+    "Longitude": "None",
+    "Date_of_Issuance": "JUN 05 2015",
+    "Condition_summary_1": "development of an operating plan for the Timiskaming Dam to protect fish spawning habitats",
+    "Condition_summary_2": "monitoring and reporting requirements including annual reports on dam operations, fish recruitment, and contingency measures",
+    "Condition_summary_3": "implementation of adaptive management strategies if deviations from the operating plan impact spawning success",
+    "Condition_summary_4": "compliance with Species at Risk Act and prohibition on depositing deleterious substances",
+    "Habitat_Type": "spawning habitats for Lake Sturgeon and Lake Whitefish",
+    "Fish_species": "Lake Sturgeon, Lake Whitefish",
+    "Offset_footprint_size": "None",
+    "Vegetation_Cover": "None",
+    "Boulder": "None",
+    "Woody_coverage": "None",
+    "Instream_structures": "None"
 }

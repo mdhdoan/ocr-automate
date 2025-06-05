@@ -33,25 +33,9 @@ def create_prompt(format_instructions):
 
 # Define your desired data structure.
 class Answer(BaseModel):
-    No_Special: bool = Field(description="Existence of special characters in the given data")
-    English: bool = Field(description="Language of the given data")
-    Total_footprint_size: str = Field(description="Area size of activity, unit in meter squared")
-    Habitat_type: str = Field(description="Type of habitat")
-    Fish_type: str = Field(description="type of fish involved")
-    Fish_stage: str = Field(description="stage of the fish maturity")
-    Benefits: str = Field(description="Benefit of activity")
-    Offsetting: str = Field(description="The offset activity described in the given data")
-    Offsettingl_footprint_size: str = Field(description="The footprint size noted in the offset activities described in the given data")
-    Location: str = Field(description="The location of this activity")
-    Langitude: float = Field(description="langtitude of the location")
-    Longitude: float = Field(description="longitude of the location")
-    Vegetation: str = Field(description="Vegetation cover in the area of activity")
-    Boulder: str = Field(description="Boulders and other stone cover in the area of activity")
-    Aquatic_structure: str = Field(description="aquatic sturcture mentioned, such as bank, river, depth or anything else")
-    Habitat_structure: str = Field(description="habitat of fish here")
-    Habitat_other_structure: str = Field(description="habitat of non-fish here")
-    Water_inspection: str = Field(description="Water inspection of this area")
-    Fish_target: str = Field(description="Species of fish targeted")
+    Langitude: str = Field(description="langtitude of the location in the document")
+    Longitude: str = Field(description="longitude of the location in the document")
+    Description: str = Field(description="brief summary description of the document")
 
 
 ##### LLM VARIABLES SETTINGS #####

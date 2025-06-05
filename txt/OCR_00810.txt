@@ -1,222 +1,293 @@
-**Fisheries and Oceans Canada**
+**Title:**
+PARAGRAPH 35(2)(b) FISHERIES ACT AUTHORIZATION
 
-PATH No.: 14-HCAA-00810
+**Header Information:**
+- Fisheries and Oceans Canada (Canada)
+- PATH No.: 14-HCAAA-00810
+- Other DFO File No.: BU-13-0881
 
-Other DFO File No:BU-13-0881
-
-**Paragraph 35(2)(b) Fisheries Act Authorization**
-
-**Authorization issued to:**
-
+**Authorization Issued To:**
 Public Works and Government Services Canada (hereafter referred to as the "Proponent")
 
-Attention to: Patrice Deneault
+**Attention to:** Patrice Deneault  
+Place du Portage, Phase III, 10B3-45  
+11 Laurier Street  
+Gatineau, Ontario K1A 0S5  
+patrice.deneault@tpsc-pwgsc.gc.ca
 
-Place du Portage, Phase III, 10B3-45
-
-11 Laurier Street
-
-Phase III, 10B3-45
-
-Gatineau, Quebec
-
-K1A 0S5
-
-patrice.deneault@tpsgc-pwgsc.gc.ca
-
-**Location of Proposed Project**
-
+**Location of Proposed Project:**
 Nearest community (city, town, village): Town of Latchford
+Municipality, district, township, county: Temagami, Timiskaming District  
+Province: Ontario  
 
-Municipality, district, township, county: Temagami, Timiskaming District
+Name of watercourse, bodywater: Montreal River  
+Longitude and latitude, UTM Coordinates: NAD83, Northing 5241673 Eastling 589808
 
-Province: Ontario
-
+**Description of Proposed Project:**
 The proposed project of which the work, undertaking or activity authorized is a part involves:
+- The construction of a new water control structure on the Montreal River near Latchford, Ontario, to maintain existing recreational water levels of Bay Lake, Ontario. The existing dam structure will be demolished and removed. The new dam will be located six meters upstream of the existing dam to reduce impacts to an important Walleye spawning habitat that is located downstream of the existing dam. The new structure will have fifteen sluices, of which fourteen will be stop logs and one will be a flat mechanical gate to allow for more precise flow control.
 
-The construction of a new water control structure on the Montreal River near Latchford, Ontario, to maintain existing recreational water levels of Bay Lake, Ontario. The existing dam will be demolished and removed. The new dam will be located six meters upstream of the existing dam to reduce impacts to an important Walleye spawning habitat that is located downstream of the existing dam. The new structure will have fifteen sluices, of which fourteen will be stop logs and one will be a flat mechanical gate to allow for more precise flow control.
-
-**Description of Authorized work(s), undertaking(s) or activity(ies) likely to result in serious harm to fish**
-
+**Description of Authorized Work(s), Undertaking(s) or Activity(ies) likely to result in serious harm to fish:**
 The work(s), undertaking(s), or activity(ies) associated with the proposed project described above, that are likely to result in serious harm to fish, are:
+- Installation of upstream and downstream slimline cofferdams;
 
-- Installation of upstream and downstream slim cofferdams;
-
+**Footer Information:**
+Canada**Title:**
 Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
+
+**Body Text:**
 
 - Installation of upstream and downstream granular cofferdams;
 - Cofferdam dewatering activities;
 - Construction of a new Latchford Dam; and
 - Demolition and removal of the existing Latchford Dam.
 
-The serious harm to fish likely to result from the proposed work(s), undertaking(s), or activity(ies), and covered by this authorization includes:
+The serious harm to fish likely to result from the proposed work(s), undertaking(s), or activity(ies), and covered by this authorization includes
 
+**Subtitle:**
 Incidental death of fish due to:
+
+**Body Text:**
+
 - The construction, commissioning and removal of cofferdams;
 - Incidental stranding from the dewatering of wetted areas within the cofferdams.
+  
+  **List:**
+    - Permanent alteration to fish habitat, including:
+      - 1,365 m² of fish habitat downstream of the existing dam will be altered as a result of dewatering and partial excavation during Phase 1 of the project;
+      - 1,665 m² of fish habitat downstream of the existing dam will be altered as a result of dewatering and partial excavation during Phase 2 of the project;
+      - 3,430 m² of fish habitat upstream of the existing dam will be altered as a result of dewatering and partial excavation in during Phase 1 of the project; and
+      - 4,325 m² of fish habitat upstream of the existing dam will be altered as a result of dewatering and partial excavation during Phase 2 of the project.
 
-Permanent alteration to fish habitat, including:
-- 1,365 m² of fish habitat downstream of the existing dam will be altered as a result of dewatering and partial excavation during Phase 1 of the project;
-- 1,665 m² of fish habitat downstream of the existing dam will be altered as a result of dewatering and partial excavation during Phase 2 of the project;
-- 3,430 m² of fish habitat upstream of the existing dam will be altered as a result of dewatering and partial excavation in during Phase 1 of the project;
-- 4,325 m² of fish habitat upstream of the existing dam will be altered as a result of dewatering and partial excavation during Phase 2 of the project.
-
+**Subtitle:**
 Destruction of fish habitat, including:
-- The 1,883 m² footprint of the new water control dam which will result in the destruction of spawning, rearing, and foraging habitat.
 
+**Body Text:**
+
+- The 1.883 m² footprint of the new water control dam which will result in the destruction of spawning, rearing, and foraging habitat.
+  
+**Subtitle:**
 Conditions of Authorization
 
-The above described work, undertaking or activity that is likely to result in serious harm to fish must be carried on in accordance with the following conditions.
+**Body Text:**
+
+The above described work, undertaking or activity that is likely to result in serious harm to fish must be carried on in accordance with the following working conditions.
 
 1. Conditions that relate to the period during which the work, undertaking or activity that will result in serious harm to fish can be carried on
+   The work, undertaking or activity that results in serious harm to fish is authorized to be carried out on during the following period:
+   
+   From the date of issuance to December 31, 2016.
+  
+   If the Proponent cannot complete the work, undertaking or activity during this period,
+     Fisheries and Ocean Canada (DFO) must be notified in advance of the expiration of the above time period. DFO may, where appropriate, provide written notice that the period to carry on the work, undertaking or activity has been extended.
 
-The work, undertaking or activity that results in serious harm to fish is authorized to be carried on during the following period:
+**Footer:**
+2Title: Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAAA-00810
 
-From the date of issuance to December 31, 2016.
-
-If the Proponent cannot complete the work, undertaking or activity during this period, Fisheries and Oceans Canada (DFO) must be notified in advance of the expiration of the above time period. DFO may, where appropriate, provide written notice that the period to carry on the work, undertaking or activity has been extended.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
-
+Body Text:
 The periods during which other conditions of this authorization must be complied with are provided in their respective sections below. DFO may, where appropriate, provide written notice that these periods have been extended, in order to correspond to the extension of the period to carry on a work, undertaking, or activity.
 
-2. Conditions that relate to measures and standards to avoid and mitigate serious harm to fish
+Subtitle: 2. Conditions that relate to measures and standards to avoid and mitigate serious harm to fish
 
-2.1 Sediment and erosion control: Sediment and erosion control measures must be in place and shall be upgraded and maintained, such that release of sediment is avoided at the location of the authorized work, undertaking, or activity.
+Sub-subtitle: 2.1 Sediment and erosion control:
+Sediment and erosion control measures must be in place and shall be upgraded and maintained, such that release of sediment is avoided at the location of the authorized work, undertaking, or activity.
 
-2.1.1 Sediment-laden water from dewatering activities shall be filtered or pumped to a settling basin, dense terrestrial vegetation, or otherwise managed to effectively mitigate the entry of sediment into water bodies.
+List with bullet points:
 
-2.1.2 Effective measures shall be used to keep sediment from entering the Montreal River during construction and removal of the cofferdam and during removal of the existing water control dam.
+- **2.1.1** Sediment-laden water from dewatering activities shall be filtered or pumped to a settling basin, dense terrestrial vegetation, or otherwise managed to effectively mitigate the entry of sediment into water bodies.
+  
+- **2.1.2** Effective measures shall be used to keep sediment from entering the Montreal River during construction and removal of the cofferdam and during removal of the existing water control dam.
 
-2.1.3 All disturbed ground shall be permanently stabilized or re-vegetated as appropriate immediately upon completion of each construction activity.
+- **2.1.3** All disturbed ground shall be permanently stabilized or re-vegetated as appropriate immediately upon completion of each construction activity.
+  
+Subtitle: 2.4 A sediment and erosion control plan can be completed and submitted to DFO prior to work.
 
-2.1.4 A sediment and erosion control plan shall be completed and submitted to DFO prior to work.
+Sub-subtitle: List of measures and standards to avoid and mitigate serious harm to fish:
 
-2.2 List of measures and standards to avoid and mitigate serious harm to fish:
+List with bullet points:
+- **A restricted activity timing window** from November 15 to July 15 shall be adhered to for instream works, undertakings and activities to protect fish and eggs during spawning activities. All work, undertakings, and activities that may result in serious harm during this period shall be isolated from the Montreal River with the following exceptions:
+  
+List of exceptions:
 
-2.2.1 A restricted activity timing window from November 15 to July 15 shall be adhered to for instream works, undertakings, and activities to protect fish and eggs during spawning activities. All work, undertakings, and activities that may result in serious harm during this period shall be isolated from the Montreal River with the following exceptions:
+- **a)** Installation of the upstream slimmer cofferdam can take place after May 1st to July 15th (Phase 1)
+  
+- **b)** Installation of the upstream granular cofferdams and isolation of the upstream work areas can take place after June 1st to July 15th (Phase 1 and 2)
+  
+- **c)** Alterations to the upstream slimmer cofferdam can take place between November 15th and December 30th (between Phase 1 and 2)
 
-a) Installation of the upstream slim cofferdam can take place after May 1st to July 15th (Phase 1)
+Sub-subtitle: Works, undertakings, or activities in or near water that may result in serious harm to fish, other than those referred to above in condition 2.2.1, shall not be undertaken within restricted activity timing windows without written approval from DFO.
 
-b) Installation of the upstream granular cofferdams and isolation of the upstream work areas can take place after June 1st to July 15th (Phase 1 and 2)
+Body Text:
+All reasonable efforts shall be made by the Proponent to minimize the duration of instream works or construction activities when working within restricted conditions as described below:
 
-c) Alterations to the upstream slim cofferdam can take place between November 15th and December 30th (between Phase 1 and 2)
+Page Number: 3**Title:**
+Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAAA-00810
 
-2.2.2 Works, undertakings, or activities in or near water that may result in serious harm to fish, other than those referred to above in condition 2.2.1, shall not be undertaken within restricted activity timing windows without written approval from DFO.
+**Body Text:**
 
-2.2.3 All reasonable efforts shall be made by the Proponent to minimize the duration of instream works or construction activities when working within restricted activity timing windows.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
-
-activity timing windows
-
+activity timing windows  
 2.2.4 Instream works shall be isolated from the Montreal River and undertaken such that water flow around the construction activities is maintained between November 15 and July 15 in the same manner as pre-construction by passing flows through both the existing dam (old dam) and newly constructed dam.
 
-2.2.5 A qualified environmental professional shall be retained to ensure that fish are rescued from all isolated and dewatered construction areas and relocated immediately and unharmed into an area of sufficient flow and cover outside of the construction area. Fish may need to be relocated again, should flooding occur on the site.
+A qualified environmental professional shall be retained to ensure that fish are rescued from all isolated and dewatered construction areas and relocated immediately and unharmed into an area of sufficient flow and cover outside of the construction area. Fish may need to be relocated again, should flooding occur on the site.
 
-2.2.6 All water intakes used to dewater areas that may contain fish shall be screened according to the DFO's Freshwater Intake End-of-Pipe Fish Screen Guideline (1995).
+2.2.6 All water intakes used to dewater areas that may contain fish shall be screened according to the DFO’s Freshwater Intake End-of-Pipe Fish Screen Guideline (1995).
 
 2.2.7 Disturbance to the bed and banks of the watercourse shall be confined to the immediate work sites.
 
-2.2.8 Rock riprap that will come in direct contact with flowing water shall be of sufficient size to resist displacement during high water level events. Riprap shall be placed such that it does not result in flow changes that may damage the bed and/or banks of the watercourse.
+2.2.8 Rip rapr that will come in direct contact with flowing water shall be of sufficient size to resist displacement during high flow events. Riprap shall be placed such that it does not result in flow changes that may damage the bed and/or banks of the watercourse.
 
-2.2.9 Materials used to construct temporary in-water structures shall be removed from the watercourse to the extent practical, once construction is completed, except where materials are being left in place to create fish habitat, or as agreed to by DFO.
+2.2.9 Materials used to construct temporary in-water structures shall be removed from the work area as soon as construction is completed, except where materials are being left in place to create fish habitat, or as agreed by DFO.
 
-2.2.10 The use of explosives in or near water shall follow the mitigation measures outlined in the DFO Measures to Avoid Causing Harm to Fish and Fish Habitat found on our website (http://www.dfo-mpo.gc.ca/pnw-ppe/index-eng.html).
+2.2.10 The use of explosives in or near water shall follow the mitigation measures outlined in the DFO Measures to Avoid Causing Harm to Fish and Fish Habitat found on our website [http://www.dfo-mpo.gc.ca/pnw-pee/index-eng.html](http://www.dfo-mpo.gc.ca/pnw-pee/index-eng.html).
 
-2.2.11 Upstream fish passage for American Eel to support fisheries management objectives for the project area and to support ongoing fisheries management productivity shall be provided by the Proponent upon DFO's request.
+2.2.11 Upstream fish passage for American Eel to support fisheries management objectives for the project area and to support ongoing fisheries productivity shall be provided by the Proponent upon DFO’s request.
 
-a) Plans for design, construction (including methods and schedule), operation, mitigation and monitoring to ensure effective upstream American Eel passage, shall be developed by the Proponent in cooperation with the Ontario Ministry of Natural Resources and Forestry, and are subject to approval by DFO.
+a) Plans for design, construction (including methods and schedule), operation, mitigation and monitoring to ensure effective upstream American Eel passage, shall be developed by the Proponent in cooperation with the Ontario Ministry of Natural Resources and Forestry, and are subject to approval by DFO.  
+b) The Proponent shall begin development of plans for effective upstream American Eel passage as soon as it is clear that the return of American Eel**Title:**
+Paragraph 35(2)(b) of Fisheries Act Authorization: 14-HCAAA-00810 to the Montreal River watershed below the water control is imminent (e.g. is expected within 2 years) or as otherwise directed by DFO.
 
-b) The Proponent shall begin development of plans for effective upstream American Eel passage as soon as it is clear that the return of American EelParagraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
-
-to the Montreal River watershed below the water control is imminent (e.g. is expected within 2 years) or as otherwise directed by DFO.
-
+**Subtitle:**
 2.3 List of contingency measures to be put in place:
 
-2.3.1 Contingency measures outlined in the Application for Authorization and/or as required by DFO, shall be put in place if the results of the monitoring described in condition 3 indicate that the measures and standards to avoid and mitigate serious harm to fish are not successful. Contingency measures shall be discussed with and are subject to DFO approval prior to implementation.
+**Body Text:**
+
+2.3 Contingency measures outlined in the Application for Authorization and/or as required by DFO, shall be put in place if the result of the monitoring described in condition 3 indicate that the measures and standards to avoid and mitigate serious harm to fish are not successful. Contingency measures shall be discussed with and are subject to DFO approval prior to implementation.
 
 2.4 Dates by which these measures and standards shall be implemented:
 
-2.4.1 Measures and standards to avoid and mitigate serious harm to fish shall be implemented by the dates outlined in condition 1 of this authorization with the exception of providing upstream fish passage for American Eel in condition 2.2.11 which shall apply for the life of the structure and be implemented once American Eel have returned to the Montreal River.
+**Subtitle:**
+2.4.1 Measures and standards to avoid and mitigate serious harm to fish shall be implemented by the dates outlined in condition 1 of this authorization with the exception of providing fresh passage for American Eel in condition 2.2.11 which shall apply for the life of the structure and be implemented once American Eel have returned to the Montreal River.
 
-3. Conditions that relate to monitoring and reporting of measures and standards to avoid and mitigate serious harm to fish
+**Subtitle:**
+3. Conditions that relate to monitoring and reporting of measures and standards to avoid and mitigate serious harm to fish:
 
-3.1 Monitoring of avoidance and mitigation measures: The Proponent shall monitor the implementation of avoidance and mitigation measures referred to in condition 2 of this authorization. An annual mitigation monitoring report shall be provided to DFO no later than March 1st, 2016 and March 1st, 2017. The report shall indicate whether the measures and standards to avoid and mitigate serious harm to fish were conducted according to the conditions of this authorization by:
+**Body Text:**
 
-3.1.1 Demonstration of effective implementation and functioning: Where appropriate, monitoring shall be undertaken and reported as described in relevant sections of the Application for Authorization.
+3.1 Monitoring of avoidance and mitigation measures: The Proponent shall monitor the implementation of avoidance and mitigation measures referred to in condition 2 of this authorization. An annual informal monitoring report shall be provided to DFO no later than March 1st, 2016 and March 1st, 2017. The report shall indicate whether the conditions for which these authorizations were conducted according to the conditions of this authorization by:
 
-a) The annual mitigation monitoring report shall summarize the findings of all monitoring activities relevant to the protection of fish and fish habitat and preventing serious harm that occurred during construction in that calendar year being monitored regardless of if they were submitted to DFO as separate reports or updates earlier in that year.
+**Subtitle:**
+3.1.1 Demonstration of effective implementation and functioning:
+Where appropriate, monitoring shall be undertaken as reported as described in relevant sections of the Application for Authorization.
 
-b) Annual reports shall describe the implementation of measures and standards to avoid and mitigate impacts to fish and fish habitat according to the conditions of this Authorization, and the level of effectiveness of the measures at avoiding and mitigating serious harm to fish.
+**Body Text:**
 
-c) Annual reports shall include inspection reports and dated and labeled photographs, where appropriate, to demonstrate effective implementation.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
+a) The annual mitigation monitoring report shall include the findings of all monitoring activities relevant to the protection of fish and fish habitat but preventing serious harm that occurred during construction in that calendar year being monitored regardless if they were submitted to DFO as separate reports or updates earlier in that year.
+b) Annual reports shall describe the implementation of measures and standards to avoid and mitigate impacts on fish and fish habitat according to the conditions of this Authorization, and the level of effectiveness of the measures at avoiding and mitigating serious harm to fish.
 
-and functioning of mitigation measures, including standards described above to limit the serious harm to what is covered by this authorization.
+c) Annual reports shall include inspection reports and dated and labeled photographs, where appropriate, to demonstrate effective implementation.**Paragraph 35(2)(b) Fisheries Act Authorization:**
+- **14-HCAA-00810**
 
-3.1.2 Contingency measures monitoring: Annual reports shall also describe any contingency measures that were implemented or changes to mitigation measures that were required to avoid and mitigate impacts to fish and fish habitat in the event that mitigation measures as initially identified did not function as described or intended.
+---
 
-3.1.3 If the Proponent will be unable to report by the dates in condition 3.1.1, DFO must be notified, and DFO must be notified, and DFO may, where it considers appropriate, provide in writing notice that the period to provide the monitoring reports has been extended.
+**3.1.2 Contingency measures monitoring:**  
+Annual reports shall also describe any contingency measures that were implemented or changes to mitigation measures that were required to avoid and mitigate impacts to fish and fish habitat in the event that mitigation measures initially identified did not function as described or intended.
 
-3.2 Other monitoring and reporting conditions: Fish rescue efforts: 1) Report the total number of fish by species, 2) Numbers released alive and numbers dead by species, 3) Lengths and weights of fish by species (live and dead), 4) Description of how the area was closed and dewatered.
+**3.1.3 If the Proponent will be unable to report by the dates provided under conditions 3.1.1, DFO must be notified:**  
+and DFO may, where it considers appropriate, provide in writing notice that the period to provide the monitoring reports has been extended.
 
-4. Conditions that relate to the offsetting of the serious harm to fish likely to result from the authorized work, undertaking or activity
+---
 
-4.1 Letter of credit: Not Applicable (N/A)
+**3.2 Other monitoring and reporting conditions:**
+- **Fish rescue efforts:** 
+    - Report the total number of fish by species,
+    - Numbers released alive and numbers dead by species,
+    - Lengths and weights of fish by species (live and dead),
+    - Description of how the area was closed and dewatered.
 
-4.2 Scale and description of offsetting measures: In accordance to the Proponent's offsetting plan found in the Application for Authorization, the following measures shall be undertaken:
+**4. Conditions that relate to the offsetting or adverse effects:**  
+from the authorized work, undertaking or activity
 
-4.2.1 Scale and description of offsetting measures: In accordance to the Proponent's offsetting plan found in the Application for Authorization, the following measures shall be undertaken: Removal of the existing dam (old dam) will add 880 m² of river habitat. Walleye spawning habitat and resting habitat will be enhanced downstream of the existing dam (old dam) on the north shore of the Montreal River. The overall enhancement area will be approximately 400 m² and will include the installation of a rock shoal 5-10 m in length and approximately 10-40 m² in area, and 5-10 boulders will be placed 5-10 m apart in the enhancement area. Shoreline/upland will be re-profiled to provide spawning and foraging habitat downstream of the new dam structure. Approximately 720 m² of lake habitat will become river habitat immediately downstream of the new dam structure.
+---
 
-4.3 Offsetting criteria to assess the implementation and effectiveness of the offsetting measures: All fish habitat offsetting measures shall be completed and functioning according to the criteria described in the Proponent's offsetting plan.
+**4.1 Letter of credit: Not applicable**
 
-4.4 Offsetting measures shall be completed during the construction phase.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
+---
 
-4.5 Contingency measures: If the results of monitoring as required in condition 5 indicate that the offsetting measures are not completed by the date specified and/or are not functioning according to the above criteria in 4.3, the Proponent shall give written notice to DFO and shall implement the contingency measures and associated monitoring measures, as contained within the approved offsetting plan to ensure the implementation of the offsetting measures is completed and/or functioning as required by this authorization.
+**4.2 Scale and description of offsetting measures:** In accordance with the Proponent’s offsetting plan found in the Application for Authorization, the following measures shall be undertaken:
 
-4.5.1 Scale and description of contingency measures: Proponent will install additional boulders of appropriate size to resist displacement from flows if enhanced Walleye spawning areas are washed out.
+- **Scale and description of offsetting measures (in accordance to the Proponent's offsetting plan):**
+    - Removal of the existing dam (old dam) will add 880 m² of river habitat,
+    - Walleye spawning habitat and resting habitat will be enhanced downstream of the old dam on the north shore.
+    - The overall enhancement area will include approximately 400 m², including installation of a rock shoal 5-10 m in length and approximately 10-40 m² in area,
+    - Shoreline/upperland will be re-profiled to provide spawning, and foraging habitat downstream of the new dam structure (895 m²), and
+    - Approximately 720 m² of lake habitat will become river habitat immediately downstream of the new dam structure.
 
-4.5.2 Monitoring measures to assess the implementation and effectiveness of the contingency measures: All fish habitat offsetting contingency measures shall be completed and functioning according to the criteria described in the Proponent's offsetting plan.
+---
 
-4.6 The Proponent shall not carry on any work, undertaking or activity that will adversely disturb or impact the offsetting measures.
+**4.3 Offsetting criteria to assess the implementation and effectiveness of the offsetting measures:**  
+All fish habitat offsetting measures shall be completed and functioning according to the criteria described in the Proponent’s offsetting plan.
 
+---
+
+**4.4 Offsetting measures shall be completed during the construction phase.**
+
+---
+
+**6Title: Paragraph 35(2)(b) of Fisheries Act Authorization: 14-HCAAA-00810
+
+Body Text:
+
+4.5 Contingency measures:
+If the results of monitoring as required in condition 5 indicate that the offsetting measures are not completed by the date specified and/or are not functioning according to the above criteria in 4.3, the Proponent shall give written notice to DFO and shall implement the contingency measures and associated monitored measures, as contained within the approved offsetting plan to ensure the implementation of the offsetting measures is completed and/or functioning as required by this authorization.
+
+Subtitle: 4.5.1 Scale and description of contingency measures:
+Proponent will install additional boulders of appropriate size to resist displacement from flows if enhanced Walleye spawning areas are washed out.
+
+Subtitle: 4.5.2 Monitoring measures to assess the implementation and effectiveness of the contingency measures:
+All fish habitat offsetting contingency measures shall be completed and functioning according to the criteria described in the Proponent’s offsetting plan.
+
+Body Text:
+
+4.6 The Proponent shall not carry on any work, undertaking or activity that will adversely impact or impair the offsetting measures.
 4.7 Other conditions related to offsetting: Not applicable (N/A)
 
-5. Conditions that relate to monitoring and reporting of implementation of offsetting measures (described above in section 4):
+Subtitle: 5. Conditions that relate to monitoring and reporting of implementation of offsetting measures:
+(Described above in section 4):
 
-5.1 Schedule(s) and criteria: The Proponent shall conduct monitoring and reporting of the implementation of offsetting measures according to the Application for Authorization and the approved timeline and criteria below:
+Subtitle: 5.1 Schedule(s) and criteria:
+The Proponent shall conduct monitoring and reporting of the implementation of offsetting measures according to the Application for Authorization and the approved monitoring plan.
 
-5.1.1 List of reports to be provided to DFO: The Proponent shall report to DFO on whether the offsetting measures were conducted according to the conditions of this authorization by providing the following:
+Body Text:
 
-a) The annual offsetting monitoring report shall summarize the findings of all monitoring activities relevant to offsetting serious harm to fish and provide analysis of the effectiveness of the measures that offsetting serious harm to fish that occurred during the calendar year being monitored regardless of if findings were submitted to DFO as separate reports or updates earlier in that year.
+a) The annual offsetting monitoring report will summarize the findings of all monitoring activities relevant to offsetting serious harm to fish and provide analysis of the effectiveness of the measures that offsetting serious harm to fish that occurred during the calendar year being monitored regardless of if findings were submitted to DFO as separate reports or updates earlier in that year.
 
-5.1.2 An annual offsetting monitoring report shall be submitted to DFO no later than March 1st each year following the year monitored. Annual reports shall be provided as outlined in condition 5.1 for 3 years post construction.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
+b) An annual offsetting monitoring report shall be submitted to DFO no later than March 1st each year following the year monitored. Annual reports shall be provided as outlined in condition 5.1 for 3 years post construction.
+c) The Proponent is required by law, and reporting of all activities relevant to offsetting serious harm to fish.
 
-b) The annual offsetting monitoring report shall describe any adaptive management or contingency measures that were implemented to offset serious harm to fish, and their effectiveness.
+Footer: Page number - "7"**Title: Authorization Limitations and Application Conditions**
+
+**Paragraph 35(2)(b) Fisheries Act Authorization:** 14-HCAAA-00810
+
+a) The annual offsetting monitoring report shall describe any adaptive management or contingency measures that were implemented to offset serious harm to fish, and their effects.
 
 c) Annual reports shall describe any measures implemented to avoid adverse effects on fish and fish habitat resulting from implementing the offsetting plan.
 
 d) Annual reports shall include inspection reports and dated and labeled photographs, where appropriate, to demonstrate effective implementation and functioning of mitigation measures, including standards described above to limit the serious harm to what is covered by this authorization.
 
-5.2 Other monitoring and reporting conditions for offsetting: Not Applicable (N/A)
-
-Authorization Limitations and Application Conditions
+**5.2 Other monitoring and reporting conditions for offsetting:** Not Applicable (N/A)
 
 The Proponent is solely responsible for plans and specifications relating to this authorization and for all design, safety and workmanship aspects of all the works associated with this authorization.
 
-The holder of this authorization is hereby authorized under the authority of Paragraph 35(2)(b) of the Fisheries Act, R.S.C., 1985, c.F. 14 to carry on the work(s), undertaking(s) and/or activity(ies) that are likely to result in serious harm to fish as described herein. This authorization does not purport to release the applicant from any obligation to obtain permission from or to comply with the requirements of any other regulatory agencies.
+The holder of this authorization is hereby authorized under the authority of Paragraph 35(2)(b) of the Fisheries Act. R.S.C., 1985, c.F.14 on carry on the work(s), undertaking(s) and/or activity(ies); that are likely to be result in serious harm to fish as described herein.
 
-This authorization does not permit the deposit of a deleterious substance in water frequented by fish. Subsection 36(3) of the Fisheries Act prohibits the deposit of any deleterious substances into waters frequented by fish unless authorized by regulations made by the Governor in Council.
+This authorization does not permit the release from any applicant for permission or compliance with the requirements of any other regulatory agencies.
 
-This authorization does not permit the killing, harming, harassing, capturing or taking of individuals of any aquatic species listed under the Species at Risk Act (SARA) (s. 32 of the SARA), or the damage or destruction of the critical habitat of any such species (s. 58 of the SARA).
+This authorization does not permit the depositing, destruction or removal of such species listed under the Species at Risk Act (SARA) (s. 32 of the SARA), or the damage or destruction of residence individuals of such species (s. 33 of the SARA); or the destruction of critical habitat of any such species; s.58 of the SARA).
 
 At the date of issuance of this authorization, no individuals of aquatic species listed under the Species at Risk Act (SARA) were identified in the vicinity of the authorized works, undertakings or activities.
 
-The failure to comply with any condition of this authorization constitutes an offence under Paragraph 40(3)(a) of the Fisheries Act and may result in charges being laid under the Fisheries Act.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
+The failure to comply with any condition of this authorization constitutes an offence under Paragraph 40(3)(a) of the Fisheries Act and may result in charges being laid out under the Fisheries Act.**Title:**
+Paragraph 35(2)(b) of Fisheries Act Authorization: 14-HCAA-00810
 
+**Body Text:**
 This authorization must be held on site and work crews must be made familiar with the conditions attached.
 
 This authorization cannot be transferred or assigned to another party. If the work(s), undertaking(s) or activity(ies) authorized to be conducted pursuant to this authorization are expected to be sold or transferred, or other circumstances arise that are expected to result in a new Proponent taking over the work(s), undertaking(s) or activity(ies), the Proponent named in this authorization shall advise DFO in advance.
 
-Date of Issuance: MAY 08 2015
+**Date of Issuance:**
+MAY 08 2015
 
-Approved by:
+**Approved by:**
 David Burden
 Regional Director General
 Central & Arctic Region

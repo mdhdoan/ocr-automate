@@ -1,201 +1,226 @@
-PATH No.: 18-HCAA-00145
+**Title:**
+Fisheries and Oceans Canada - Pêches et Œufs Canada
 
-FISHERIES AND OCEANS
-Pêches et Océans
-Canada
+**Subtitle:**
+PARAGRAPH 35(2)(b) FISHERIES ACT AUTHORIZATION (A DEEMED PARAGRAPH 34.4(C)(B) AND D 35(2)(B) FISHERIES ACT AUTHORIZATION ISSUED UNDER THE AMENDED FISHERIES ACT)
 
-PATH No.: 18-HCAA-00145
+**Header:**
+Authorization issued to:
+Ontario Ministry of Transportation
 
-PARAGRAPH 35(2)(b) FISHERIES ACT AUTHORIZATION (A DEEMED
-PARAGRAPH 34.4(2)(B) AND 35(2)(B) FISHERIES ACT
-AUTHORIZATION AUTHORIZATION ISSUED UNDER UNDER THE AMENDED FISHERIES ACT)
-
-Authorization issued to
-Ontario Ministry of Transportation (hereafter referred to as the "Proponent")
-
-Attention to: Valerie Nantais
-Exeter Road Road Complex, 3rd Floor
+**Attention To:**
+Valerie Nantais
+Exeter Road Complex, 3rd Floor
 659 Exeter Road
 London, ON
 N6E 1L3
 
-Location of Proposed Project
+**Location of Proposed Projected Site:**
+Nearest community (city, town, village): Kitchener  
+Municipality, district, township, county; Regional Municipality of Waterloo  
+Province: Ontario  
 
-Nearest community (city, town, village): Kitchener
-Municipality, district, township, county: Regional Municipality of Waterloo
-Province: Ontario
-Name of watercourse, waterbody: Grand River
+Name of watercourse, bodywater: Grand River  
+Longitude and latitude, UTM Coordinates: 43.79381, -80.386060
 
-Longitude and latitude, UTM Coordinates: 43.397984, -80.386060
-
-Description of Proposed Project
-
+**Description of Proposed Projected Site:**
 The proposed project of which the work, undertaking or activity authorized is a part involves:
 
-The removal of two existing Highway 401 bridge structures crossing the Grand River near Kitchener, ON and their replacement with two, 225 m long, four span bridge structures with a 40-55-75-55 m span configuration. Additionally, the extension of two corrugated steel pipe culverts located on an unnamed tributary to Blair Creek and an unnamed tributary to the Grand River.
+- The removal of two existing Highway 401 bridge structures crossing the Grand River near Kitchener, ON and their replacement with four long span bridge structures with a 40-55-76.5 m span configuration. Additionally, the extension of two corrugated steel pipe culverts located on an unnamed tributary to Blair Creek and an unnamed tributary to the Grand River.
 
-Description of Authorized work(s), undertaking(s) or activity(ies) likely to result in serious harm to fish
+**Description of Authorized Work(s), undertaking(s) or activity(ies):**
+likely to result in serious harm to fish
 
-The work(s), undertaking(s), or activity(ies) associated with the proposed project described above, that are likely to result in serious harm to fish, are:
+- The installation of two (east and west) temporary rock causeways with a combined footprint of 779 m² below the high water mark of the Grand River for a duration of approximately 6 months during year one.
+  
+- The installation of two (east and west) temporary rock causeways with a combined footprint of 1057 m² below the high water mark of the Grand River for a duration of approximately 6 months during year two.
 
-- The installation of two (east and west bank) temporary rock causeways with a combined footprint of 779 m² below the high water mark of the Grand River for a duration of approximately 6 months during year one of construction.
-- The installation of two (east and west bank) temporary rock causeways with a combined footprint of 1057 m² below the high water mark of the Grand River for a duration of approximately 6 months during year two of construction.
-- The installation of two (east and west bank) temporary rock causeways with a combined footprint of 227 m² below the high water mark of the Grand River for a duration of approximately 6 months during year three of construction.
-- The installation of two new bridge piers with a combined footprint of 677 m² below the high water mark of the Grand River.A 32.5 m² extension of an existing culvert on an unnamed tributary of the Grand River.
-A 10.8 m² extension of an existing culvert on an unnamed tributary of Blair Creek.
+**Description of Proposed Projected Site:**
+The combination of two new bridge piers with a combined footplate of 676 m² below the high water mark of the Grand River.Title: Conditions of Authorization
 
-The serious harm to fish likely to result from the proposed work, undertaking, or activity, and covered by this authorization are:
+Body Text:
+- A 32.5 m² extension of an existing culvert on an unnamed tributary of the Grand River.
+- A 10.8 m² extension of an existing culvert on an unnamed tributary of Blair Creek.
 
-- Permanent alteration of a total of 2,363 m³ of fish habitat due to the installation of temporary rock causeways for a duration of 6 months per construction year (Year 1: 779 m³, Year 2: 1057 m³, Year 2: 1057 m³, Year 3: 227 m³) in the Grand River.
-- Permanent alteration of approximately 32.5 m³ of fish habitat due to corrugated steel pipe culvert extension on an unnamed tributary of the Grand River.
-- Permanent alteration of approximately 10.8 m³ of fish habitat due to corrugated steel pipe culvert extension on an unnamed tributary of Blair Creek.
-- Destruction of 677 m³ of fish habitat due to new bridge pier installation in the Grand River.
+Subtitle: The serious harm to fish likely to result from the proposed work(s), undertaking(s), or activity(ies),
+
+Body Text:
+Permanent alteration of a total of 2,363 m² of fish habitat due to the installation of temporary rock causeways for a duration of 6 months per construction year (Year 1: 797 m²,
+Year 2: 1057 m³, Year 3: 227 m²) in the Grand River.
+Permanent alteration of approximately 32.5 m² of fish habitat induced to corrugated steel pipe culvert extension on an unnamed tributary of the Grand River.
+Permanent alteration of approximately 10.8 m² of fish habitat due to corrugated steel pipe culvert extension on an unnamed tributary of Blair Creek.
+
+- Destruction of 677 m² of fish habitat due to new pier installation in the Grand River.
 - Death of fish of an incidental nature during the rescue and relocation of fish within isolated areas.
 
-Conditions of Authorization:
+Subtitle: Conditions of Authorization
 
-1. Conditions that relate to the period during which the work, undertaking, or activity that will result in serious harm to fish can be carried on:
-1.1 The work, undertaking, or activity that results in serious harm to fish is authorized to be carried on during the following period:
-From: Date of Issuance
-To: December 31, 2024
+Body Text:
+This described work, undertaking or activity that is likely to result in serious harm to fish must be carried on in accordance with the following conditions:
 
-If the Proponent cannot complete the work, undertaking, or activity during this period, Fisheries and Oceans Canada (DFO) must be notified in advance of the expiration of the above time period. DFO may, where appropriate, provide written notice in advance of the period to carry on the work, undertaking, or activity has been extended.
+1. Conditions that relate to the period during which the work, undertaking(s), or activity that will result in serious harm to fish can be carried on
+   a) The work, undertaking or activity that results in serious harm to fish is authorized to be carried out on December 31, 2024
 
-The periods during which other conditions of this authorization must be complied with are provided in their respective sections below. DFO may, where appropriate, provide written notice that these periods have been extended, in order to correspond to the extension of the period to carry on a work, undertaking, or activity.
+From: Date of Issuance To: Date of Expiration (December 31, 2024)
 
-2. Conditions that relate to measures and standards to avoid and mitigate serious harm to fish:
-2.1 Sediment and erosion control: Sediment and erosion control measures must be in place and shall be upgraded and maintained, such that release of sediment is avoided at the location of the authorized work, undertaking, or activity.
-2.2 List of measures and standards to avoid and mitigate serious harm to fish:
-2.2.1 A qualified environmental professional shall be on-site to monitor all instream and shoreline activities.
-2.2.2 The project shall be designed and constructed in a manner that shall not result in impacts to fish passage or migration.2.2.3. Whenever feasible, the work area shall be isolated to prevent deleterious substances from migrating out of the isolated area and equipment shall operate from outside the wetted width or from within the isolated area and shall contain fluids that are non-toxic to aquatic life.
+If the Proponent cannot complete the work, undertaking or activity during this period, Fisheries and Oceans Canada (DFO) must be notified in advance of the expiration of the above time period. DFO may, where appropriate, provide written notice that the period to carry on the work, undertaking or activity has been extended.
 
-2.2.4. Should the need for dewatering arise, water shall be released into a well-vegetated area or settling basin and not directly into fish-frequented waters. Water returning to fish-frequented waters shall be of equal or better quality than the water in the fish-frequented waters.
+The periods during which other conditions of this authorization must be complied with are provided in their respective sections below. DFO may, where appropriate, provide written notice that these periods have been extended, therefore to correspond to the extension of the period to carry on a work,
+undertaking, or activity.
 
-2.2.5. Where water is pumped from fish-frequented waters for any purpose, pump intakes shall be screened in accordance with DFO's "Freshwater Intake End-of-Pipe Fish Screen Guideline" (1995, http://www.dfo-mpo.gc.ca/Library/223669.pdf). The outlet shall have a diffuser or be placed in a location that is not subject to erosion from the outflow.
+2. Conditions that relate to measures and standards to avoid and mitigate serious harm to fish
+   1) Sediment and erosion control: Sediment and erosion control measures must be in place and shall be upgraded maintained such that release of sediment is avoided at the location of the authorized work,
+undertaking, or activity.
+2. List of measures and standards to avoid and mitigate serious harm to fish:
+    a) A qualified environmental professional shall be on-site to monitor all instream and shoreline activities.
 
-2.2.6. Any water drainage systems shall be constructed in a way as to prevent erosion and release of sediment or sediment laden water into any fish-bearing waterbodies and watercourses.
+b) The project shall be designed and constructed in a manner that shall not result in impacts
+   1) Fish passage or migration
 
-2.2.7. Water released to the environment shall meet the Council of Ministers of the Environment (CCME) "Canadian Water Quality Guidelines for the Protection of Aquatic Life".
+Footer: Page number - "2"**Title:**
+2.3.1 Monitoring of avoidance and mitigation measures; The Proponent shall monitor the implementation of avoidance and mitigation measures referred to in condition 2 of this authorization and report to 
 
-2.2.8. Riprap shall:
+---
 
-2.2.8.1. Be free of contaminants and artificial debris prior to placement and, if applicable, be of sufficient size to resist displacement during design flood events
+**Body Text:**
 
-2.2.8.2. Not be obtained from areas below the ordinary high water mark of any fish-frequented waters
+2.2.3. Whenever feasible, the work area shall be isolated to prevent deleterious substances from migrating out of the isolated area where equipment shall operate from outside the wetted width or within from the isolated area and shall contain fluids that are non-toxic to aquatic life.
 
-2.2.9. Fish and mussels in isolated areas shall be rescued and relocated to an area within the same watercourse containing containing suitable habitat prior to any works commencing within the isolated area. Fish rescues shall include effective capture and handling procedures designed to minimize mortality (e.g. electrofishing, seine netting, minnow trapping). Mussel relocations shall be in accordance with DFO's "Protocol for the detection and relocation of freshwater mussel species at risk in Ontario Great Lakes area (OGLA)" (Mackie, Morris, Ming, 2008).
+2.4. Should never need for dewatering arise, water shall be released into a well-vegetated area or settling basin and not directly into fish-watered waters. Water returning to fish-frequented waters shall be equal of quality or better than the water in the river.
 
-2.2.10. All spoil materials and debris from the project area shall be removed from the site and properly disposed of above the high water mark such that it does not enter any fish-frequented waters.
+2.5. Where water is pumped from fish-frequented waters for any purpose, pump intakes shall be screened in accordance with DFO’s “Freshwater Intake End-of-Pipe Fish Screen Guideline” (1995, http://www.dfo-mpo.gc.ca/Library/23669.pdf). The outlet may have a diffuser or be placed in a location that is not subject to erosion from the outflow.
 
-2.2.11. Equipment operating in or near fish-frequented waters shall be operated, refuelled and serviced in a manner that prevents spills, leaks or wash water from entering fish-frequented waters.
+2.6. Any water drainage systems shall be constructed in a way as to prevent erosion and release of sediment into any fish-bearing watershodies and watercourses.
 
-2.2.12. Temporary rock causeways shall be installed no sooner than July 1st and shall remain in-water for no longer than 6 months during any given construction year.
+2.7. Water released to the environment should meet the Council of Ministers of the Environment (CCME) “Canadian Water Quality Guidelines for the Protection of Aquatic Life”.
 
-2.2.13. Short term rock causeways shall be installed no sooner than July 1st and shall remain in-water for no longer than 3 months during any given construction year.
+**Subtitle:**
+2.8. Riprap shall:
 
-2.2.14. No less than 15 large boulders shall be evenly dispersed around any installed rock causeway to provide velocity refuge to passing fish.
+- Be free from contaminants and artificial debris prior to placement, and if applicable, be of sufficient size to resist displacement during design flood events
+- Not be obtained from areas marked by any fish-frequented waters
 
-2.2.15. Disturbed areas associated with the construction site shall be revegetated as soon as possible with plant species native to the area.
+2.9. Fish and mussels in isolated areas shall be rescued and relocated to an area within the same enclosure containing suitable habitat before any works commencing within the isolated area.
 
-2.3. Contingency measures: Works shall be halted if monitoring required in condition 3 below indicates that the measures and standards to avoid and mitigate serious harm to fish are not successful. Additional measures to avoid and mitigate serious harm shall be developed and submitted to Fisheries and Oceans Canada for approval prior to works recommencing.
+**Subtitle:**
+2.10. All spoil materials and debris from the project area should be removed from the site and properly disposed of above the high water mark such that it does not enter any fish-watered waters.
 
-2.4. Dates by which these measures and standards shall be implemented: Measures and standards to avoid and mitigate serious harm to fish shall be implemented at the start of the project and maintained throughout the duration of the project.
+2.11. Equipment operating in or near freshwater-occupied waters shall be refueled, refilled during a service in a manner that prevents spills, leaks or waste entering into fresh water
 
+**Subtitle:**
+2.12. Temporary rock causways should be installed no sooner than July 1st and shall remain in place for at least 6 months.
+
+2.13. Short term rock causways shall be installed no sooner than given construction year but shall remain in-water for a minimum of 3 days during any given construction year
+
+**Subtitle:**
+2.14. No less than 15 large boulders should be evenly dispersed around the wetted perimeter of any installed rock causway to provide vehicle refuge to passing fish.
+
+2.15. Disturbed areas associated with the construction site shall be revegetated as soon as possible with plant species native to the area.
+
+**Subtitle:**
+2.3. Contingency measures; Works shall be halted if monitoring required in condition 3 below indicates that the measures and standards to avoid and mitigate serious harm to fish are not successful. Additional measures to avoid and mitigate serious harm shall be developed and submitted to Fisheries and Oceans Canada for approval prior to works recommencing.
+
+2.4. Dates by which these measures and standards shall be implemented; Measures and standards to avoid and mitigate serious harm to fish shall be implemented at the start of the project and maintained throughout the duration of the project.
+
+**Subtitle:**
 3. Conditions that relate to monitoring and reporting of measures and standards to avoid and mitigate serious harm to fish
 
-3.1 Monitoring of avoidance and mitigation measures: The Proponent shall monitor the implementation of avoidance and mitigation measures referred to in condition 2 of this authorization and report toDFO after the completion of the construction works with the potential to cause serious harm to fish, by no later than December 31, 2025, indicating whether the measures and standards to avoid and mitigate serious harm to fish were conducted according to the conditions of this authorization. This shall be done by:
+---
 
-3.1.1 Demonstration of effective implementation and functioning: Inspection reports with dated and annotated photographs taken of the pre-construction, during construction and post-construction periods, showing works completed according to the approved plan and conditions of this Authorization shall be submitted to DFO. Photographs for each period shall be taken from the same vantage point(s), direction and angle of view for comparison. These photos must demonstrate effective implementation and functioning of mitigation measures and standards described above to limit the serious harm to fish to what is covered by this authorization.
+**Footer:**
 
-3.1.2 Contingency measures: Providing details of any contingency measures that were followed to prevent impacts greater than those covered by this authorization in the event that mitigation measures did not function as described.
+- Page number 3Title: None provided in the image.
 
-3.2 Other monitoring and reporting conditions:
+Body Text:
+- The document appears to be a section from a larger report or manual, discussing various aspects of fish protection measures during construction work. It includes references to specific sections within this context (e.g., "4.1", "4.2"), which likely correspond to detailed procedures and guidelines for ensuring the safety of fish populations.
 
-3.2.1 The Authorization Holder shall conduct monitoring as per the proposed plan: "Ministry of Transportation – West Region, Highway 401 Grand River Bridge Replacements, Fisheries Act Authorization Permit Application Package – DFO File #18-HCAA-00145" prepared by WSP on behalf of the Ontario Ministry of Transportation, submitted August 27, 2019, including continual monitoring throughout the fish and mussel relocation operations, and daily monitoring for risk of erosion and sedimentation downstream.
+Subtitles:
+- 3.1 Demonstration of effective implementation and functioning: Inspection reports with dated and annotated photographs taken during pre-construction, during construction and post-construction periods.
+- 3.2 Other monitoring and reporting conditions
+- Conditions that relate to the offsetting of the serious threat to fish likely to result from the authorized work, undertaking or activity
 
-4 Conditions that relate to the offsetting of the serious harm to fish likely to result from the authorized work, undertaking or activity
+List Items:
+1. Demonstration of effective implementation and functioning: Inspection reports with dated and annotated photographs taken during pre-construction, during construction and post-construction periods.
+2. Other monitoring and reporting conditions
+   - The Holder shall conduct monitoring as per the proposed plan; "Ministry of Transportation – West Region, Highway 401 Grand River Bridge Replacements, Ministry Act Authorization Permit Application Package" etc.
 
-4.1 Scale and description of offsetting measures: The offsetting measures shall be carried out in accordance with the measures set out in the Proponent's offsetting plan: "Ministry of Transportation – West Region, Highway 401 Grand River Bridge Replacements, Fisheries Act Authorization Permit Application Package – DFO File #18-HCAA-00145" prepared by WSP on behalf of the Ontario Ministry of Transportation, submitted August 27, 2019, approved by DFO and summarized as follows:
+Subsections:
+- Contingency measures: Providing details of any contingency measures that were followed to prevent impacts greater than those covered by this authorization in the event that mitigation measures did not function as described.
+- Conditions that relate to the offsetting of the serious threat to fish likely to result from the authorized work, undertaking or activity
 
-4.1.1 Creation of overwintering pool habitat: The construction of stable deep pools that will retain an open-water portion throughout the winter months, allowing fish occupation year-round. The overwintering pool habitat shall:
-4.1.1.1 Consist of two large, elongated pools (approximately 294 m² each) created below the new bridge, adjacent to the new piers, and two smaller pools (approximately 179 m² each) created upstream and downstream of the new bridge;
-4.1.1.2 Be of a depth of no less than 1.7 m;
-4.1.1.3 Contain substrates designed to encourage the continual scouring of the pool; and
-4.1.1.4 Be stabilized through the use of keystones at the upstream ends of the pools which will direct flows to continually scour out the base.
+Additional Information:
+- The document includes references to specific sections within a larger package (e.g., "4.1", "4.2"), which suggest it is part of a more comprehensive set of guidelines.
 
-4.1.2 Bank remediation and rehabilitation: The restoration of approximately 1,113 m² of an unstable and eroding bank section located immediately downstream of the bridge structure on the east river bank. The bank remediation and rehabilitation shall include:
-4.1.2.1 The replacement of two corrugated steel pipe (CSP) drainage outlets with a 1 m bottom ditch lined with rip-rap;
-4.1.2.2 The modification of a third CSP drainage outlet to outlet into a controlled pool with a rock pad;
-4.1.2.3 The re-grading of the bank section to accommodate the new drainage outlets and reduce erosion; and4.1.2.4 Planting of the bank section with native species to further stabilize the slope and prevent erosion and sediment release into the river.
+Please note that due to the nature of the image and its content being technical in nature, I have transcribed as much detail as possible without attempting to interpret or analyze any specific data or procedures beyond what has been provided directly within the text.Title: None provided in the image.
 
-4.1.3 Habitat diversification and enhancement features: The installation of a series of large boulder clusters in the areas previously occupied by the rock causeways, covering approximately 50 m² and the installation of anchored sweeper trees along the east shoreline at the location of the bank remediation and rehabilitation activities, covering approximately 100 m².
+Body Text:
+4.1.2.3 Planting of the bank section with native species to further stabilize the slope and prevent erosion and sediment release into the river.
 
-4.2 Offsetting criteria to assess the implementation and effectiveness of the offsetting measures: All fish habitat offsetting measures shall be completed and functioning according to the criteria below and as described in the Proponent's offsetting plan referred to in condition 4.1:
+Subtitle: 4.1.3 Habitat diversification and enhancement features:
 
-4.2.1 All offsetting works shall be completed and functioning by December 31, 2024.
+Body Text:
+The installation of a series of large boulder clusters in the areas previously occupied by the rock caissons, covering approximately 50 m² and the installation of anchored sweeper trees along the east shoreline at the location of the bank remediation and rehabilitation activities, covering approximately 100 m².
 
-4.2.2 Photographic Documentation: A digital photographic record of pre-construction, during construction and post-construction conditions shall be compiled using the same vantage points and direction to verify that each individual offsetting component has been constructed in accordance with the offsetting plan.
+Subtitle: 4.2 Offsetting criteria to assess the implementation and effectiveness of the offsetting measures:
 
-4.2.3 As-built drawings: An as-built survey shall verify that each individual offsetting component has been constructed in accordance with the offsetting plan.
+Body Text:
+All fish habitat offsetting measures shall be completed and functioning according to the criteria below as described in the Proponent's offsetting plan referred to in condition 4.1.
+   a) All offsetting works shall be completed and functioning by December 31, 2024.
 
-4.2.4 Overwintering pool habitat: All created habitat shall retain depths of no less than 1.7 m, shall maintain typical pool substrate, shall not significantly disrupt other morphological features of the river, shall maintain temperatures suitable for fish survival over the winter months and shall be actively utilized by fish.
+Subtitle: 4.2.2 Photographic Documentation:
 
-4.2.5 Vegetation: Vegetation cover and plantings shall achieve 80% coverage of area and survival of planted stock.
+Body Text:
+A digital photographic record of pre-construction, during construction and post-consultation conditions shall be compiled using the same vantage points and direction to verify that each individual offsetting component has been constructed in accordance with the offsetting plan.
+   b) As built drawings: An as-built survey shall verify that each individual offsetting component has been constructed in accordance with the requirements of the offsetting plan.
 
-4.2.6 Bank remediation and rehabilitation: The restored bank section and drainage outlets shall be stable and show no signs of excessive erosion beyond the natural range.
+Subtitle: 4.2.3 Overwintering pool habitat:
 
-4.2.7 Habitat diversification and enhancement features: Boulder clusters shall remain stable and demonstrate use by fish as velocity refuge habitat and in-stream cover. Sweeper trees shall be stable and demonstrate active use by fish for refuge, in-stream cover and nursery habitat.
+Body Text:
+All created pool habitat will retain depths of no less than 1.7 m, shall maintain typical pool substrate; shall not significantly disrupt other morphological features of the river, shall maintain temperatures suitable for fish survival over the winter months and shall be actively utilized by fish.
 
-4.3 Contingency measures: If the results of monitoring as required in condition 5 indicate that the offsetting measures are not completed by the date specified and/or are not functioning according to the above criteria in 4.2, the Proponent shall give written notice to DFO and shall implement the contingency measures and associated monitoring measures, as contained within the approved offsetting plan, in consultation with DFO, to ensure the implementation of the offsetting measures is completed and/or functioning as required by this authorization.
+Subtitle: 4.2.4 Vegetation:
 
-4.3.1 Scale and description of contingency measures: The Proponent shall conduct necessary works, undertakings or activities to ensure the structural stability and ongoing functionality of any contingency offsetting habitat in consultation with and to the satisfaction of DFO, should the offsetting plan not meet the requirements for offsetting associated with this Authorization.
+Body Text:
+Vegetation cover and plants will achieve 80% coverage of area and survival of planted stock.
+   b) Bank remediation and rehabilitation: The restored bank section and drainage outlets should be stable and show no signs of excessive erosion beyond the northern range.
 
-4.3.2 Monitoring measures to ensure offsetting contingency is completed and/or functioning as required: The Proponent shall conduct monitoring to document the success of any contingency offsetting habitat to the satisfaction of DFO, to ensure the offsetting success of any contingency offsetting measures is completed and/or functioning as required by this authorization.
+Subtitle: 4.2.5 Habitat diversity enhancement:
 
-4.4 The Proponent shall not carry on any work, undertaking or activity that will adversely disturb or impact the offsetting measures.
+Body Text:
+Boulder clusters can remain stable and demonstrate use by fish as velocity refuge habitat in and out-of-season, Sweeper trees shall be used to provide active use for fish such as trout, in-cover and cover material.
+   c) Contingency measures; if the results of monitoring are indicated on condition 5 indicate that the offsetting measures are not completed by the specified date and/or are not functioning according to the above criteria in 4.2, then the Proponent shall be given written notice to DFO and shall implement the contingency planning activities associated with monitoring measures, as contained within the approved offsetting plan, in consultation with DFO, to ensure the implementation of the offsetting measures is completed and/or as functioning required by this authorization.
 
-5 Conditions that relate to monitoring and reporting of implementation of offsetting measures (described above in section 4):
+Subtitle: 4.2.6 Scale and description of contingency measures:
 
-5.1 Schedule(s) and criteria: The Proponent shall conduct monitoring of the implementation of offsetting measures according to the approved offsetting plan, as summarized in the timeline andcriteria below. Monitoring shall occur in years 2, 4 and 5 (2026, 2028 and 2029), unless otherwise noted.
+Body Text:
+The Proponent shall conduct necessary works, undertakings or activities to ensure the structural stability and ongoing functionality of any contingency offsetting plan not meeting the requirements for offsetting associated with this Authorization.
+   d) Monitoring measures to ensure offsetting contingency is completed and/or functioning as required: The Proponent shall conduct monitoring to document the success of any contingency offsetting habitat to the satisfaction of DFO, to ensure the offsetting measures are completed and/or as functioning required by this authorization.
 
-5.1.1 Photographic Documentation: A digital photographic record of pre-construction, during construction and post-construction conditions shall be compiled using the same vantage points and direction.
+Subtitle: 4.2.7 Conditions that relate to monitoring and reporting of implementation of offsetting measures:
 
-5.1.2 As-built drawings: An as-built survey shall be conducted within 6 months of completion of the offsetting construction, and reported on once post-construction.
+Body Text:
+(5) Schedule(s) and criteria; The Proponent shall conduct monitoring of the implementation of offsetting measures according to the approved offsetting plan, as summarized in the timeline and conditions relating to monitoring.
 
-5.1.3 Overwintering pool habitat: The dimensions, depth and substrate composition of the overwintering pool habitat shall be assessed to verify the pools are retaining their designed form. Fish sampling shall be conducted within each overwintering pool to confirm utilization and species composition. Temperatures shall be recorded throughout the winter months to verify that the habitat is suitable for fish survival.
+Footer: Page number "3" is visible at the bottom right corner.**Title:** [Not visible in the image]
 
-5.1.4 Vegetation assessment: Percent cover of herbaceous ground cover and percent survival of planted stock shall be assessed.
+---
 
-5.1.5 Bank remediation and rehabilitation: Restored bank section shall be visually assessed to ensure the drainage outlet features are functioning as designed and that excessive erosion beyond the natural range is not occurring.
+**Body Text:**
 
-5.1.6 Habitat diversification and enhancement features: Bolder clusters and sweeper trees shall be visually inspected to verify they are stable and functioning as intended. Fish sampling shall be conducted around each habitat enhancement feature to assess fish utilization and species composition.
+5.1.2	As-built drawings: An as-built survey shall be conducted within 6 months of completion of the offsetting construction, and reported on once post-construction.
 
-5.2 List of reports to be provided to DFO: The Proponent shall report to DFO on whether the offsetting measures were conducted according to the conditions of this authorization by providing the following:
+Overwintering pool habitat: The dimensions, depth and substrate composition of the overwintering pool habitat shall be assessed to verify that the pools are retaining their designed form. Fish sampling shall be conducted within each overwintering pool to confirm utilization and species composition. Temperatures shall be recorded throughout the winter months in order to verify that the habitat is suitable for fish survival.
 
-5.2.1 A post-construction monitoring monitoring report shall be submitted to DFO on or before December 31, 2025.
+Vegetation assessment: Percent cover of herbaceous ground cover and percent seasonal planted stock will be assessed.
+Bank remediation and rehabilitation; Restored bank section shall be visually assessed to ensure the removal outlet features are functioning as designed and that excessive erosion beyond the natural range is not occurring.**Title:**
+The failure to comply with any condition of this authorization constitutes an offence under Paragraphs 40(3)(a) of the Fisheries Act and may result in charges being laid under said Act.
 
-5.2.2 Monitoring reports, as per condition 5.1, shall be submitted to DFO prior to the end of each monitoring year, on or before December 31, 2026 (year 2), December 31, 2028 (year 4) and December 31, 2029 (year 5).
+**Body Text:**
+This authorization must be held on site and work crews must be made familiar with the conditions attached. This authorization cannot be transferred or assigned to another party. If the work(s), undertaking(s) or activity(ies) are authorized to be conducted pursuant to this authorization are expected to be sold or transferred, other circumstances that are expected to result in a new Proponent taking over the work(s), undertaking(s) or activity(ies), the Proponent named in this authorization shall advise DFO in advance.
 
-Authorization Limitations and Application Conditions
+**Date of Issuance:**
+JAN 10 2020
 
-The Proponent is solely responsible for plans and specifications relating to this authorization and for all design, safety and workmanship aspects of all the works associated with this authorization.
-
-The holder of this authorization is hereby authorized under the authority of Paragraph 35(2)(b) of the Fisheries Act, R.S.C., 1985, c.F-14, to carry on the work(s), undertaking(s) and/or activity(ies) that are likely to result in serious harm to fish as described herein.
-
-This authorization does not purport to release the applicant from any obligation to obtain permission from or to comply with the requirements of any other regulatory agencies.
-
-This authorization does not purport to release the applicant from any obligation to obtain permission from or to comply with the requirements of any other regulatory agencies.
-
-In accordance with An Act to amend the Fisheries Act and other Acts in consequence, this authorization is deemed to have been issued under the authority of paragraphs 34.4(2)(b) and 35(2)(b) of the Fisheries Act as those paragraphs read after the day on which section 22 of An Act to amend the Fisheries Act and other Acts in consequence came into force, on August 28, 2019. This authorization also acts as a permit under the Species at Risk Act, as per section 74 of that Act.The failure to comply with any condition of this authorization constitutes an offence under Paragraphs 40(3)(a) of the Fisheries Act and may result in charges being laid under said Act.
-
-This authorization must be held on site and work crews must be made familiar with the conditions attached.
-
-This authorization cannot be transferred or assigned to another party. If the work(s), undertaking(s) or activity(ies) authorized to be conducted pursuant to this authorization are expected to be sold or transferred, or other circumstances arise that are expected to result in a new Proponent taking over the work(s), undertaking(s) or activity(ies), the Proponent named in this authorization shall advise DFO in advance.
-
-Date of Issuance: JAN 10 2020
-
-Approved by:
+**Approved by:**
 David Nanang
-Regional Director General
-Central and Arctic Region
-Fisheries and Oceans Canada
+Regional Director General Central and Arctic Region Fisheries and Oceans Canada

@@ -4,13 +4,13 @@
     "Date_of_Issuance": "may 08 2015",
     "Condition_summary_1": "mitigation measures including fish rescue reporting, habitat offsetting, and compliance with SARA",
     "Condition_summary_2": "monitoring and reporting requirements for both mitigation and offsetting measures, including annual reports with data and photographs",
-    "Condition_summary_3": "implementation of offsetting measures to enhance habitats such as walleye spawning areas and rock shoals",
-    "Condition_summary_4": "prohibition on transferring authorization and legal consequences for non-compliance",
+    "Condition_summary_3": "implementation of offsetting measures during construction phase with specific habitat enhancements",
+    "Condition_summary_4": "prohibition on transferring authorization and requirement to maintain on-site documentation",
     "Habitat_Type": "river, lake, shoreline, spawning, resting, foraging",
     "Fish_species": "walleye",
-    "Offset_footprint_size": "880 m2 (river habitat from old dam removal), 400 m2 (walleye spawning with rock shoal), 895 m2 (shoreline re-profiling), 720 m2 (lake to river habitat conversion)",
+    "Offset_footprint_size": "880 m2 (river habitat from old dam removal), 400 m2 (Walleye spawning and resting), 895 m2 (shoreline/upperland), 720 m2 (lake to river habitat)",
     "Vegetation_Cover": "None",
-    "Boulder": "installation of boulders as contingency for washed-out spawning areas",
+    "Boulder": "additional boulders for Walleye spawning areas if washed out",
     "Woody_coverage": "None",
     "Instream_structures": "rock shoal (5-10m length, 10-40 m2 area)"
 }

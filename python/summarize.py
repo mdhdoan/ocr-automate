@@ -8,6 +8,7 @@ from pydantic import BaseModel, Field, model_validator
 
 import json
 import os 
+import random
 import sys
 
 ##### TEST-LIBRARIES #####
@@ -15,7 +16,7 @@ import sys
 
 ##### INPUT VARIABLES SETTINGS #####
 file_list_in_directory = [file for file in sorted(os.listdir(sys.argv[1]))]
-
+random.seed(2024)
 
 ##### LLM PROMPTS #####
 def create_prompt(format_instructions):
@@ -23,25 +24,31 @@ def create_prompt(format_instructions):
         {format_instructions}
 
         Read through all information: {data}
-        Then fill out the pydantic model given
+        Find me the Langitude, Longitude, Date of Issuance
+        Provide me a maximum 500 words description
+        For example:
+            Longitude and latitude, UTM Coordinates: 43.79381, -80.386060
+            {{"Langitude":"-80.386060","Longitude":"43.79381","Description":"A study on a waterbody"}}
     """
     return PromptTemplate(
         input_variables=["data"], 
         partial_variables={"format_instructions": format_instructions},
         template=QA_TEMPLATE)
 
-
 # Define your desired data structure.
 class Answer(BaseModel):
     Langitude: str = Field(description="langtitude of the location in the document")
     Longitude: str = Field(description="longitude of the location in the document")
     Description: str = Field(description="brief summary description of the document")
+    Date_of_Issuance: str = Field(description="Dates of Issuance, usually found at the end of the document")
 
 
 ##### LLM VARIABLES SETTINGS #####
 output_parser = JsonOutputParser(pydantic_object=Answer)
 format_instructions = output_parser.get_format_instructions()
-reasoning_model_list =["llama3.1"]
+reasoning_model_list =["gemma3"]
+
+
 ##### FUNCTIONS #####
 def import_txt_files(directory):
     library_of_files = {}

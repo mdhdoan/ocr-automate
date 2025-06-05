@@ -1,20 +1,5 @@
 {
-    "name": "Authorization",
-    "type": "dict",
-    "keys": [
-        "Date of Issuance",
-        "Approved by",
-        "Conditions"
-    ],
-    "values": {
-        "Date of Issuance": "FEB 04 2018",
-        "Approved by": "Scott Gilbert",
-        "Conditions": {
-            "Conditions that relate to monitoring and reporting of measures and standards to avoid and mitigate serious harm to fish": "{'Schedule(s) and criteria': 'The Proponent shall conduct monitoring of the implementation of offsetting measures according to the approved timeline and criteria in the offsetting plan: The Proponent shall report to DFO on whether the offsetting measures were conducted according to the conditions of this authorization by providing a report to be submitted no later than January 15th, 2023.",
-            "The Proponent shall engage in post-construction monitoring of the offset works for a period of three years following the completion of offsetting works with reports submitted to DFO by December 31st, 2023, December 31st, 2024, and December 31st, 2025.": ", "
-        },
-        "Conditions that relate to offsetting of the serious harm to fish likely to result from the authorized work, undertaking or activity": "{'Scale and description of offsetting measures': '3,462 m\u00b2 of fish habitat restoration works shall be undertaken upstream and downstream of the bridge location on the west bank. The proposed offsetting measures shall be carried out in accordance with the measures set out in the Proponent''s offsetting plan dated December 17th, 2018 in the document titled \u201cFisheries Act Authorization \u2014 Application Addendum #1\u201d approved by DFO, hereafter referred to as the offsetting plan.', "
-    },
-    "Conditions that relate to monitoring and reporting of measures and standards to avoid and mitigate serious harm to fish": "{'Monitoring of avoidance and mitigation measures': 'The Proponent shall monitor the implementation of avoidance and mitigation measures referred to in section 2 of this authorization and report to DFO one month following in-water installation and removal works associated with the berms, and indicate whether the measures and standards to avoid and mitigate serious harm to fish were conducted according to the conditions of this authorization.', '    Demonstration of effective implementation and functioning': 'Providing dated photographs and inspection reports to demonstrate effective implementation and functioning of mitigation measures and standards described above to limit the serious harm to fish to what is covered by this authorization.', '    Contingency measures': 'Providing details of any contingency measures that were followed, to prevent impacts greater than those covered by this authorization in the event that mitigation measures did not function as described.':",
-    "    }, ": ", "
+    "Langitude": "-114.009975",
+    "Longitude": "50.894225",
+    "Description": "The proposed project of which the work, undertaking or activity authorized is a part involves: - Replacement of two existing bridges with two wider three-span bridges across the Bow River to accommodate future traffic on the South Calgary Ring Road. Bridge replacement will require the installation of two temporary instream berms to install the new piers and will additionally function as a working platform. - Installation of a 3,042 m\u00b2 berm on the east bank with a 1,467 m\u00b2 central berm extending towards the central pier in the existing eastbound lane to accommodate future traffic on the South Calgary Ring Road. - Removal of the existing eastbound lane to accommodate future traffic on the South Calgary Ring Road. - Installation of a 3,042 m\u00b2 berm on the east bank with a 1,467 m\u00b2 central berm extending towards the central pier in the existing eastbound lane to accommodate future traffic on the South Calgary Ring Road. - Removal of the existing eastbound lane to accommodate future traffic on the South Calgary Ring Road. - Installation of a 3,042 m\u00b2 berm on the east bank with a 1,467 m\u00b2 central berm extending towards the central pier in the existing eastbound lane to accommodate future traffic on the South Calgary Ring Road. - Removal of the existing eastbound lane to accommodate future traffic on the South Calgary Ring Road."
 }

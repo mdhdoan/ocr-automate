@@ -1,6 +1,6 @@
 {
-    "name": "Authorization",
-    "type": "dict",
-    "keys": "['date_of_issuance', 'approved_by', 'authorization_limitations_and_application_conditions']",
-    "values": "[March 21, 2019, Scott Gilbert, A/Regional Director General Central and Arctic Region Fisheries and Oceans Canada]"
+    "Langitude": "71.889403",
+    "Longitude": "-80.887592",
+    "Description": "The proposed project is the construction of a Freight dock at the port in Milne Inlet. The work, undertaking or activity authorized is associated with The Mary River Project, an operating iron ore mine located on Baffin Island in the Qikiqtani Region of Nunavut. The Early Revenue Phase of the Mary River Project will involve mining and shipment of iron ore via the port at Milne Inlet. The new freight dock will allow more efficient use for shipping purposes.",
+    "Date_of_Issuance": "March 21, 2019"
 }

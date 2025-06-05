@@ -56,7 +56,7 @@ def intake_pdf_from_dir(directory):
 def intake_img_from_dir(directory):
     loaded_list_of_img_files = {}
     for img in directory:
-        uuid = img[8:13]
+        uuid = img[:13]
         print(f"\tuuid: {uuid}, {img[-9:-4]}")
         file_address = os.path.join(sys.argv[1], img)
         # print(f"\tfile_address: {file_address}")

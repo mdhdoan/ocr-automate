@@ -11,9 +11,9 @@ def convert_jsons_to_single_excel(folder_path, output_file):
             try:
                 with open(json_path, "r", encoding="utf-8") as f:
                     data = json.load(f)
-                    # Wrap if it's a dict (i.e., a single record)
                     df = pd.DataFrame([data]) if isinstance(data, dict) else pd.DataFrame(data)
-                    df['source_file'] = filename
+                    # Insert filename as first column
+                    df.insert(0, 'source_file', filename)
                     all_data.append(df)
             except Exception as e:
                 print(f"❌ Failed to process {filename}: {e}")

@@ -1,4 +1,4 @@
- FISHERIES AND OCEANS
+FISHERIES AND OCEANS
 Canada
 Pêches et Océans
 Canada
@@ -26,7 +26,7 @@ The proposed project of which the work, undertaking or activity authorized is a 
 The replacement of the existing Timiskaming Ontario water control dam and bridge structure on the Ottawa River with a new dam and bridge structure constructed immediately downstream. The principle structure consists of a 16 bay concrete dam with stop log control gates, and a 2 lane bridge (Highway 63) and pedestrian walkway overtop.
 The Project also involves the relocation of a gas pipeline from the existing structure to an underground location downstream of the dam, construction of a downstream cofferdam to isolate the site, and removal of the existing dam and bridge structure.
 
-Fisheries and Oceans Canada Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
+CanadaParagraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
 
 Description of Authorized work(s), undertaking(s) or activity(ies) likely to result in serious harm to fish
 
@@ -57,7 +57,7 @@ Permanent alteration to fish habitat, including:
 
 Destruction of fish habitat, including:
 - 2060 m² of the riverbed dewatered during construction and covered by the footprint of the new water control dam and bridge resulting in the destruction of spawning, cover, and food-producing habitat
-- 970 m² of the riverbed dewatered during construction and infilled from the construction of concrete wing walls along the banks downstream of the dam resulting in the destruction of spawning, cover, and food-producing habitat Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
+- 970 m² of the riverbed dewatered during construction and infilled from the construction of concrete wing walls along the banks downstream of the dam resulting in the destruction of spawning, cover, and food-producing habitatParagraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
 
 Conditions of Authorization
 
@@ -83,7 +83,7 @@ The periods during which other conditions of this authorization must be complied
 
 2.1.3 All disturbed ground shall be permanently stabilized or re-vegetated as appropriate immediately upon completion of each construction activity.
 
- Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
+Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
 
 2.2 List of measures and standards to avoid and mitigate serious harm to fish:
 
@@ -101,7 +101,7 @@ d) If the proponent cannot close the dam on or before October 10, or sufficientl
 
 2.2.3 All reasonable efforts shall be made by the Proponent to minimize the duration of instream works or construction activities when working within restricted activity timing windows.
 
-2.2.4 Instream works shall be isolated from the Ottawa River and undertaken such that water flow around the construction activities is maintained during construction. Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
+2.2.4 Instream works shall be isolated from the Ottawa River and undertaken such that water flow around the construction activities is maintained during construction.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
 
 2.2.5 Fish shall be rescued from isolated construction areas and shall be relocated immediately and unharmed into an area of sufficient flow and cover outside of the construction area. For each fish captured the species and length and weight and if they were released alive or if they died shall be recorded and reported to DFO within 72 hours after the fish rescue is complete, and reported as outlined in condition 3.1 of this authorization.
 
@@ -119,7 +119,7 @@ d) If the proponent cannot close the dam on or before October 10, or sufficientl
 
 a) Plans for design, construction (including methods and schedule), operation, mitigation and adaptive management monitoring (including methods and schedule) to ensure effective upstream American Eel passage is provided, shall be developed by the Proponent in cooperation with the Ontario Ministry of Natural Resources Resources, and subject to approval by DFO.
 
-b) The Proponent shall begin development of plans for effective upstream American Eel passage as soon as it is clear that the return of American Eel to the Ottawa River to the Ottawa watershed above the Otto Holden Dam is imminent (e.g. is expected within 2 years) or as otherwise directed by DFO. Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
+b) The Proponent shall begin development of plans for effective upstream American Eel passage as soon as it is clear that the return of American Eel to the Ottawa River to the Ottawa watershed above the Otto Holden Dam is imminent (e.g. is expected within 2 years) or as otherwise directed by DFO.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
 
 2.3 List of contingency measures to be put in place related to construction:
 
@@ -151,7 +151,7 @@ c) Annual reports shall include inspection reports and dated and labeled photogr
 
 3.2 Other monitoring and reporting conditions for construction
 
-3.2.1 With respect to condition 2.2.11 pertaining to American Eel upstream passage, adaptive management monitoring shall be undertaken in consultation with the Ontario Ministry of Natural Resources and as directed by DFO when American Eel are returned to the Ottawa River above the Otto Holden Dam. Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
+3.2.1 With respect to condition 2.2.11 pertaining to American Eel upstream passage, adaptive management monitoring shall be undertaken in consultation with the Ontario Ministry of Natural Resources and as directed by DFO when American Eel are returned to the Ottawa River above the Otto Holden Dam.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
 
 4. Conditions that relate to the offsetting of the serious harm to fish likely to result from the authorized work, undertaking or activity
 
@@ -181,9 +181,7 @@ e) Normal Operations: The Timiskaming Ontario Water Control Dam is considered to
 
 4.3.2 Large boulders (minimum diameter 1.5 m in all directions) to provide cover are placed in lines downstream from the instream piers on 5 m centres starting approximately 4 to 5 m downstream of the pier and placed such that a minimum of 1.5 m of each boulder remains above the streambed. A total of 75 boulders are to be placed (5 rows of 15 boulders) as outlined in Figure 8-1 in the Application for Authorization (February 27, 2015). Large boulders can be natural, blasted or cut bedrock, or precast concrete structures.
 
-4.3.3 Offsetting measures shall be completed by October 9, 2016. If the proponent cannot complete offsetting measures by this date, Fisheries and Oceans Canada (DFO) must be notified. DFO may, where it considers appropriate, provide in writing notice that the period to carry on the work, undertaking or activity has been extended.
-
-Canada Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
+4.3.3 Offsetting measures shall be completed by October 9, 2016. If the proponent cannot complete offsetting measures by this date, Fisheries and Oceans Canada (DFO) must be notified. DFO may, where it considers appropriate, provide in writing notice that the period to carry on the work, undertaking or activity has been extended.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
 
 4.4 Contingency measures related to offsetting:
 
@@ -203,7 +201,7 @@ Canada Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
 
 5.1.1 List of timeline(s) and monitoring and reporting criteria:
 
-a) Annual monitoring for Walleye, suckers, Lake Sturgeon and Lake Whitefish spawning: Monitoring as outlined in the Application for Authorization (February 27, 2015) shall occur in years 1 and 2 after construction is complete. Spawning activity on the enhanced habitats below the Timiskaming Ontario Water Control Dam is to be documented using one or more techniques including capture of eggs, and/or fry, and/or visual observation with underwater video and/or DIDSON sonar documentation of active spawning behaviour. If after two years of monitoring spawning is not clearly documented for any of these fish species then annual annual monitoring of spawning activity shall continue for those undocumented fish species until spawning is successfully documented. Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
+a) Annual monitoring for Walleye, suckers, Lake Sturgeon and Lake Whitefish spawning: Monitoring as outlined in the Application for Authorization (February 27, 2015) shall occur in years 1 and 2 after construction is complete. Spawning activity on the enhanced habitats below the Timiskaming Ontario Water Control Dam is to be documented using one or more techniques including capture of eggs, and/or fry, and/or visual observation with underwater video and/or DIDSON sonar documentation of active spawning behaviour. If after two years of monitoring spawning is not clearly documented for any of these fish species then annual annual monitoring of spawning activity shall continue for those undocumented fish species until spawning is successfully documented.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
 
 documented to the satisfaction of DFO and for up to three additional years. During the planned construction and replacement of the Timiskaming Quebec dam, monitoring of spawning activity shall be suspended for the Timiskaming Ontario dam until normal operations resume.
 
@@ -211,7 +209,7 @@ b) Assessment of Juvenile Lake Sturgeon and Lake Whitefish recruitment downstrea
 
 1 - McDougall, C.A.; Barth, C.C.; Aiken, J.K.; Henderson, L.M.; Blanchard, M.A.; Ambrose, K.M.; Hrenchuk, C.L.; Gillespie, M.A.; Nelson P.A., 2014: How to sample juvenile Lake Sturgeon, (Acipenser fulvescens Rafinesque, 1817), in Boreal Shield rivers using gill nets, with an emphasis on assessing recruitment patterns. J. Appl. Ichthyol. 30 (6), 1402-1415.
 
-c) Annual monitoring of the operation of the Timiskaming Water Control Dam and flows to enhance spawning opportunities: A written report detailing daily open and closed bays, and daily estimates of mean flow velocity (m/s) and mean discharge (m³/s) from each bay and mean daily discharge (m³/s) for the Ontario dam and Quebec dam from October 1 to July 15 shall be provided to DFO annually from the start of construction until monitoring in 5.1.1a) and b) are complete. Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
+c) Annual monitoring of the operation of the Timiskaming Water Control Dam and flows to enhance spawning opportunities: A written report detailing daily open and closed bays, and daily estimates of mean flow velocity (m/s) and mean discharge (m³/s) from each bay and mean daily discharge (m³/s) for the Ontario dam and Quebec dam from October 1 to July 15 shall be provided to DFO annually from the start of construction until monitoring in 5.1.1a) and b) are complete.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
 
 5.2 List of reports to be provided to DFO: The Proponent shall report to DFO on whether the offsetting measures were conducted according to the conditions of this authorization by providing the following:
 
@@ -223,7 +221,7 @@ b) If the Proponent will be unable to report by the dates in condition 5.2.1, DF
 
 5.2.2 A monitoring report on juvenile Lake Sturgeon and Lake Whitefish recruitment shall be submitted to DFO no later than January 31 of the year following the year monitoring occurs. The report shall be provided as outlined in condition 5.1.1 b).
 
-a) The Lake Sturgeon recruitment offsetting monitoring report shall summarize the findings of the study including for all fish captured their lengths and weights and the locations, bottom substrates, and depths where fish were captured, and if they were released alive or if they died. Ageing data and the recruitment pattern of Lake Sturgeon and Lake Whitefish shall be assessed using applicable methods in the 2014 paper by McDougall et al and other methods as appropriate, and in light of all construction and monitoring Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
+a) The Lake Sturgeon recruitment offsetting monitoring report shall summarize the findings of the study including for all fish captured their lengths and weights and the locations, bottom substrates, and depths where fish were captured, and if they were released alive or if they died. Ageing data and the recruitment pattern of Lake Sturgeon and Lake Whitefish shall be assessed using applicable methods in the 2014 paper by McDougall et al and other methods as appropriate, and in light of all construction and monitoringParagraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
 
 activities relevant to offsetting serious harm to fish provide an analysis of the effectiveness of the measures at offsetting serious harm to Lake Sturgeon and Lake Whitefish that occurred from the start of construction up to the calendar year being monitored. The report shall be provided electronically and paper copies provided upon request by DFO. Any data tables provided in the report shall also be provided electronically in an Excel Spreadsheet.
 
@@ -239,7 +237,7 @@ c) If the Proponent will be unable to report by the dates in condition 5.2.3, DF
 
 d) Annual reports shall include inspection reports and dated and labeled photographs where appropriate.
 
- Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
+Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
 
 5.2.4 A Contingency Monitoring Report of additional offsetting shall be provided at a date and time to be determined as directed by DFO and in discussion with the proponent.
 
@@ -259,7 +257,7 @@ b) The report shall be provided electronically in a format that is requested by 
 
 5.3 Other monitoring and reporting conditions for offsetting: Not Applicable (N/A)
 
-14 Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
+14Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00814
 
 Authorization Limitations and Application Conditions
 
@@ -284,3 +282,4 @@ Date of Issuance: JUN 05 2015
 Approved by: David Burden
 Regional Director General
 Central and Arctic Region
+Fisheries and Oceans Canada

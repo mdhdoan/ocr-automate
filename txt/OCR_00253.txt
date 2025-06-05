@@ -1,4 +1,4 @@
- **Authorization issued to:**
+**Authorization issued to:**
 Alberta Transportation (hereafter referred to as the "Proponent")
 
 **Attention:**
@@ -28,7 +28,7 @@ The proposed project of which the work, undertaking or activity authorized is a 
 The work(s), undertaking(s), or activity(ies) associated with the proposed project described above, that are likely to result in serious harm to fish, are:
 - Installation and maintenance of two instream berms for the Stoney Trail Bridges covering up to 10,821 m² for three years.
 
-**PATH No.:** 18-HCAA-00253 PATH No.: 18-HCAA-00253
+**PATH No.:** 18-HCAA-00253PATH No.: 18-HCAA-00253
 
 - Installation /extension of four instream piers for the Stoney Trail Bridges covering 158 m².
 - Installation and maintenance of two instream berms for the pedestrian bridge covering 1,636 m² for 14 months.
@@ -59,7 +59,7 @@ The periods during which other conditions of this authorization must be complied
 - All riprap shall:
 - Be clean and free of fine materials and debris prior to placement and of sufficient size to resist displacement during design flood events; and,
 
- PATH No.: 18-HCAA-00253
+PATH No.: 18-HCAA-00253
 
 2.1.4.2 Not be obtained from areas below the high water mark of any fish-frequented waters.
 
@@ -101,7 +101,7 @@ The periods during which other conditions of this authorization must be complied
 
 2.8 The following contingency measures shall be put in place if monitoring required in condition below indicates that the measures and standards to avoid and mitigate serious harm to fish are not successful:
 
- PATH No.: 18-HCAA-00253
+PATH No.: 18-HCAA-00253
 
 2.8.1 On-shore erosion and sediment control measures shall be upgraded and maintained, such that release of sediment is avoided at the location of the authorized work, undertaking, or activity.
 
@@ -137,7 +137,7 @@ The periods during which other conditions of this authorization must be complied
 
 4.5 Other conditions related to offsetting: Any alterations to the plans identified in 4.1 shall be reviewed and approved in writing by DFO prior to implementation.
 
- PATH No.: 18-HCAA-00253
+PATH No.: 18-HCAA-00253
 
 5. Conditions that relate to monitoring and reporting of implementation of offsetting measures (described above in section 4):
 

@@ -1,4 +1,4 @@
- **Fisheries and Oceans Canada**
+**Fisheries and Oceans Canada**
 
 PATH No.: 18-HCAA-00160
 
@@ -39,7 +39,7 @@ The work(s), undertaking(s), or activity(ies) associated with the proposed proje
   - Removal of Sea Ice
   - Dredging and disposal of dredged material
   - Placement of rock/fill
-  - Vibratory Pile driving The serious harm to fish likely to result from the proposed work(s), undertaking(s), or activity(ies), and covered by this authorization includes:
+  - Vibratory Pile drivingThe serious harm to fish likely to result from the proposed work(s), undertaking(s), or activity(ies), and covered by this authorization includes:
 
 Permanent destruction of 26,449 m² ((2,170) Habitat Equivalent Units) of fish habitat in Milne Inlet including:
 
@@ -76,7 +76,7 @@ The erosion and sediment control plans shall include, but not be limited to, the
 - Areas of the site susceptible to erosion problems
 - Areas of the site inspection and maintenance program and schedule; and
 
- 2.1.3 Turbidity levels shall be monitored in water adjacent to the work zone as the ice melts to evaluate potential movement of sediments. DFO shall be notified immediately of any exceedances of the current version of the Canadian Council of Ministers of the Environment (CCME) Canadian Water Quality Guidelines for the Protection of Aquatic Life for suspended sediment (TSS) levels, temperature, and dissolved oxygen in water released from the site into any fish-bearing waterbodies. Monitoring and regular reporting of the incident and corrective actions must be made to DFO until stabilization of the work site and construction areas is completed, and the situation has passed.
+2.1.3 Turbidity levels shall be monitored in water adjacent to the work zone as the ice melts to evaluate potential movement of sediments. DFO shall be notified immediately of any exceedances of the current version of the Canadian Council of Ministers of the Environment (CCME) Canadian Water Quality Guidelines for the Protection of Aquatic Life for suspended sediment (TSS) levels, temperature, and dissolved oxygen in water released from the site into any fish-bearing waterbodies. Monitoring and regular reporting of the incident and corrective actions must be made to DFO until stabilization of the work site and construction areas is completed, and the situation has passed.
 
 2.1.4 A qualified on-site environmental inspector shall be employed by the Proponent and be present throughout construction to ensure adherence to the proper codes of environmentally responsible construction practice. The environmental inspector shall ensure that all mitigation is implemented properly, photograph (with dates) and record construction activities and conduct suspended sediment monitoring. A report detailing the nature of the works or undertakings, the construction methods used, the effectiveness of the mitigation measures employed, the results of any monitoring programs undertaken shall be included in the annual report as per Condition 5.
 
@@ -94,7 +94,7 @@ The erosion and sediment control plans shall include, but not be limited to, the
 
 2.3 Works shall be halted if monitoring required in condition 3 and 4 below indicated that the measures and standards to avoid and mitigate serious harm to fish are not successful.
 
-2.4 Measures and standards to avoid and mitigate serious harm to fish shall be implemented prior to the commencement of construction. 3. Conditions that relate to monitoring and reporting of measures and standards to avoid and mitigate serious harm to fish from the ore dock construction
+2.4 Measures and standards to avoid and mitigate serious harm to fish shall be implemented prior to the commencement of construction.3. Conditions that relate to monitoring and reporting of measures and standards to avoid and mitigate serious harm to fish from the ore dock construction
 
 3.1 The Proponent shall monitor the implementation of avoidance and mitigation measures referred to in section 2 of this authorization and provide a report to DFO, by February 28, 2020, and indicate whether the measures and standards to avoid and mitigate serious harm to fish were conducted according to the conditions of this authorization. This shall be done, by:
 
@@ -120,7 +120,7 @@ The erosion and sediment control plans shall include, but not be limited to, the
 
 5.1 The Proponent shall conduct monitoring of the implementation of offsetting measures according to the approved timeline and criteria in the Freight Dock Application, Section 9 in addition to an approved updated monitoring plan as follows:
 
-5.1.1 The Proponent shall submit an updated offsetting monitoring monitoring plan for the proposed offsetting for review by DFO on or before May 31, 2019. The monitoring plan must satisfy DFO's requirements to demonstrate through clear and measurable criteria, fisheries productivity changes as a result of the proposed offsetting of the offsetting measures. To address uncertainty in the effectiveness of the proposed offsetting measures, the proposed monitoring must have sufficient statistical power to determine if changes to productivity are occurring as a result of the offsetting measures within a defined timeframe, and must employ the most up-to-date and proven methodologies demonstrated to be effective under Arctic conditions. 5.1.2 Monitoring of offsetting shall be conducted over ten years, with a five year monitoring program (years 1, 2, 5, 8, 10) as outlined in the Freight Dock Application, Section 8, or as outlined in an updated monitoring plan and/or subsequent versions and as approved by DFO.
+5.1.1 The Proponent shall submit an updated offsetting monitoring monitoring plan for the proposed offsetting for review by DFO on or before May 31, 2019. The monitoring plan must satisfy DFO's requirements to demonstrate through clear and measurable criteria, fisheries productivity changes as a result of the proposed offsetting of the offsetting measures. To address uncertainty in the effectiveness of the proposed offsetting measures, the proposed monitoring must have sufficient statistical power to determine if changes to productivity are occurring as a result of the offsetting measures within a defined timeframe, and must employ the most up-to-date and proven methodologies demonstrated to be effective under Arctic conditions.5.1.2 Monitoring of offsetting shall be conducted over ten years, with a five year monitoring program (years 1, 2, 5, 8, 10) as outlined in the Freight Dock Application, Section 8, or as outlined in an updated monitoring plan and/or subsequent versions and as approved by DFO.
 
 5.1.3 In addition to the outlined criteria, a digital photographic record of pre-construction, during construction and post-construction conditions using the same vantage points and direction to show that the approved works have been completed in accordance with the Freight Dock Application and subsequent plans approved by DFO.
 
@@ -148,7 +148,7 @@ The Proponent is solely responsible for plans and specifications relating to thi
 
 The holder of this authorization is hereby authorized under the authority of Paragraph 35(2)(b) of the Fisheries Act, R.S.C., 1985, c.F.14 to carry on the work(s), undertaking(s) and/or activity(ies) that are likely to result in serious harm to fish as described herein. This authorization does not purport to release the applicant from any obligation to obtain permission from or to comply with the requirements of any other regulatory agencies.
 
-This authorization does not permit the deposit of a deleterious substance in water frequented by fish. Subsection 36(3) of the Fisheries Act prohibits the deposit of any deleterious substances into waters frequented by fish unless authorized by regulations made by Governor in Council. This authorization does not permit the killing, harming, harassment, capture or taking of individuals of any aquatic species listed under the Species at Risk Act (SARA) (s. 32 of the SARA), or the damage or destruction of residence of individuals of such species (s. 33 of the SARA) or the destruction of the critical habitat of any such species (s. 58 of the SARA).
+This authorization does not permit the deposit of a deleterious substance in water frequented by fish. Subsection 36(3) of the Fisheries Act prohibits the deposit of any deleterious substances into waters frequented by fish unless authorized by regulations made by Governor in Council.This authorization does not permit the killing, harming, harassment, capture or taking of individuals of any aquatic species listed under the Species at Risk Act (SARA) (s. 32 of the SARA), or the damage or destruction of residence of individuals of such species (s. 33 of the SARA) or the destruction of the critical habitat of any such species (s. 58 of the SARA).
 
 At the date of issuance of this authorization, no individuals of aquatic species listed under the Species at Risk Act (SARA) were identified in the vicinity of the authorized works, undertakings or activities.
 

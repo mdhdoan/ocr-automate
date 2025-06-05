@@ -1,4 +1,4 @@
- FISHERIES AND OCEANS Canada
+FISHERIES AND OCEANS Canada
 Pêches et Océans Canada
 
 PATH No.: 18-HCAA-00311
@@ -40,7 +40,7 @@ The work(s), undertaking(s), or activity(ies) associated with the proposed proje
 - Realignment of Reach SN02 of Seneca Creek.
 - Realignment of the unnamed tributary of Seneca Creek.
 
-Canada The serious harm to fish likely to result from the proposed work(s), undertaking(s), or activity(ies), and covered by this authorization are:
+CanadaThe serious harm to fish likely to result from the proposed work(s), undertaking(s), or activity(ies), and covered by this authorization are:
 
 - The permanent alteration of 1,702 m³ of average fish habitat associated with removal of sediment and aquatic vegetation required to construct habitat enhancement features and realignment of a meander bend near the downstream limit of Reach SN01 of Seneca Creek to create a point bar to stabilize the meander bend.
 - The destruction of 3,830 m³ of average fish habitat due to infilling of the existing channel required to accommodate realignment of Reach SN02 of Seneca Creek.
@@ -75,7 +75,7 @@ The periods during which other conditions of this authorization must be complied
 
 2.2 List of measures and standards to avoid and mitigate impacts to fish and fish habitat:
 
-2.2.1 To protect spawning fish, their incubating eggs and larval life stages, no in-water works shall occur during the restricted activity timing window of March 15 to June 15 of any given year. 2.2.2 All in-water activities shall be undertaken in isolation (i.e., cofferdam) of open or flowing water to maintain the natural flow of water downstream and avoid introducing sediment into the watercourse.
+2.2.1 To protect spawning fish, their incubating eggs and larval life stages, no in-water works shall occur during the restricted activity timing window of March 15 to June 15 of any given year.2.2.2 All in-water activities shall be undertaken in isolation (i.e., cofferdam) of open or flowing water to maintain the natural flow of water downstream and avoid introducing sediment into the watercourse.
 
 2.2.3 Temporary cofferdams shall consist of non-permeable material and only materials free of silt and other fine particles shall be used; earthen cofferdams shall not be used for this purpose.
 
@@ -107,7 +107,7 @@ The periods during which other conditions of this authorization must be complied
 
 2.2.17 Appropriate personnel at the worksite shall be familiar with the location and use of the spill kit and spill response plan.
 
-2.3 Contingency measures: Contingency measures shall be put in place if monitoring required in section 3 below indicates that the measures and standards to avoid and mitigate impacts to fish and fish habitat are not successful. 2.4 Dates by which these measures and standards shall be implemented: Measures and standards to avoid and mitigate impacts to fish and fish habitat shall be implemented prior to, during, and following in-water work.
+2.3 Contingency measures: Contingency measures shall be put in place if monitoring required in section 3 below indicates that the measures and standards to avoid and mitigate impacts to fish and fish habitat are not successful.2.4 Dates by which these measures and standards shall be implemented: Measures and standards to avoid and mitigate impacts to fish and fish habitat shall be implemented prior to, during, and following in-water work.
 
 3. Conditions that relate to monitoring and reporting of measures and standards to avoid and mitigate impacts to fish and fish habitat
 
@@ -135,7 +135,7 @@ The periods during which other conditions of this authorization must be complied
 
 4.2.6 Realignment of the inside of an existing meander bend near the downstream limit of Reach SN01 of Seneca Creek to create a point bar to stabilize the meander bend.
 
-4.2.7 Construction of a new, realigned channel within Reach SN02 of Seneca Creek. The realigned channel reach will incorporate a meandering pattern and will feature riffle/pool sequences with a meander length of 100 m. The channel bed will be lined with a 150 mm thick layer of washed riverstone with sizes ranging from 5 mm to 50 mm and a median grain size of 25 mm. 4.2.8 Construction of six (6) pools, each with a bankfull depth of 1.4 m, on the outside of meander bends within the new, realigned channel of Reach SN02 of Seneca Creek.
+4.2.7 Construction of a new, realigned channel within Reach SN02 of Seneca Creek. The realigned channel reach will incorporate a meandering pattern and will feature riffle/pool sequences with a meander length of 100 m. The channel bed will be lined with a 150 mm thick layer of washed riverstone with sizes ranging from 5 mm to 50 mm and a median grain size of 25 mm.4.2.8 Construction of six (6) pools, each with a bankfull depth of 1.4 m, on the outside of meander bends within the new, realigned channel of Reach SN02 of Seneca Creek.
 
 4.2.9 Construction of seven (7) riffle features within the new, realigned channel of Reach SN02 of Seneca Creek. The channel bed of each riffle will feature a continuous low flow channel and will be lined with a 75 mm thick layer of washed riverstone with sizes ranging from 5 mm to 50 mm and a median grain size of 25 mm.
 
@@ -155,7 +155,7 @@ The periods during which other conditions of this authorization must be complied
 
 4.6 The Proponent shall obtain written permission for the Proponent, DFO, and anyone authorized to act on behalf of DFO, to access lands, water sources, or water bodies that are not owned by or under the care, control, or administration of the Proponent that must be accessed in order to implement the offsetting measures in this section and the monitoring of said measures.
 
-4.7 The Proponent shall provide the written permission to DFO prior to the commencement of the authorized work, undertaking, or activity that are likely to result in impacts to fish and fish habitat described herein, and prior to the commencement of the implementation of the Proponent's offsetting plan referred to in condition 4.2 and dated May 2019 that is to take place on lands or in water sources or water bodies not owned by or under the care, control, or administration of the Proponent. 5. Conditions that relate to monitoring and reporting of implementation of offsetting measures (described in section 4):
+4.7 The Proponent shall provide the written permission to DFO prior to the commencement of the authorized work, undertaking, or activity that are likely to result in impacts to fish and fish habitat described herein, and prior to the commencement of the implementation of the Proponent's offsetting plan referred to in condition 4.2 and dated May 2019 that is to take place on lands or in water sources or water bodies not owned by or under the care, control, or administration of the Proponent.5. Conditions that relate to monitoring and reporting of implementation of offsetting measures (described in section 4):
 
 5.1 Schedule(s) and criteria: The Proponent shall conduct monitoring of the implementation of offsetting measures according to the timeline and criteria set out in the Proponent's offsetting plan McClung Properties – Seneca Creek Realignment Fisheries Act Offsetting Plan dated May 2019, approved by DFO, which are the following:
 
@@ -170,7 +170,7 @@ The periods during which other conditions of this authorization must be complied
 
 5.2 List of reports to be provided to DFO: The Proponent shall report to DFO on whether the offsetting measures were conducted according to the conditions of this authorization by providing the following:
 
- 5.2.1 The results of the post-construction monitoring measures (as described in 5.1.1.4 above) shall be submitted in an annual report to DFO prior to the end of each post-construction monitoring year, with reports due to DFO on or before December 31, 2020 and December 31, 2021. The final report due on December 31, 2021 shall include a compiled summary of the monitoring efforts completed over the monitoring period and a summary of the overall effectiveness of the offsetting measures carried out as part of this authorization.
+5.2.1 The results of the post-construction monitoring measures (as described in 5.1.1.4 above) shall be submitted in an annual report to DFO prior to the end of each post-construction monitoring year, with reports due to DFO on or before December 31, 2020 and December 31, 2021. The final report due on December 31, 2021 shall include a compiled summary of the monitoring efforts completed over the monitoring period and a summary of the overall effectiveness of the offsetting measures carried out as part of this authorization.
 
 Authorization Limitations and Application Conditions
 

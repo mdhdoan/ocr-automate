@@ -1,4 +1,4 @@
- PATH No.: 18-HCAA-00145
+PATH No.: 18-HCAA-00145
 
 FISHERIES AND OCEANS
 Pêches et Océans
@@ -41,7 +41,7 @@ The work(s), undertaking(s), or activity(ies) associated with the proposed proje
 - The installation of two (east and west bank) temporary rock causeways with a combined footprint of 779 m² below the high water mark of the Grand River for a duration of approximately 6 months during year one of construction.
 - The installation of two (east and west bank) temporary rock causeways with a combined footprint of 1057 m² below the high water mark of the Grand River for a duration of approximately 6 months during year two of construction.
 - The installation of two (east and west bank) temporary rock causeways with a combined footprint of 227 m² below the high water mark of the Grand River for a duration of approximately 6 months during year three of construction.
-- The installation of two new bridge piers with a combined footprint of 677 m² below the high water mark of the Grand River. A 32.5 m² extension of an existing culvert on an unnamed tributary of the Grand River.
+- The installation of two new bridge piers with a combined footprint of 677 m² below the high water mark of the Grand River.A 32.5 m² extension of an existing culvert on an unnamed tributary of the Grand River.
 A 10.8 m² extension of an existing culvert on an unnamed tributary of Blair Creek.
 
 The serious harm to fish likely to result from the proposed work, undertaking, or activity, and covered by this authorization are:
@@ -67,7 +67,7 @@ The periods during which other conditions of this authorization must be complied
 2.1 Sediment and erosion control: Sediment and erosion control measures must be in place and shall be upgraded and maintained, such that release of sediment is avoided at the location of the authorized work, undertaking, or activity.
 2.2 List of measures and standards to avoid and mitigate serious harm to fish:
 2.2.1 A qualified environmental professional shall be on-site to monitor all instream and shoreline activities.
-2.2.2 The project shall be designed and constructed in a manner that shall not result in impacts to fish passage or migration. 2.2.3. Whenever feasible, the work area shall be isolated to prevent deleterious substances from migrating out of the isolated area and equipment shall operate from outside the wetted width or from within the isolated area and shall contain fluids that are non-toxic to aquatic life.
+2.2.2 The project shall be designed and constructed in a manner that shall not result in impacts to fish passage or migration.2.2.3. Whenever feasible, the work area shall be isolated to prevent deleterious substances from migrating out of the isolated area and equipment shall operate from outside the wetted width or from within the isolated area and shall contain fluids that are non-toxic to aquatic life.
 
 2.2.4. Should the need for dewatering arise, water shall be released into a well-vegetated area or settling basin and not directly into fish-frequented waters. Water returning to fish-frequented waters shall be of equal or better quality than the water in the fish-frequented waters.
 
@@ -103,7 +103,7 @@ The periods during which other conditions of this authorization must be complied
 
 3. Conditions that relate to monitoring and reporting of measures and standards to avoid and mitigate serious harm to fish
 
-3.1 Monitoring of avoidance and mitigation measures: The Proponent shall monitor the implementation of avoidance and mitigation measures referred to in condition 2 of this authorization and report to DFO after the completion of the construction works with the potential to cause serious harm to fish, by no later than December 31, 2025, indicating whether the measures and standards to avoid and mitigate serious harm to fish were conducted according to the conditions of this authorization. This shall be done by:
+3.1 Monitoring of avoidance and mitigation measures: The Proponent shall monitor the implementation of avoidance and mitigation measures referred to in condition 2 of this authorization and report toDFO after the completion of the construction works with the potential to cause serious harm to fish, by no later than December 31, 2025, indicating whether the measures and standards to avoid and mitigate serious harm to fish were conducted according to the conditions of this authorization. This shall be done by:
 
 3.1.1 Demonstration of effective implementation and functioning: Inspection reports with dated and annotated photographs taken of the pre-construction, during construction and post-construction periods, showing works completed according to the approved plan and conditions of this Authorization shall be submitted to DFO. Photographs for each period shall be taken from the same vantage point(s), direction and angle of view for comparison. These photos must demonstrate effective implementation and functioning of mitigation measures and standards described above to limit the serious harm to fish to what is covered by this authorization.
 
@@ -126,7 +126,7 @@ The periods during which other conditions of this authorization must be complied
 4.1.2 Bank remediation and rehabilitation: The restoration of approximately 1,113 m² of an unstable and eroding bank section located immediately downstream of the bridge structure on the east river bank. The bank remediation and rehabilitation shall include:
 4.1.2.1 The replacement of two corrugated steel pipe (CSP) drainage outlets with a 1 m bottom ditch lined with rip-rap;
 4.1.2.2 The modification of a third CSP drainage outlet to outlet into a controlled pool with a rock pad;
-4.1.2.3 The re-grading of the bank section to accommodate the new drainage outlets and reduce erosion; and 4.1.2.4 Planting of the bank section with native species to further stabilize the slope and prevent erosion and sediment release into the river.
+4.1.2.3 The re-grading of the bank section to accommodate the new drainage outlets and reduce erosion; and4.1.2.4 Planting of the bank section with native species to further stabilize the slope and prevent erosion and sediment release into the river.
 
 4.1.3 Habitat diversification and enhancement features: The installation of a series of large boulder clusters in the areas previously occupied by the rock causeways, covering approximately 50 m² and the installation of anchored sweeper trees along the east shoreline at the location of the bank remediation and rehabilitation activities, covering approximately 100 m².
 
@@ -156,7 +156,7 @@ The periods during which other conditions of this authorization must be complied
 
 5 Conditions that relate to monitoring and reporting of implementation of offsetting measures (described above in section 4):
 
-5.1 Schedule(s) and criteria: The Proponent shall conduct monitoring of the implementation of offsetting measures according to the approved offsetting plan, as summarized in the timeline and criteria below. Monitoring shall occur in years 2, 4 and 5 (2026, 2028 and 2029), unless otherwise noted.
+5.1 Schedule(s) and criteria: The Proponent shall conduct monitoring of the implementation of offsetting measures according to the approved offsetting plan, as summarized in the timeline andcriteria below. Monitoring shall occur in years 2, 4 and 5 (2026, 2028 and 2029), unless otherwise noted.
 
 5.1.1 Photographic Documentation: A digital photographic record of pre-construction, during construction and post-construction conditions shall be compiled using the same vantage points and direction.
 
@@ -186,7 +186,7 @@ This authorization does not purport to release the applicant from any obligation
 
 This authorization does not purport to release the applicant from any obligation to obtain permission from or to comply with the requirements of any other regulatory agencies.
 
-In accordance with An Act to amend the Fisheries Act and other Acts in consequence, this authorization is deemed to have been issued under the authority of paragraphs 34.4(2)(b) and 35(2)(b) of the Fisheries Act as those paragraphs read after the day on which section 22 of An Act to amend the Fisheries Act and other Acts in consequence came into force, on August 28, 2019. This authorization also acts as a permit under the Species at Risk Act, as per section 74 of that Act. The failure to comply with any condition of this authorization constitutes an offence under Paragraphs 40(3)(a) of the Fisheries Act and may result in charges being laid under said Act.
+In accordance with An Act to amend the Fisheries Act and other Acts in consequence, this authorization is deemed to have been issued under the authority of paragraphs 34.4(2)(b) and 35(2)(b) of the Fisheries Act as those paragraphs read after the day on which section 22 of An Act to amend the Fisheries Act and other Acts in consequence came into force, on August 28, 2019. This authorization also acts as a permit under the Species at Risk Act, as per section 74 of that Act.The failure to comply with any condition of this authorization constitutes an offence under Paragraphs 40(3)(a) of the Fisheries Act and may result in charges being laid under said Act.
 
 This authorization must be held on site and work crews must be made familiar with the conditions attached.
 

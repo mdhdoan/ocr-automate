@@ -1,79 +1,59 @@
 {
-    "Authorization": {
-        "id": "18-HCAA-00064",
-        "date_of_issuance": "07/2020",
-        "approved_by": {
-            "name": "David Nanang",
-            "title": "Regional Director General",
-            "organization": "Fisheries and Oceans Canada"
-        },
-        "conditions": [
-            {
-                "type": "Monitoring and Reporting of Implementation of Offsetting Measures",
-                "schedule_and_criteria": {
-                    "years": [
-                        2022,
-                        2023,
-                        2024,
-                        2026
-                    ],
-                    "photographic_documentation": "A digital photographic record of pre-construction, during construction and post-construction conditions shall be compiled using the same vantage points and direction (all years).",
-                    "as-built_survey": "An as-built survey shall be conducted within 3 months of completion of the offsetting construction, and reported on in year 1 (2022)."
-                },
-                "list_of_reports_to_be_provided_to_dfo": [
-                    {
-                        "type": "Post-Construction Monitoring Report",
-                        "due_date": "June 14, 2022"
-                    },
-                    {
-                        "type": "Annual Monitoring Reports",
-                        "due_dates": [
-                            "December 31, 2022",
-                            "December 31, 2023",
-                            "December 31, 2024",
-                            "December 31, 2026"
-                        ]
-                    }
-                ]
-            },
-            {
-                "type": "Monitoring and Reporting of Implementation of Offsetting Measures (Contingency)",
-                "schedule_and_criteria": {
-                    "years": [
-                        2022,
-                        2023,
-                        2024,
-                        2026
-                    ],
-                    "photographic_documentation": "A digital photographic record of pre-construction, during construction and post-construction conditions shall be compiled using the same vantage points and direction (all years).",
-                    "as-built_survey": "An as-built survey shall be conducted within 3 months of completion of the offsetting construction, and reported on in year 1 (2022)."
-                },
-                "list_of_reports_to_be_provided_to_dfo": [
-                    {
-                        "type": "Post-Construction Monitoring Report",
-                        "due_date": "June 14, 2022"
-                    },
-                    {
-                        "type": "Annual Monitoring Reports",
-                        "due_dates": [
-                            "December 31, 2022",
-                            "December 31, 2023",
-                            "December 31, 2024",
-                            "December 31, 2026"
-                        ]
-                    }
-                ]
-            },
-            {
-                "type": "Authorization Limitations and Application Conditions",
-                "description": "The Proponent is solely responsible for plans and specifications relating to this authorization and for all design, safety and workmanship aspects of all the works associated with this authorization."
-            }
-        ],
-        "authorization_limitations_and_application_conditions": [
-            {
-                "type": "Authorization Limitations and Application Conditions",
-                "description": "The Proponent is solely responsible for plans and specifications relating to this authorization and for all design, safety and workmanship aspects of all the works associated with this authorization."
-            }
+    "authorization_number": "18-HCAA-04",
+    "date_of_issuance": "2020-07-01",
+    "approved_by": {
+        "name": "David Nanang",
+        "title": "Regional Director General",
+        "region": "Central and Arctic Region",
+        "agency": "Fisheries and Oceans Canada"
+    },
+    "proponent": {
+        "name": "Not specified",
+        "contact_information": {
+            "address": "Not specified",
+            "phone": "Not specified",
+            "email": "Not specified"
+        }
+    },
+    "project_summary": {
+        "location": "Not specified",
+        "description": "Not specified",
+        "activities": [
+            "Not specified"
         ]
+    },
+    "authorization_limitations": {
+        "responsibility": "Proponent is solely responsible for plans and specifications relating to this authorization and for all design, safety and workmanship aspects of all the works associated with this authorization.",
+        "fisheries_act_authority": "Holder of this authorization is authorized under the authority of Paragraphs 34.4(2)(b) and 35(2)(b) of the Fisheries Act, R.S.C., 1985, c.F-14, to carry out the work(s), undertaking(s) and/or activity(ies) that are likely to result in impacts to fish and fish habitat as described herein.",
+        "other_regulatory_obligations": "This authorization does not purport to release the applicant from any obligation to obtain permission from or to comply with the requirements of any other regulatory agencies.",
+        "deleterious_substances": "This authorization does not permit the deposit of a deleterious substance in water frequented by fish. Subsection 36(3) of the Fisheries Act prohibits the deposit of any deleterious substances into waters frequented by fish unless authorized by regulations made by Governor in Council."
+    },
+    "conditions_of_authorization": {
+        "general_conditions": {
+            "compliance": "Failure to comply with any condition of this authorization constitutes an offence under Paragraph 40(3)(a) of the Fisheries Act and may result in charges being laid under said Act.",
+            "site_copy": "A copy of this authorization should be kept on site while the work is in progress and upon request be provided to relevant federal or provincial officials.",
+            "work_crews": "The authorization holder is responsible for ensuring work crews are familiar with, and able to adhere to, the conditions."
+        },
+        "environmental_conditions": {
+            "fish_habitat_protection": "The Proponent is required to ensure that all activities are conducted in a manner that minimizes adverse effects on fish habitat.",
+            "fish_population_monitoring": "The Proponent is required to monitor fish populations and report any significant changes or impacts.",
+            "species_at_risk_protection": "The Proponent is required to ensure that no activities are conducted that could harm or disturb species at risk."
+        },
+        "monitoring_and_reporting": {
+            "monitoring_schedule": "The Proponent is required to conduct monitoring as per the schedule outlined in the authorization.",
+            "reporting_requirements": "The Proponent is required to submit regular reports to DFO as specified in the authorization."
+        },
+        "contingency_measures": {
+            "contingency_plans": "The Proponent is required to have contingency plans in place in case of any unforeseen events or failures in the implementation of the authorization.",
+            "contingency_reporting": "The Proponent is required to report any contingency measures taken to DFO."
+        },
+        "access_and_permissions": {
+            "land_water_access": "The Proponent is required to obtain written permission for DFO and anyone authorized to act on behalf of DFO to access lands, water sources, or water bodies that are not owned by or under the care, control, or administration of the Proponent.",
+            "pre_commencement_permission": "The Proponent is required to provide written permission to DFO prior to the commencement of the authorized work(s), undertaking(s) or activity(ies) that are likely to result in the implementation of the Proponent's offsetting plan."
+        }
+    },
+    "additional_notes": {
+        "species_at_risk": "At the date of issuance of this authorization, no individuals of aquatic species listed under the Species at Risk Act (SARA) were identified in the vicinity of the authorized works, undertakings or activities.",
+        "unauthorized_death_notification": "It is also your Duty to Notify DFO if you have caused, or are about to cause, the unauthorized death of fish by means other than fishing and/or the harmful alteration, disruption or destruction of fish habitat. Such notifications should be directed to (http://www.dfo-mpo.gc.ca/pnw-ppe/CONTACT-eng.html)"
     }
 }

@@ -1,19 +1,13 @@
 ##### LIBRARIES #####
 from datetime import datetime
-from langchain_core.messages import HumanMessage
-from langchain_core.exceptions import OutputParserException
-from langchain_core.output_parsers import JsonOutputParser
-from langchain_core.output_parsers import StrOutputParser
-from langchain_core.prompts import PromptTemplate
 from langchain.output_parsers.pydantic import PydanticOutputParser
-from langchain.output_parsers import RetryOutputParser
-from langchain_ollama import ChatOllama
+from langchain_core.output_parsers import JsonOutputParser
+from langchain_core.prompts import PromptTemplate
 from langchain_ollama import OllamaLLM
 from pydantic import BaseModel, Field, model_validator
 
 import json
 import os 
-# import shutil
 import sys
 
 ##### TEST-LIBRARIES #####

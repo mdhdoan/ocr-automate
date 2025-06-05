@@ -1,4 +1,4 @@
- **Fisheries and Oceans Canada**
+**Fisheries and Oceans Canada**
 
 PATH No.: 14-HCAA-00810
 
@@ -42,7 +42,7 @@ The work(s), undertaking(s), or activity(ies) associated with the proposed proje
 
 - Installation of upstream and downstream slim cofferdams;
 
- Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
+Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
 
 - Installation of upstream and downstream granular cofferdams;
 - Cofferdam dewatering activities;
@@ -74,7 +74,7 @@ The work, undertaking or activity that results in serious harm to fish is author
 
 From the date of issuance to December 31, 2016.
 
-If the Proponent cannot complete the work, undertaking or activity during this period, Fisheries and Oceans Canada (DFO) must be notified in advance of the expiration of the above time period. DFO may, where appropriate, provide written notice that the period to carry on the work, undertaking or activity has been extended. Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
+If the Proponent cannot complete the work, undertaking or activity during this period, Fisheries and Oceans Canada (DFO) must be notified in advance of the expiration of the above time period. DFO may, where appropriate, provide written notice that the period to carry on the work, undertaking or activity has been extended.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
 
 The periods during which other conditions of this authorization must be complied with are provided in their respective sections below. DFO may, where appropriate, provide written notice that these periods have been extended, in order to correspond to the extension of the period to carry on a work, undertaking, or activity.
 
@@ -102,7 +102,7 @@ c) Alterations to the upstream slim cofferdam can take place between November 15
 
 2.2.2 Works, undertakings, or activities in or near water that may result in serious harm to fish, other than those referred to above in condition 2.2.1, shall not be undertaken within restricted activity timing windows without written approval from DFO.
 
-2.2.3 All reasonable efforts shall be made by the Proponent to minimize the duration of instream works or construction activities when working within restricted activity timing windows. Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
+2.2.3 All reasonable efforts shall be made by the Proponent to minimize the duration of instream works or construction activities when working within restricted activity timing windows.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
 
 activity timing windows
 
@@ -124,7 +124,7 @@ activity timing windows
 
 a) Plans for design, construction (including methods and schedule), operation, mitigation and monitoring to ensure effective upstream American Eel passage, shall be developed by the Proponent in cooperation with the Ontario Ministry of Natural Resources and Forestry, and are subject to approval by DFO.
 
-b) The Proponent shall begin development of plans for effective upstream American Eel passage as soon as it is clear that the return of American Eel Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
+b) The Proponent shall begin development of plans for effective upstream American Eel passage as soon as it is clear that the return of American EelParagraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
 
 to the Montreal River watershed below the water control is imminent (e.g. is expected within 2 years) or as otherwise directed by DFO.
 
@@ -146,7 +146,7 @@ a) The annual mitigation monitoring report shall summarize the findings of all m
 
 b) Annual reports shall describe the implementation of measures and standards to avoid and mitigate impacts to fish and fish habitat according to the conditions of this Authorization, and the level of effectiveness of the measures at avoiding and mitigating serious harm to fish.
 
-c) Annual reports shall include inspection reports and dated and labeled photographs, where appropriate, to demonstrate effective implementation. Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
+c) Annual reports shall include inspection reports and dated and labeled photographs, where appropriate, to demonstrate effective implementation.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
 
 and functioning of mitigation measures, including standards described above to limit the serious harm to what is covered by this authorization.
 
@@ -166,7 +166,7 @@ and functioning of mitigation measures, including standards described above to l
 
 4.3 Offsetting criteria to assess the implementation and effectiveness of the offsetting measures: All fish habitat offsetting measures shall be completed and functioning according to the criteria described in the Proponent's offsetting plan.
 
-4.4 Offsetting measures shall be completed during the construction phase. Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
+4.4 Offsetting measures shall be completed during the construction phase.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
 
 4.5 Contingency measures: If the results of monitoring as required in condition 5 indicate that the offsetting measures are not completed by the date specified and/or are not functioning according to the above criteria in 4.3, the Proponent shall give written notice to DFO and shall implement the contingency measures and associated monitoring measures, as contained within the approved offsetting plan to ensure the implementation of the offsetting measures is completed and/or functioning as required by this authorization.
 
@@ -186,7 +186,7 @@ and functioning of mitigation measures, including standards described above to l
 
 a) The annual offsetting monitoring report shall summarize the findings of all monitoring activities relevant to offsetting serious harm to fish and provide analysis of the effectiveness of the measures that offsetting serious harm to fish that occurred during the calendar year being monitored regardless of if findings were submitted to DFO as separate reports or updates earlier in that year.
 
-5.1.2 An annual offsetting monitoring report shall be submitted to DFO no later than March 1st each year following the year monitored. Annual reports shall be provided as outlined in condition 5.1 for 3 years post construction. Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
+5.1.2 An annual offsetting monitoring report shall be submitted to DFO no later than March 1st each year following the year monitored. Annual reports shall be provided as outlined in condition 5.1 for 3 years post construction.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
 
 b) The annual offsetting monitoring report shall describe any adaptive management or contingency measures that were implemented to offset serious harm to fish, and their effectiveness.
 
@@ -208,7 +208,7 @@ This authorization does not permit the killing, harming, harassing, capturing or
 
 At the date of issuance of this authorization, no individuals of aquatic species listed under the Species at Risk Act (SARA) were identified in the vicinity of the authorized works, undertakings or activities.
 
-The failure to comply with any condition of this authorization constitutes an offence under Paragraph 40(3)(a) of the Fisheries Act and may result in charges being laid under the Fisheries Act. Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
+The failure to comply with any condition of this authorization constitutes an offence under Paragraph 40(3)(a) of the Fisheries Act and may result in charges being laid under the Fisheries Act.Paragraph 35(2)(b) Fisheries Act Authorization: 14-HCAA-00810
 
 This authorization must be held on site and work crews must be made familiar with the conditions attached.
 

@@ -1,4 +1,4 @@
- **Paragraph 35(2)(b) Fisheries Act Authorization (A Deemed Paragraph 34.4(2)(b) and 35(2)(b) Fisheries Act Authorization Issued Under the Amended Fisheries Act) Also Acting as a Permit Under the Species at Risk Act**
+**Paragraph 35(2)(b) Fisheries Act Authorization (A Deemed Paragraph 34.4(2)(b) and 35(2)(b) Fisheries Act Authorization Issued Under the Amended Fisheries Act) Also Acting as a Permit Under the Species at Risk Act**
 
 **Authorization Issued to:**
 
@@ -44,7 +44,7 @@ The activity(ies) associated with the proposed project described above, that are
 - Construction of a temporary cofferdam around the west abutment.
 - Fish rescue within the isolated areas prior to dewatering to relocate fish and mussels.
 
-**Canada** Installation of four cement blocks on the riverbed to support a suspended platform that will operate as a demolition and work platform.
+**Canada**Installation of four cement blocks on the riverbed to support a suspended platform that will operate as a demolition and work platform.
 
 Instream works that include construction of a temporary cofferdam to accommodate excavation and construction of a new midstream pier.
 
@@ -81,7 +81,7 @@ From June 1, 2020 to September 30, 2021.
 
 If the Proponent cannot complete the work, undertaking or activity during this period, Fisheries and Oceans Canada (DFO) must be notified in advance of the expiration of the above time period.
 
-The periods during which other conditions of this authorization must be complied with are provided in their respective sections below. 2. Conditions that relate to measures and standards to avoid and mitigate impacts to fish and fish habitat, including impacts to aquatic species at risk and their critical habitat as well as the introduction of non-indigenous species:
+The periods during which other conditions of this authorization must be complied with are provided in their respective sections below.2. Conditions that relate to measures and standards to avoid and mitigate impacts to fish and fish habitat, including impacts to aquatic species at risk and their critical habitat as well as the introduction of non-indigenous species:
 
 2.1 Sediment and erosion control; Sediment and erosion control measures must be in place and shall be upgraded and maintained, such that release of sediment is avoided at the location of the authorized work, undertaking, or activity.
 2.1.1 Effective erosion and sediment control measures shall be in place prior to, during, and after construction, and until revegetation or other mitigation measures are sufficient to control erosion, and shall be maintained, repaired, and/or upgraded as required to function properly and prevent sediment from entering fish habitat.
@@ -98,7 +98,7 @@ The periods during which other conditions of this authorization must be complied
 2.2.7 All captures of Channel Darter shall be recorded and digitally vouchered and the species released unharmed to the watercourse downstream of the isolation site. Photo vouchers shall be taken while SAR are fully submerged in a net or viewing box.
 2.2.7.1 SAR shall be sorted from the non-SAR and processed before all other species.
 2.2.7.2 During processing, fishes shall be kept in multiple buckets/tubs shall be replaced every 10 minutes or otherwise aerated (flow-through, aeration stones, etc.) to maintain dissolved oxygen levels and water temperatures (within ±1°C).
-2.2.7.3 Buckets/tubs shall be covered to reduce stress and placed in full shade. 2.2.8 To the extent possible, works shall be conducted in a manner whereby any individuals of the species shall be handled only in the circumstances authorized and with the least amount of harm.
+2.2.7.3 Buckets/tubs shall be covered to reduce stress and placed in full shade.2.2.8 To the extent possible, works shall be conducted in a manner whereby any individuals of the species shall be handled only in the circumstances authorized and with the least amount of harm.
 
 2.2.9 Every effort shall be made to minimize disruption of important habitat features, including rocks and coarse woody debris. In the event that rocks or coarse woody debris are overprinted or impacted by works, these features shall be moved to a similar location within the watercourse away from the worksite.
 
@@ -130,7 +130,7 @@ The periods during which other conditions of this authorization must be complied
 
 3.1.1 The death of large numbers (≥5) of any of the species identified above, resulting from activities authorized by this authorization, shall be reported immediately to DFO.
 
-3.1.2 Vouchers (digital or physical) for each fish species (both species at risk and common species) must be collected at every site following the protocol outlined in Appendix 2 of Mandrak and Bouvier (2014) (Mandrak, N.E., and Bouvier, L.D. 2014. Standardized data collection methods in support of a classification protocol for the designation of watercourses as municipal drains. DFO Can. Sci. Advis. Sec. Res. Doc. 2013/077. v + 26 p.). The applicant shall retain vouchers unless/until requested by DFO; if desired, vouchers may be disposed of after one (1) year from the time of collection.
+3.1.2 Vouchers (digital or physical) for each fish species (both species at risk and common species) must be collected at every site following the protocol outlined in Appendix 2 of Mandrak and Bouvier (2014) (Mandrak, N.E., and Bouvier, L.D. 2014. Standardized data collection methods in support of a classification protocol for the designation of watercourses as municipal drains. DFO Can. Sci. Advis. Sec. Res. Doc. 2013/077. v + 26 p.). The applicantshall retain vouchers unless/until requested by DFO; if desired, vouchers may be disposed of after one (1) year from the time of collection.
 
 3.1.3 Using the spreadsheet provided, a summary of data identifying all species (both SAR and non-SAR) caught by site (including number caught, date of capture, latitude, longitude, etc.) should be sent to DFO following the completion of works and no later than November 30, 2021.
 
@@ -156,7 +156,7 @@ The periods during which other conditions of this authorization must be complied
 
 4.4 Contingency measures: If the results of monitoring as required in section 5 indicate that the offsetting measures are not completed by the date specified and/or are not functioning according to the above criteria in 4.3, the Proponent shall give written notice to DFO and shall implement the contingency measures and associated monitoring measures, as contained within the approved offsetting plan (attached to this authorization or referenced in section 4.2), and as set out in section 5 of this authorization, to ensure the implementation of the offsetting measures is completed and/or functioning as required by this authorization.
 
-4.4.1 Scale and description of contingency measures: The Proponent shall conduct necessary works, undertake or activities to ensure the structural stability and ongoing functionality of any contingency offsetting habitat to the satisfaction of DFO, should the initial offsetting plan not meet the requirements for offsetting associated with this authorization. 4.4.2 Monitoring measures to ensure offsetting contingency is completed and/or functioning as required: All contingency offsetting measures shall be completed and functioning as described in the approved offsetting plan.
+4.4.1 Scale and description of contingency measures: The Proponent shall conduct necessary works, undertake or activities to ensure the structural stability and ongoing functionality of any contingency offsetting habitat to the satisfaction of DFO, should the initial offsetting plan not meet the requirements for offsetting associated with this authorization.4.4.2 Monitoring measures to ensure offsetting contingency is completed and/or functioning as required: All contingency offsetting measures shall be completed and functioning as described in the approved offsetting plan.
 
 4.5 The Proponent shall not carry on any work, undertaking or activity that will adversely impact the offsetting measures.
 
@@ -186,7 +186,7 @@ This authorization may be revoked or amended to ensure the survival or recovery 
 - amend or revoke this authorization;
 - direct or Proponent to carry out at the Proponent’s expense any modifications or actions deemed necessary by DFO to avoid or mitigate existing impacts or to avoid further adverse direct and indirect impacts to the above aquatic species at risk.
 
-This authorization does not purport to release the applicant from any obligation to obtain permission from or to comply with the requirements of any other regulatory agencies. This authorization does not permit the deposit of a deleterious substance in water frequented by fish. Subsection 36(3) of the Fisheries Act prohibits the deposit of any deleterious substances into waters frequented by fish unless authorized by regulations made by Governor in Council.
+This authorization does not purport to release the applicant from any obligation to obtain permission from or to comply with the requirements of any other regulatory agencies.This authorization does not permit the deposit of a deleterious substance in water frequented by fish. Subsection 36(3) of the Fisheries Act prohibits the deposit of any deleterious substances into waters frequented by fish unless authorized by regulations made by Governor in Council.
 
 This authorization does not permit the taking of individuals of any aquatic species listed under the Species at Risk Act (SARA) (s. 32 of the SARA), or the damage or destruction of residence of individuals of such species (s. 33 of the SARA).
 

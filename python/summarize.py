@@ -28,14 +28,15 @@ def create_prompt(format_instructions):
         Read through all information:
         ```{data}```
         Latitude, Longitude, usually near the beginning of the document, starts with "Longitude and latitude, UTM Coordinates:". Some may include multiple coordinates, get them all. 
-        Coordinates - a replacement in case no Latitude or Longitude can be specifically identified.
+        Coordinates - a replacement in case no Latitude or Longitude can be specifically identified. Take all the content from the "Longitude and latitude, UTM Coordinates:" section
         Habitat Type mentioned in the document. "Fish habitat" is too generic. Example: "Riverine"
         Fish_species are usually in section 4.
-        Offset_footprint_size are usualy in section 4, documenting the footprint of each of the different offsetting measures and recording the measures according to the type of habitat they provide. Each offsetting type or location has its own line, so some projects have 2 or more lines of offsetting information
+        Offset_footprint_size are usualy in section 4, documenting the footprint of each of the different offsetting measures and recording the measures according to the type of habitat they provide. 
+        Each offsetting type or location has its own line, so some projects have 2 or more lines of offsetting information. Give me the sum of all the numerical value of the areas in the section.
         Find me the Date of Issuance, usually at the end of the document.
         For Instream_structures, here are some examples: "Pool/deepwater habitat", "Riffles (rivers)", "Undercut bank (e.g. lunker bunker)"
         For Vegetation_Cover, here are some examples: "Emergent vegetation (e.g. cattails and rush)","Riparian vegetation (e.g. trees and shrubs and grass)"
-        There are usually 4 conditions in each documents, all with varying contents
+        There are usually 4 conditions in each documents, all with varying contents, usually numbered. 
         Answer me in lowercase letters, if you have meter squared, use "m2" as the unit
         For example:
         Then fill in the schema below. Try to get as accurate as possible, even if the data type is not conventional.

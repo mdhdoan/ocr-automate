@@ -24,7 +24,7 @@ Municipality, district, township: Township of Poitras
 Province: Ontario  
 
 **Details about the Location:**  
-Name of watercourse, river: Ottawa River West, Latitude 46°42′29.85″N / Longitude and latitude: PADM103; UTM Coordinates: NAD1983 Zone 17 North 645,010E 5,174,496N  
+Name of watercourse, river: Ottawa River West, Longitude 76°6′10.42″W, Latitude 46°42′29.85″N / Longitude and latitude: PADM103; UTM Coordinates: NAD1983 Zone 17 North 645,010E 5,174,496N  
 
 **Description of Proposed Project:**  
 The proposed project involves the replacement or activity authorized is a part involving:

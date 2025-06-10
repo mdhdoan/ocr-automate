@@ -1,17 +1,6 @@
 {
-    "Latitude": "53\u00b036'40.96\"N",
-    "Longitude": "108\u00b044'38.01\"W",
-    "Coordinates": "53\u00b036'40.96\"N, 108\u00b044'38.01\"W, UTM Coordinates: [Not explicitly converted, but mentioned in the document]",
-    "Date_of_Issuance": "FEB 26 2020",
-    "Condition_summary_1": "Installation of gravel/boulder bar during low flow period (fall), not extending further than the river water intake structure",
-    "Condition_summary_2": "Monitoring of offset structure post-construction for three years including sonar surveys and embeddedness surveys",
-    "Condition_summary_3": "Compliance reports due annually by March 31 from 2022 to 2024",
-    "Condition_summary_4": "Proponent responsible for design and workmanship; authorization non-transferable",
-    "Habitat_Type": "Riverine",
-    "Fish_species": "None explicitly listed in section 4 or elsewhere",
-    "Offset_footprint_size": "The gravel/boulder bar offset area is specified as requiring a measured area per the Offsetting Plan, but the exact numerical value isn't explicitly stated in the provided text. However, the embeddedness survey and monitoring parameters suggest an area, but without a specific number given.",
-    "Vegetation_Cover": "None explicitly mentioned in the context of vegetation cover types like emergent or riparian",
-    "Boulder": "Gravel/boulder bar installation as part of offsetting measures",
-    "Woody_coverage": "None mentioned",
-    "Instream_structures": "Gravel/boulder bar (as a structure), riffles implied through velocity distribution monitoring"
+    "Latitude": "53.611378",
+    "Longitude": "-108.743892",
+    "Coordinates": "53\u00b036'40.96\"N, 108\u00b044'38.01\"W; 12U 58311E E, 5940187 N",
+    "Date_of_Issuance": "FEB 26 2020"
 }

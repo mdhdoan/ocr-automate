@@ -1,0 +1,62 @@
+{
+    "00810": {
+        "Latitude": "None",
+        "Longitude": "None",
+        "Coordinates": " NAD83, Northing 5241673 Eastling 589808",
+        "Date_of_Issuance": "May 08 2015"
+    },
+    "00814": {
+        "Latitude": "46°42′29.85″N",
+        "Longitude": "76°6′10.42″W",
+        "Coordinates": "Ottawa River West, Longitude 76°6′10.42″W, Latitude 46°42′29.85″N / Longitude and latitude: PADM103; UTM Coordinates: NAD1983 Zone 17 North 645,010E 5,174,496N  ",
+        "Date_of_Issuance": "Jun 05 2015"
+    },
+    "00064": {
+        "Latitude": "45.136089",
+        "Longitude": "-76.11737",
+        "Coordinates": "45.136089, -76.11737; UTM 18, 421114, 499826",
+        "Date_of_Issuance": "Feb 07 2020"
+    },
+    "00145": {
+        "Latitude": "43.79381",
+        "Longitude": "-80.386060",
+        "Coordinates": "43.79381, -80.386060",
+        "Date_of_Issuance": "Jan 10 2020"
+    },
+    "00146": {
+        "Latitude": "11678490E",
+        "Longitude": "5672412N",
+        "Coordinates": "11678490E 5672412N ",
+        "Date_of_Issuance": "Aug 17 2018"
+    },
+    "00160": {
+        "Latitude": "71.889403°N",
+        "Longitude": "-80.887592°W",
+        "Coordinates": "71.889403°N, -80.887592°W; Zone: 17 W, Easting: 503900 m E, Northings: 796600 m N",
+        "Date_of_Issuance": "Mar 21 2019"
+    },
+    "00192": {
+        "Latitude": "53°36'40.96\"N",
+        "Longitude": "108°44'38.01\"W",
+        "Coordinates": "53°36'40.96\"N, 108°44'38.01\"W; 12U 58311E E, 5940187 N",
+        "Date_of_Issuance": "Feb 26 2020"
+    },
+    "00233": {
+        "Latitude": "44.165356",
+        "Longitude": "-77.386451",
+        "Coordinates": "44.165356, -77.386451",
+        "Date_of_Issuance": "Jan 10 2020"
+    },
+    "00253": {
+        "Latitude": "50.894225",
+        "Longitude": "-114.009975",
+        "Coordinates": "Longitude: -114.009975, Latitude: 50.894225",
+        "Date_of_Issuance": "Feb 04 2018"
+    },
+    "00311": {
+        "Latitude": "43.084958",
+        "Longitude": "-79.926020",
+        "Coordinates": "43.084958°, -79.926020°; 17T 587418 m E, 4770809 m N (upstream); 43.079826°, -79.927092°; 17T 587338 m E, 4770238 m N (downstream)",
+        "Date_of_Issuance": "Oct 16 2019"
+    }
+}

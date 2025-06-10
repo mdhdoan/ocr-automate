@@ -1,17 +1,6 @@
 {
-    "Latitude": "None",
-    "Longitude": "None",
-    "Coordinates": "None",
-    "Date_of_Issuance": "JUN 05 2015",
-    "Condition_summary_1": "The Proponent must implement offsetting measures to address serious harm to fish, including habitat restoration and creation as per the operating plan.",
-    "Condition_summary_2": "Annual monitoring reports required for dam operations, fish species, and contingency measures, with specific submission deadlines and data formats.",
-    "Condition_summary_3": "Prohibition on depositing deleterious substances and compliance with Species at Risk Act requirements.",
-    "Condition_summary_4": "Authorization cannot be transferred without prior notification to DFO, and non-compliance may result in legal action.",
-    "Habitat_Type": "Riverine",
-    "Fish_species": "Lake Sturgeon, Lake Whitefish",
-    "Offset_footprint_size": "None",
-    "Vegetation_Cover": "None",
-    "Boulder": "None",
-    "Woody_coverage": "None",
-    "Instream_structures": "Riffles (rivers)"
+    "Latitude": "45.4239\u00b0 N",
+    "Longitude": "75.6912\u00b0 W",
+    "Coordinates": "45.4239\u00b0 N, 75.6912\u00b0 W",
+    "Date_of_Issuance": "JUN 05 2015"
 }

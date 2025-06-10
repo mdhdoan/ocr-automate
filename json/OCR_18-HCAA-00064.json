@@ -2,16 +2,5 @@
     "Latitude": "None",
     "Longitude": "None",
     "Coordinates": "None",
-    "Date_of_Issuance": "Feb 07/2020",
-    "Condition_summary_1": "The Proponent must conduct post-construction monitoring and submit a report by June 14, 2022, ensuring offsetting measures meet criteria.",
-    "Condition_summary_2": "Structural stability and functionality of offsetting habitat must be maintained; contingency measures required if not met.",
-    "Condition_summary_3": "Prohibition on adverse disturbance of offsetting measures without DFO approval.",
-    "Condition_summary_4": "Proponent must inform DFO of any unauthorized impacts to fish or habitat and comply with all conditions to avoid legal penalties.",
-    "Habitat_Type": "Riverine, Estuarine, Lentic",
-    "Fish_species": "None explicitly listed in section 4",
-    "Offset_footprint_size": 1000,
-    "Vegetation_Cover": "Riparian vegetation (e.g. trees and shrubs and grass)",
-    "Boulder": "None mentioned",
-    "Woody_coverage": "Habitat enhancement features including woody debris or structures",
-    "Instream_structures": "Pool/deepwater habitat, riffles, mesostructural units"
+    "Date_of_Issuance": "Feb 07/2020"
 }

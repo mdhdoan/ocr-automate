@@ -4,14 +4,14 @@
     "Coordinates": "71.889403\u00b0N, -80.887592\u00b0W; Zone: 17 W, Easting: 503900 m E, Northings: 796600 m N",
     "Date_of_Issuance": "March 21, 2019",
     "Condition_summary_1": "The work must be completed by the expiration date or DFO must be notified for extension.",
-    "Condition_summary_2": "Implement sediment and erosion control measures, including approved plans and monitoring turbidity levels.",
-    "Condition_summary_3": "Monitor and report on mitigation measures and submit reports by specified dates.",
-    "Condition_summary_4": "Offset habitat loss by placing course rock substrate to provide 2792 HEUs of habitat and implement contingency plans if needed.",
+    "Condition_summary_2": "Sediment and erosion control measures must be implemented and monitored, including approved plans and turbidity monitoring.",
+    "Condition_summary_3": "Offsetting measures include placing course rock substrate to provide 2792 HEUs of habitat.",
+    "Condition_summary_4": "Monitoring and reporting requirements for offsetting measures over ten years, including photographic records and annual reports.",
     "Habitat_Type": "Intertidal marine habitat, Subtidal marine habitat, Intertidal unnamed stream",
-    "Fish_species": "None explicitly mentioned in the document",
-    "Offset_footprint_size": "2792 HEUs of potential fish habitat",
-    "Vegetation_Cover": "None explicitly mentioned",
-    "Boulder": "Course rock substrate placement as part of offset measures",
-    "Woody_coverage": "None explicitly mentioned",
-    "Instream_structures": "None explicitly mentioned"
+    "Fish_species": "None",
+    "Offset_footprint_size": "2792",
+    "Vegetation_Cover": "None",
+    "Boulder": "None",
+    "Woody_coverage": "None",
+    "Instream_structures": "None"
 }

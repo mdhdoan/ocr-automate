@@ -3,15 +3,15 @@
     "Longitude": "None",
     "Coordinates": "None",
     "Date_of_Issuance": "JUN 05 2015",
-    "Condition_summary_1": "Annual dam operation monitoring reports must be submitted by August 31 each year, summarizing dam operations from October 1 to July 15, including deviations from the operating plan and recommendations for changes.",
-    "Condition_summary_2": "Annual reports on juvenile Lake Sturgeon and Lake Whitefish recruitment must be submitted, detailing capture data, locations, substrates, depths, and age assessments using specified methods.",
-    "Condition_summary_3": "Contingency monitoring reports for additional offsetting measures must be provided as directed by DFO, describing adaptive management and effectiveness.",
-    "Condition_summary_4": "A final summary report combining all monitoring reports must be submitted within 90 days after the last report.",
+    "Condition_summary_1": "The Proponent must implement offsetting measures to address serious harm to fish, including habitat restoration and creation as per the operating plan.",
+    "Condition_summary_2": "Annual monitoring reports required for dam operations, fish species, and contingency measures, with specific submission deadlines and data formats.",
+    "Condition_summary_3": "Prohibition on depositing deleterious substances and compliance with Species at Risk Act requirements.",
+    "Condition_summary_4": "Authorization cannot be transferred without prior notification to DFO, and non-compliance may result in legal action.",
     "Habitat_Type": "Riverine",
     "Fish_species": "Lake Sturgeon, Lake Whitefish",
     "Offset_footprint_size": "None",
     "Vegetation_Cover": "None",
     "Boulder": "None",
     "Woody_coverage": "None",
-    "Instream_structures": "None"
+    "Instream_structures": "Riffles (rivers)"
 }

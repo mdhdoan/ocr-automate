@@ -1,17 +1,17 @@
 {
     "Latitude": "50.894225",
     "Longitude": "-114.009975",
-    "Coordinates": "Longitude: -114.009975, Latitude: 50.894225",
+    "Coordinates": "Longitude and latitude: 50.894225, -114.009975",
     "Date_of_Issuance": "FEB 04 2018",
-    "Condition_summary_1": "Sediment and erosion control measures must be in place and maintained to avoid sediment release into water. Turbidity monitoring follows the 2018 plan. Contingency measures include upgrading erosion controls, adding armor, raising berms, and halting work if thresholds are met.",
-    "Condition_summary_2": "3,462 m\u00b2 of habitat restoration upstream/downstream on the west bank per the offsetting plan. Monitoring reports due by Jan 15, 2023, with three years of post-construction monitoring ending Dec 31, 2025.",
-    "Condition_summary_3": "Prohibits deposit of deleterious substances, harming SARA-listed species, or damaging their habitats. Authorization cannot be transferred without DFO approval.",
-    "Condition_summary_4": "Proponent responsible for all design and safety aspects. Must comply with other regulatory agencies. Reports on mitigation measures post-work with photos and inspection reports.",
-    "Habitat_Type": "Riverine",
+    "Condition_summary_1": "measures and standards to avoid and mitigate serious harm to fish shall be implemented before, during, and following in-water work",
+    "Condition_summary_2": "monitoring and reporting of implementation of offsetting measures with post-construction monitoring for three years",
+    "Condition_summary_3": "offsetting measures (3,462 m2) to be completed upstream and downstream on the west bank according to the approved plan",
+    "Condition_summary_4": "contingency measures must be reviewed and approved by DFO if mitigation measures fail or offsetting measures are not effective",
+    "Habitat_Type": "riverine",
     "Fish_species": "None explicitly listed in the document",
-    "Offset_footprint_size": "3462 m\u00b2",
-    "Vegetation_Cover": "None explicitly mentioned in offsetting measures",
+    "Offset_footprint_size": "3462 m2",
+    "Vegetation_Cover": "None explicitly mentioned in the offsetting measures",
     "Boulder": "None explicitly mentioned",
     "Woody_coverage": "None explicitly mentioned",
-    "Instream_structures": "None explicitly mentioned in offsetting measures"
+    "Instream_structures": "None explicitly mentioned in the offsetting measures"
 }

@@ -1,7 +1,7 @@
 {
     "00810": {
-        "Latitude": "None",
-        "Longitude": "None",
+        "Latitude": "Northing 5241673",
+        "Longitude": "Eastling 589808",
         "Coordinates": " NAD83, Northing 5241673 Eastling 589808",
         "Date_of_Issuance": "May 08 2015"
     },
@@ -24,8 +24,8 @@
         "Date_of_Issuance": "Jan 10 2020"
     },
     "00146": {
-        "Latitude": "11678490E",
-        "Longitude": "5672412N",
+        "Latitude": "5672412N",
+        "Longitude": "11678490E",
         "Coordinates": "11678490E 5672412N ",
         "Date_of_Issuance": "Aug 17 2018"
     },

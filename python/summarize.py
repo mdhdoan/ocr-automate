@@ -40,14 +40,15 @@ def create_prompt(format_instructions):
         Latitude, Longitude, usually near the beginning of the document, starts with "Longitude and latitude, UTM Coordinates:". Some may include multiple coordinates, get them all. Standard used is WGS 84. Given coordinates might be in UTM or NAD83, which you have to convert.
         Coordinates - a replacement in case no Latitude or Longitude can be specifically identified. Take all the content from the "Longitude and latitude, UTM Coordinates:" section
         Find me the Date of Issuance, usually at the end of the document. Format it as Mmm DD YYYY
-        
-        For example:
+        DO NOT REPEAT THIS DATA:
+        ```{prev_data}```
         Then fill in the schema below. Try to get as accurate as possible, even if the data type is not conventional.
             {{"Latitude":,"Longitude":,"Coordinates":, "Date_of_Issuance":}}
         If no data is found, try again one more time, then return "None" for that value
+        
     """
     return PromptTemplate(
-        input_variables=["data"], 
+        input_variables=["data", "prev_data"], 
         partial_variables={"format_instructions": format_instructions},
         template=QA_TEMPLATE)
 
@@ -63,7 +64,7 @@ def create_prompt(format_instructions):
 ##### LLM VARIABLES SETTINGS #####
 output_parser = JsonOutputParser()
 format_instructions = output_parser.get_format_instructions()
-reasoning_model_list =["qwq"]
+reasoning_model_list =["qwq", "qwen3", "deepseek-r1:14b"]
 
 
 ##### FUNCTIONS #####
@@ -81,8 +82,15 @@ def compare_json_values(json1, json2):
     mismatches = {}
 
     for key in keys_to_compare:
-        val1 = json1.get(key)
-        val2 = json2.get(key)
+        if key not in json1 or key not in json2:
+            mismatches[key] = {
+                "json1": json1.get(key, "<missing>"),
+                "json2": json2.get(key, "<missing>")
+            }
+            continue
+
+        val1 = json1[key]
+        val2 = json2[key]
 
         if key == "Date_of_Issuance":
             try:
@@ -114,7 +122,7 @@ def compare_with_golden(golden_path, record_key, json2):
 
     return compare_json_values(golden_record, json2)
 
-def llm_summarize(data_id, data):
+def llm_summarize(data_id, data, prev_result):
     summary = ''
     # print(input)
     sprompt = create_prompt(format_instructions)
@@ -123,18 +131,22 @@ def llm_summarize(data_id, data):
         summary_chain = sprompt | sllm | output_parser
         print(f"{reasoning_model} is summarizing:...", flush = True, end = '')
         ext_start_time = datetime.now()
-        query_chain = summary_chain.invoke({"data": data})
+        query_chain = summary_chain.invoke({"data": data, "prev_data": prev_result})
         ext_end_time = datetime.now()
         seconds = (ext_end_time - ext_start_time).total_seconds()
         print(f"{seconds}", flush=True)
         print(query_chain, flush=True)
-        if compare_with_golden(golden_data_path, data_id, query_chain):
+        comparison_result = compare_with_golden(golden_data_path, data_id[-5:], query_chain)
+        summary = query_chain
+        if comparison_result is True:
+            summary = query_chain
+        elif prev_result == query_chain:
+            print("DUPLICATED\n\t", comparison_result)
             summary = query_chain
         else:
-            summary = llm_summarize(data_id, data)
+            print("NOT MATCHED\n\t", comparison_result)
+            summary = query_chain
     return summary
-
-
 
 
 ###---------------------------------------------------------------###
@@ -158,7 +170,7 @@ if __name__ == "__main__":
         # print(f"For ID {doc_id}, the content is:\n\t{doc}\n\t")
         # print(ocr_data)
         # input = ', '.join(ocr_data)
-        summary = llm_summarize(doc_id, doc)
+        summary = llm_summarize(doc_id, doc, {})
         # print(f"SUMMARY:\n\t{summary}")
 
         # current_directory = os.getcwd()

@@ -44,4 +44,4 @@ def convert_pdf2img(input_file: str, pages = Tuple):
 if __name__ == "__main__":
     import sys
     input_file = sys.argv[1]
-    convert_pdf2img(input_file, None)
+    convert_pdf2img(input_file, None) # type: ignore

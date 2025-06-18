@@ -32,8 +32,8 @@ def prompt_func(data):
 
 ##### LLM VARIABLES SETTINGS #####
 str_output_parser = StrOutputParser() 
-# vision_model_list = ["minicpm-v", "gemma3", "qwen2.5vl", "llama3.2-vision"]
-vision_model_list = ["minicpm-v"]
+vision_model_list = ["minicpm-v", "qwen2.5vl","qwen2.5vl:32b", "gemma3", "gemma3:27b"]
+# vision_model_list = ["qwen2.5vl"]
 
 
 ##### FUNCTIONS #####
@@ -112,7 +112,7 @@ def extracting_visual_img(image_b64):
         ext_end_time = datetime.now()
         seconds = (ext_end_time - ext_start_time).total_seconds()
         print(f"{seconds}", flush=True)
-        # print("\t", query_chain[:50], flush = True)
+        print("\t", query_chain, flush = True)
         ocr_result = query_chain
     return ocr_result
 

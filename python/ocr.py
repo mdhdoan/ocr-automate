@@ -32,8 +32,8 @@ def prompt_func(data):
 
 ##### LLM VARIABLES SETTINGS #####
 str_output_parser = StrOutputParser() 
-vision_model_list = ["minicpm-v", "qwen2.5vl","qwen2.5vl:32b", "gemma3", "gemma3:27b"]
-# vision_model_list = ["qwen2.5vl"]
+vision_model_list = ["qwen2.5vl"]
+# vision_model_list = ["minicpm-v","qwen2.5vl:32b", "gemma3:27b"]
 
 
 ##### FUNCTIONS #####

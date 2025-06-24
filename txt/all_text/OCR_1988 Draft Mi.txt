@@ -6,69 +6,13 @@ Status of data base re: multiyear records of fence counts by species should be c
 
 Peamount club size and age info. needs to be assembled.
 
-Data from 1986 and 1987 should be assembled into a single summary report on Muriel smolt production spanning years 1986-1987 (i.e. 2 years). This report will be required as a precursor to marine survival comparisons.Seasonal Migration Migration Patterns:
-
-Sockeye:
-
-The fence was operational March 18 and the first smolts were caught March 28 (Fig. 2a, Table 1). The dates when the smolt migration was 10, 50 and 90% complete were April 21, May 1, and May 9 respectively (Table 1). The peak daily passage during the interval March 18 to June 5 was 275 sockeye smolts on April 22 (Fig. 2a).
-
-Coho:
-
-Coho smolts emigrated primarily between late April and early June (Fig. 2b). The dates when the smolt migration was April 29, May 4, and May 24 respectively (Table 1). The largest daily catch occurred on May 2 (99 smolts) (Fig. 2b, Table 1).
-
-In general, coho smolts migrated later than sockeye smolts during the 1987 season (Fig. 2a & b).
-
-Environmental Observations:
-
-During the interval of juvenile sockeye migration in 1987, water temperatures ranged from a low of 8.5 degrees Celsius (March 20) to a high of 18.5 degrees Celsius (May 25) (Appendix 2).
-
-Measurable precipitation, recorded at the Tofino Airport, occurred on 45 of the 78 days that observations were made (Appendix 2).
-
-During the peak period of smolt migration (April 24 to May 7), water levels fluctuated from a low of 0.64 meters on April 29 to a high of 0.94 meters on May 4 (Appendix 2).
-
-Biological Characteristics:
-
-A total of 22 samples containing between 2 and 142 smolts per sample were obtained from the smolt trap and or fence and trap mortalities during the interval March 28 to May 19 (Table 2). Although a total of 407 sockeye smolts (16.8% of the estimated total number of migrants) were collected, only 396 were used to determine the mean lengths and weights of the migrants and a portion of these were used to determine the age composition of the run.
-
-Sockeye smolts sampled at the Muriel Creek fence site during the 1987 season and processed in the laboratory were represented by two age-classes (1.0 and 2.0) (Table 2). Two-year-old fish (2.0) were the dominant age class, representing 64.6% of the total total catch (Table 2).Size Composition:
-
-The mean fork lengths of one-year-old smolts ranged from 73 mm to 103 mm and two-year-old smolts ranged in size from 86 to 118 mm (Table 2a).
-
-The 1967 sampling indicated that the average lengths of sockeye smolts leaving the system varied according to no fixed pattern. Whereas both 1.0 and 2.0 decreased in mean weight over the course of the monitoring period (Table 2b).
-
-KIM: THIS SECTION REQUIRES MORE ANALYSIS.
-
-ACKNOWLEDGEMENTS
-
-J.C. Lee and Associates Ltd. executed most of the field activities on which this report is based, while under contract to the Lake Enrichment Program. The assistance of the following persons in various aspects of the field operations is greatly acknowledged: R. Traber, I. Miki and P. Rankin of the Department of Fisheries and Oceans, Nanaimo, B.C.; C. Crookes and C. McConnell of J.C. Lee and Associates Ltd. Also deserving special mention are E. Rome of Envirocon Pacific Ltd. (Vancouver, B.C.) who weighed and measured the sockeye smolts and read sockeye scales for age determination; H. Stiff of J.C. Lee and Associates Ltd. and D. Fyfe of Envirocon Pacific Ltd. facilitated computer processing of the data. The manuscript benefitted from comments made by ______ and ______.
-
-```
-REFERENCES
-
-Bilton, H. T. 1964. Variations in Scales sampled from different body areas of sockeye salmon yearlings (Oncorhynchus nerka). Can. Tech. Rep. Fish. Aquat. Sci. 1297:7p.
-
-Hyatt, K.D., D. Rutherford, T. Gjernes, P. Rankin and T. Cone. 1964. Lake Enrichment program: juvenile sockeye unit survey guidelines. Can. Ms. Rep. Fish. Aquat. Sci. 1796:84p.
-
-Hyatt, K.D. and J.G. Stockner. 1965. Responses of sockeye salmon (Oncorhynchus nerka) to fertilization of British Columbia coastal lakes. Can. J. Aquat. Sci. 42:320-331.
-
-LeBrasseur, R.J., C.D. McAllister, W.E. Barracough, O.D. Kennedy, J. Manzer, D. Robinson, and K. Stephens. 1978. Enhancement of sockeye salmon (Oncorhynchus nerka) by lake fertilization in Great Central Lake: Summary report. J. Fish. Res. Board Can. 35:1580-1596.
-
-Manzer, J.L., M. Wright and I. Miki. 1984. Abundance, upstream migration, age-composition and fecundity of Hobiton Lake adult sockeye salmon (Oncorhynchus nerka). 1982. Can. Tech. Rep. Fish. Aquat. Sci. 1632:51p.
-
-Parker, R.R. 1963. Effects of formalin on length and weight of fishes. J. Fish. Res. Bd. Can. 20: 1441-1455.
-
-Rutherford, D.T., K.D. Hyatt, J.E. Radziul, and G.J. Steer. 1986. Physical parameters of sockeye salmon (Oncorhynchus nerka) rearing lakes under study by the Enhancement Assessment Unit. Can. MS Rep. Fish. Aquat. Sci. 1878: 114p.
-
-Stephens, K. and J.G. Stockner. 1983. The Lake Enrichment Program: methods for the fertilization of lakes in British Columbia. 1970 to 1982. Can. Tech. Rep. Fish. Aquat. Sci. 1192:51p.
-
-Thorson, L. 1982. Trapping and coded-wire tagging of wild and sockeye smolts in the Kennedy River River system, 1979. Unpubl. MS, Dept. Fish. and Oceans, Field Services Branch, Nanaimo, B.C.
-```Unpublished Documents
-
-Annual reports of the Kennedy Lake Hatchery 1914-1936. From file AI/1/8 at the Archives, Pacific Biological Station, Nanaimo, B.C.ABSTRACT
+Data from 1986 and 1987 should be assembled into a single summary report on Muriel smolt production spanning years 1986-1987 (i.e. 2 years). This report will be required as a precursor to marine survival comparisons.
+ABSTRACT
 
 Wright, M. C. and K. D. Hyatt. 1988. Migration patterns, abundance, age, and size composition of sockeye smolts (Oncorhynchus nerka) leaving Muriel Lake in 1987. Can. Tech. Rep. Fish. Aquat. Sci.
 
-Sockeye smolts migrating from Muriel Lake were monitored from March 18 to June 5. The first smolts were trapped at the counting fence March 28. The times when 50 and 90% of the sockeye smolts left the system were May 1 and May 9 respectively. In 1987 sockeye smolts were numerically the most common fish leaving the lake. A total of 2416 sockeye smolts migrated from Muriel Lake. Other species caught at the fence site include: coho fry and smolts, peamouth chub, sculpins, cutthroat trout, stickleback and lamprey. Two age types (1.0 and 2.0) contributed to the run. 2.0 predominated in 1987, comprising 64.6% of the total catch.INTRODUCTION
+Sockeye smolts migrating from Muriel Lake were monitored from March 18 to June 5. The first smolts were trapped at the counting fence March 28. The times when 50 and 90% of the sockeye smolts left the system were May 1 and May 9 respectively. In 1987 sockeye smolts were numerically the most common fish leaving the lake. A total of 2416 sockeye smolts migrated from Muriel Lake. Other species caught at the fence site include: coho fry and smolts, peamouth chub, sculpins, cutthroat trout, stickleback and lamprey. Two age types (1.0 and 2.0) contributed to the run. 2.0 predominated in 1987, comprising 64.6% of the total catch.
+INTRODUCTION
 
 Between the years 1969 and 1975, investigators with the Fisheries Research Board of Canada conducted an experimental study at Great Central Lake, British Columbia to test the hypothesis that increasing the supply of inorganic nutrients in an ultraoligotrophic lake would increase production at succeeding trophic levels and would consequently serve as a useful technique to enhance the productivity of a stock of sockeye salmon. LeBrassuer et al. (1978) reported that during fertilized years mean summer primary production increased fivefold, zooplankton standing stock increased 9 times, the percentage survival from estimated potential egg deposition to juvenile sockeye increased 2.6 times, while mean stock size of adult sockeye increased from <50,000 to >360,000. Given the apparent 7-fold increase in Great Central Lake adult sockeye returns compared to pretreatment "historic" levels LeBrassuer et al. (1979) concluded that lake fertilization could serve as a highly cost-effective technique to enhance sockeye salmon. Thus, when the Salmonid Enhancement Program (SEP) was launched in 1977 as a joint effort of the Federal and Province of British Columbia Governments, an expanded Lake Enrichment Program (LEP) was initiated as an experimental technique for the enhancement of sockeye salmon in a variety of B.C. coastal lakes. The Fisheries Research Branch (FRB) serves as the source of scientific and technical expertise with funding provided by SEP.
 
@@ -168,4 +112,62 @@ The estimate of total smolt abundance (2416) must be considered conservative for
 
 **Other Species:**
 
-A total of 2249 peamouth chub, 458 coho smolts, 214 coho fry, 2111 sculpins, 67 cutthroat trout, 3 stickleback, and 6 lamprey were also captured during the 1987 program (Table 1 and Appendix 1).
+A total of 2249 peamouth chub, 458 coho smolts, 214 coho fry, 2111 sculpins, 67 cutthroat trout, 3 stickleback, and 6 lamprey were also captured during the 1987 program (Table 1 and Appendix 1).Seasonal Migration Migration Patterns:
+
+Sockeye:
+
+The fence was operational March 18 and the first smolts were caught March 28 (Fig. 2a, Table 1). The dates when the smolt migration was 10, 50 and 90% complete were April 21, May 1, and May 9 respectively (Table 1). The peak daily passage during the interval March 18 to June 5 was 275 sockeye smolts on April 22 (Fig. 2a).
+
+Coho:
+
+Coho smolts emigrated primarily between late April and early June (Fig. 2b). The dates when the smolt migration was April 29, May 4, and May 24 respectively (Table 1). The largest daily catch occurred on May 2 (99 smolts) (Fig. 2b, Table 1).
+
+In general, coho smolts migrated later than sockeye smolts during the 1987 season (Fig. 2a & b).
+
+Environmental Observations:
+
+During the interval of juvenile sockeye migration in 1987, water temperatures ranged from a low of 8.5 degrees Celsius (March 20) to a high of 18.5 degrees Celsius (May 25) (Appendix 2).
+
+Measurable precipitation, recorded at the Tofino Airport, occurred on 45 of the 78 days that observations were made (Appendix 2).
+
+During the peak period of smolt migration (April 24 to May 7), water levels fluctuated from a low of 0.64 meters on April 29 to a high of 0.94 meters on May 4 (Appendix 2).
+
+Biological Characteristics:
+
+A total of 22 samples containing between 2 and 142 smolts per sample were obtained from the smolt trap and or fence and trap mortalities during the interval March 28 to May 19 (Table 2). Although a total of 407 sockeye smolts (16.8% of the estimated total number of migrants) were collected, only 396 were used to determine the mean lengths and weights of the migrants and a portion of these were used to determine the age composition of the run.
+
+Sockeye smolts sampled at the Muriel Creek fence site during the 1987 season and processed in the laboratory were represented by two age-classes (1.0 and 2.0) (Table 2). Two-year-old fish (2.0) were the dominant age class, representing 64.6% of the total total catch (Table 2).Size Composition:
+
+The mean fork lengths of one-year-old smolts ranged from 73 mm to 103 mm and two-year-old smolts ranged in size from 86 to 118 mm (Table 2a).
+
+The 1967 sampling indicated that the average lengths of sockeye smolts leaving the system varied according to no fixed pattern. Whereas both 1.0 and 2.0 decreased in mean weight over the course of the monitoring period (Table 2b).
+
+KIM: THIS SECTION REQUIRES MORE ANALYSIS.
+
+ACKNOWLEDGEMENTS
+
+J.C. Lee and Associates Ltd. executed most of the field activities on which this report is based, while under contract to the Lake Enrichment Program. The assistance of the following persons in various aspects of the field operations is greatly acknowledged: R. Traber, I. Miki and P. Rankin of the Department of Fisheries and Oceans, Nanaimo, B.C.; C. Crookes and C. McConnell of J.C. Lee and Associates Ltd. Also deserving special mention are E. Rome of Envirocon Pacific Ltd. (Vancouver, B.C.) who weighed and measured the sockeye smolts and read sockeye scales for age determination; H. Stiff of J.C. Lee and Associates Ltd. and D. Fyfe of Envirocon Pacific Ltd. facilitated computer processing of the data. The manuscript benefitted from comments made by ______ and ______.
+
+```
+REFERENCES
+
+Bilton, H. T. 1964. Variations in Scales sampled from different body areas of sockeye salmon yearlings (Oncorhynchus nerka). Can. Tech. Rep. Fish. Aquat. Sci. 1297:7p.
+
+Hyatt, K.D., D. Rutherford, T. Gjernes, P. Rankin and T. Cone. 1964. Lake Enrichment program: juvenile sockeye unit survey guidelines. Can. Ms. Rep. Fish. Aquat. Sci. 1796:84p.
+
+Hyatt, K.D. and J.G. Stockner. 1965. Responses of sockeye salmon (Oncorhynchus nerka) to fertilization of British Columbia coastal lakes. Can. J. Aquat. Sci. 42:320-331.
+
+LeBrasseur, R.J., C.D. McAllister, W.E. Barracough, O.D. Kennedy, J. Manzer, D. Robinson, and K. Stephens. 1978. Enhancement of sockeye salmon (Oncorhynchus nerka) by lake fertilization in Great Central Lake: Summary report. J. Fish. Res. Board Can. 35:1580-1596.
+
+Manzer, J.L., M. Wright and I. Miki. 1984. Abundance, upstream migration, age-composition and fecundity of Hobiton Lake adult sockeye salmon (Oncorhynchus nerka). 1982. Can. Tech. Rep. Fish. Aquat. Sci. 1632:51p.
+
+Parker, R.R. 1963. Effects of formalin on length and weight of fishes. J. Fish. Res. Bd. Can. 20: 1441-1455.
+
+Rutherford, D.T., K.D. Hyatt, J.E. Radziul, and G.J. Steer. 1986. Physical parameters of sockeye salmon (Oncorhynchus nerka) rearing lakes under study by the Enhancement Assessment Unit. Can. MS Rep. Fish. Aquat. Sci. 1878: 114p.
+
+Stephens, K. and J.G. Stockner. 1983. The Lake Enrichment Program: methods for the fertilization of lakes in British Columbia. 1970 to 1982. Can. Tech. Rep. Fish. Aquat. Sci. 1192:51p.
+
+Thorson, L. 1982. Trapping and coded-wire tagging of wild and sockeye smolts in the Kennedy River River system, 1979. Unpubl. MS, Dept. Fish. and Oceans, Field Services Branch, Nanaimo, B.C.
+```Unpublished Documents
+
+Annual reports of the Kennedy Lake Hatchery 1914-1936. From file AI/1/8 at the Archives, Pacific Biological Station, Nanaimo, B.C.

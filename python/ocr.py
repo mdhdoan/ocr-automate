@@ -32,7 +32,7 @@ def prompt_func(data):
 
 ##### LLM VARIABLES SETTINGS #####
 str_output_parser = StrOutputParser() 
-vision_model_list = ["qwen2.5vl"]
+vision_model_list = ["llama4"]
 # vision_model_list = ["minicpm-v","qwen2.5vl:32b", "gemma3:27b"]
 
 
@@ -57,7 +57,7 @@ def intake_img_from_dir(directory):
     loaded_list_of_img_files = {}
     for img in directory:
         uuid = img[:13]
-        print(f"\tuuid: {uuid}, {img[-9:-4]}")
+        print(f"\tuuid: {uuid}, {img[-10:-4]}")
         file_address = os.path.join(sys.argv[1], img)
         # print(f"\tfile_address: {file_address}")
         pil_image = Image.open(file_address)

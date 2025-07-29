@@ -32,8 +32,7 @@ def prompt_func(data):
 
 ##### LLM VARIABLES SETTINGS #####
 str_output_parser = StrOutputParser() 
-vision_model_list = ["minicpm-v:8b-2.6-fp16"]
-# vision_model_list = ["minicpm-v","qwen2.5vl:32b", "gemma3:27b"]
+vision_model_list = ["minicpm-v", "minicpm-v:8b-2.6-fp16", "qwen2.5vl:32b", "gemma3:27b"]
 
 
 ##### FUNCTIONS #####
@@ -56,8 +55,8 @@ def intake_pdf_from_dir(directory):
 def intake_img_from_dir(directory):
     loaded_list_of_img_files = {}
     for img in directory:
-        uuid = img[:13]
-        print(f"\tuuid: {uuid}, {img[-10:-4]}")
+        uuid = img[:-4]
+        print(f"\tuuid: {uuid}, {img[:-4]}")
         file_address = os.path.join(sys.argv[1], img)
         # print(f"\tfile_address: {file_address}")
         pil_image = Image.open(file_address)
@@ -94,30 +93,28 @@ def testing_visual_models(image_b64):
     #     print(' :)')
     # return ocr_result
 
-def extracting_visual_img(image_b64):
+def extracting_visual_img(vision_model, image_b64):
     ocr_result = ''
-    for vision_model in vision_model_list:
-        print(f"{vision_model} running...", flush = True, end = '')
-        llm = ChatOllama(model=vision_model, temperature=0)
-        chain = prompt_func | llm | str_output_parser
-        ext_start_time = datetime.now()
-        query_chain = chain.invoke(
-            {
-                "text": """
-                    You are given an image of a scanned, typewritten document. Your task is to accurately transcribe the text from the image,
-                    line by line. Read the entire document, do not skip any lines.
-                    If a character is unreadable, represent it with "[unreadable]". 
-                    Do not attempt to correct any spelling or grammatical errors or change any formatting
-                    Prioritize accuracy over fluency.
-                """, 
-                "image": image_b64
-            }
-        )
-        ext_end_time = datetime.now()
-        seconds = (ext_end_time - ext_start_time).total_seconds()
-        print(f"{seconds}", flush=True)
-        print("\t", query_chain, flush = True)
-        ocr_result = query_chain
+    print(f"{vision_model} running...", flush = True, end = '')
+    llm = ChatOllama(model=vision_model, temperature=0)
+    chain = prompt_func | llm | str_output_parser
+    ext_start_time = datetime.now()
+    query_chain = chain.invoke(
+        {
+            "text": """
+                You are given an image of a scanned, typewritten document. Your task is to accurately transcribe the text from the image,
+                line by line. Pay close attention to any potentially ambiguous characters (e.g., 'l' vs '1', 'O' vs '0', 'rn' vs 'm').
+                If a character is unreadable, represent it with "[unreadable]". Do not attempt to correct any spelling or grammatical errors;
+                transcribe exactly what is visible. Prioritize accuracy over fluency. Keeps the same format if you can.
+            """, 
+            "image": image_b64
+        }
+    )
+    ext_end_time = datetime.now()
+    seconds = (ext_end_time - ext_start_time).total_seconds()
+    print(f"{seconds}", flush=True)
+    print("\t", query_chain, flush = True)
+    ocr_result = query_chain
     return ocr_result
 
 def extracting_visual_pdf(pdf_file):
@@ -146,21 +143,22 @@ if __name__ == "__main__":
     print("Running local at", start_time)
     dir_of_files = intake_img_from_dir(file_list_in_directory)
     print(f"Finished {len(dir_of_files)} files")
-    for doc_id, doc in dir_of_files.items():
-        ocr_data = ''
-        print(f"-----#####{doc_id}#####-----")
-        for doc_page in doc:
-            # print(doc_page)
-            ocr_data = ocr_data + '' + extracting_visual_img(doc_page)
+    for vision_model in vision_model_list:
+        for doc_id, doc in dir_of_files.items():
+            ocr_data = ''
+            print(f"-----#####{doc_id}#####-----")
+            for doc_page in doc:
+                # print(doc_page)
+                ocr_data = ocr_data + '' + extracting_visual_img(vision_model, doc_page)
 
-        current_directory = os.getcwd()
-        file_name = doc_id + '.txt'
-        target_directory = current_directory + '/txt/all_text/'
-        os.makedirs(target_directory, exist_ok = True)
-        output_file = os.path.join(target_directory, file_name)
-        with open(output_file, "w+") as ocr_result:
-            ocr_result.write(ocr_data)
-        print(f"{file_name} written")
+            current_directory = os.getcwd()
+            file_name = vision_model + '_OCR_' + doc_id + '.txt'
+            target_directory = current_directory + '/txt/all_text/'
+            os.makedirs(target_directory, exist_ok = True)
+            output_file = os.path.join(target_directory, file_name)
+            with open(output_file, "w+") as ocr_result:
+                ocr_result.write(ocr_data)
+            print(f"{file_name} written")
 
     end_time = datetime.now()
     seconds = (end_time - start_time).total_seconds()

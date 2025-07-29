@@ -1,47 +1,91 @@
-import fitz
+##### LIBRARIES #####
+from datetime import datetime
+from langchain.output_parsers.pydantic import PydanticOutputParser
+from langchain_core.output_parsers import JsonOutputParser
+from langchain_core.prompts import PromptTemplate
+from langchain_ollama import OllamaLLM
+from pydantic import BaseModel, Field, model_validator
 
-from typing import Tuple
-import os
+import json
+import os 
+import random
+import sys
 
-def convert_pdf2img(input_file: str, pages = Tuple):
-    """Converts pdf to image and generates a file by page"""
-    # Open the document
-    pdfIn = fitz.open(input_file)
-    output_files = []
-    # Iterate throughout the pages
-    for pg in range(pdfIn.page_count):
-        if str(pages) != str(None):
-            if str(pg) not in str(pages):
-                continue
-        # Select a page
-        page = pdfIn[pg]
-        rotate = int(0)
-        # PDF Page is converted into a whole picture 1056*816 and then for each picture a screenshot is taken.
-        # zoom = 1.33333333 -----> Image size = 1056*816
-        # zoom = 2 ---> 2 * Default Resolution (text is clear, image text is hard to read)    = filesize small / Image size = 1584*1224
-        # zoom = 4 ---> 4 * Default Resolution (text is clear, image text is barely readable) = filesize large
-        # zoom = 8 ---> 8 * Default Resolution (text is clear, image text is readable) = filesize large
-        zoom_x = 2
-        zoom_y = 2
-        # The zoom factor is equal to 2 in order to make text clear
-        # Pre-rotate is to rotate if needed.
-        mat = fitz.Matrix(zoom_x, zoom_y).prerotate(rotate)
-        pix = page.get_pixmap(matrix=mat, alpha=False) # type: ignore
-        output_file = f"{os.path.splitext(os.path.basename(input_file))[0]}_page{pg+1}.png"
-        pix.save(output_file)
-        output_files.append(output_file)
-    pdfIn.close()
-    summary = {
-        "File": input_file, "Pages": str(pages), "Output File(s)": str(output_files)
-    }
-    # Printing Summary
-    print("## Summary ########################################################")
-    print("\n".join("{}:{}".format(i, j) for i, j in summary.items()))
-    print("###################################################################")
-    return output_files
+##### TEST-LIBRARIES #####
 
 
-if __name__ == "__main__":
-    import sys
-    input_file = sys.argv[1]
-    convert_pdf2img(input_file, None)
+##### INPUT VARIABLES SETTINGS #####
+
+
+##### LLM PROMPTS #####
+def create_prompt(format_instructions):
+    QA_TEMPLATE = """
+        {format_instructions}
+     
+    """
+    return PromptTemplate(
+        input_variables=[""], 
+        partial_variables={"format_instructions": format_instructions},
+        template=QA_TEMPLATE)
+
+# Define your desired data structure.
+# class Answer(BaseModel):
+#     Langitude: str = Field(description="langtitude of the location in the document")
+#     Longitude: str = Field(description="longitude of the location in the document")
+#     Description: str = Field(description="brief summary description of the document")
+#     Habitat_Type: str = Field(description="type of habitat described.")
+#     Date_of_Issuance: str = Field(description="Dates of Issuance, usually found at the end of the document")
+
+
+##### LLM VARIABLES SETTINGS #####
+output_parser = JsonOutputParser()
+format_instructions = output_parser.get_format_instructions()
+reasoning_model_list =[""] 
+
+
+##### FUNCTIONS #####
+def import_txt_files(directory):
+    library_of_files = {}
+    for file in directory:
+        uuid = file[:-4]
+        file_address = os.path.join(sys.argv[1], file)
+        with open(file_address, 'rt', encoding='utf-8') as text_file:
+            library_of_files[uuid] = text_file.read()
+    return library_of_files
+    
+def llm_summarize(data):
+    summary = ''
+    # print(input)
+    sprompt = create_prompt(format_instructions)
+    for reasoning_model in reasoning_model_list:
+        sllm = OllamaLLM(model = reasoning_model, temperature = 0.0, format = 'json')
+        summary_chain = sprompt | sllm | output_parser
+        print(f"{reasoning_model} is summarizing:...", flush = True, end = '')
+        ext_start_time = datetime.now()
+        query_chain = summary_chain.invoke({"data": data})
+        ext_end_time = datetime.now()
+        seconds = (ext_end_time - ext_start_time).total_seconds()
+        print(f"{seconds}", flush=True)
+        print(query_chain, flush=True)
+        summary = query_chain
+    return summary
+
+def run_live_loop():
+    print("Program started. Type '!stop' to exit.")
+    while True:
+        user_input = input(">> ")
+        if user_input.strip() == "!stop":
+            print("Stopping program.")
+            break
+        # Do something with the input or run your logic
+        print(f"You entered: {user_input}")
+
+
+###---------------------------------------------------------------###
+if __name__ == "__main__": 
+    start_time = datetime.now()
+    print("Importing data")
+    end_time = datetime.now()
+    seconds = (end_time - start_time).total_seconds()
+    print(f"Total Execution time: {seconds} secs for {len(file_list_in_directory)} files at {end_time}", flush=True)
+    run_live_loop()

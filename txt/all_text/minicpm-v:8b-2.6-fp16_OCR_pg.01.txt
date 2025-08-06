@@ -1,48 +1,55 @@
-The image appears to be an old computer output or log from September 25, 1984. It contains various pieces of information such as dates, times, observers' names, machine start and finish times, visual running totals, and other details related to a specific process.
-
-Here is the transcribed text with some formatting for clarity:
+The image appears to be an old computer output or log from September 25, 1984, detailing various observations made by different individuals. Here is a transcription of the text in the table:
 
 ---
 
-**Title:**
-LEP MACHINE COUNT DATA BASE
+**DATE** | **OBSERVER** | **TIME START** | **TIME FINISH** | **VISUAL MACHINE** | **RUNNING TOTAL**
+---|---|---|---|---|---
+260584 | MIKE WRIGHT | 9:00:00 | 17:00:00 | 38 | 
+260584 | SHARON WAUGH | 20:30:00 | 21:30:00 | 7 |
+270584 | MIKE WRIGHT | 9:00:00 | 17:00:00 | 6 | 
+280584 | MIKE WRIGHT | 6:00:00 | 7:00:00 | 3 |
+280584 | SHARON WAUGH | 9:00:00 | 17:00:00 | 27 |
+290584 | DENNIS RUTHERFORD | 6:00:00 | 7:00:00 | 3 |
+300584 | MIKE WRIGHT | 4:30:00 | 10:00:00 | 2 |
+300584 | SHARON WAUGH | 9:00:00 | 7:00:00 | 6 |
+300584 | MIKE WRIGHT | 5:00:00 | 10:00:00 | 26 |
+300584 | SHARON WAUGH | 9:00:00 | 7:00:00 | 2 |
+310584 | MIKE WRIGHT | 7:44:00 | 8:00:00 | 6 |
+310584 | SHARON WAUGH | 9:00:00 | 7:00:00 | 2 |
+310584 | MIKE WRIGHT | 13:03:00 | 13:29:00 | 6 |
 
-**Header Information:**
-- DATE
-  - START TIME
-    - FINISH TIME
-      - VISUAL RUNNING TOTAL
-        - MACHINE RUNNING TOTAL
-          - SMALL REFER RECORD
-            - FLAG SUPPL.
-              - VISIBLE COUNT DATA
-                - OMITTED
-                  - NORMAL RECORD
+... (continues with similar entries)
 
 ---
 
-**Table Content:**
+**NO. OF SMALL FISH REFER TO RECORD**
+---|---
+260584 | 0
+260584 | 0
+270584 | 0
+280584 | 13
 
-| DATE | NO.   | SMALL REFER RECORD | FLAG |
-|------|-------|---------------------|------|
-| 260584 |     |                     |      |
+**MACHINE TOTAL**
+---|---
+260584 | 
+260584 | 
+270584 | 
+300584 | 
+300584 | 
+300584 | 
+300584 | 1
+300584 | 
 
-| DATE | NO.   | SMALL REFER RECORD | FLAG |
-|------|-------|---------------------|------|
-| 310584 |     |                     |      |
+**VISUAL COUNT DATA**
+---|---
+260584 | OMMITTED
+260584 | OMMITTED
+270584 | NO COMMENT
 
-| DATE | NO.   | SMALL REFER RECORD | FLAG |
-|------|-------|---------------------|------|
+... (continues with similar entries)
 
-**Details:**
+---
 
-- **DATE:** September 25, 1984
-- **TIME START:** Various times listed (e.g., 6:00:00)
-- **TIME FINISH:** Various times listed (e.g., 7:30:00)
-- **VISUAL RUNNING TOTAL:** Numbers ranging from 0 to 25, with some entries marked as "NO COMMENT" or "NORMAL RECORD"
-- **MACHINE RUNNING TOTAL:** Numbers ranging from 16 to 48
-- **TOTAL** (Machine Running): Various numbers listed
+The table lists various observations made by different individuals, including the time they started and finished their observation. It also includes a count of small fish referred to in each record.
 
-The table includes columns for observer names and other details related to the process being monitored. The data seems to be part of a log tracking machine counts over time, with visual running totals recorded.
-
-Please note that some parts of the text are cut off or not fully visible in the image provided.
+Please note that some parts of the text are cut off or not fully visible due to the image quality.

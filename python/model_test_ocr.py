@@ -32,7 +32,8 @@ def prompt_func(data):
 
 ##### LLM VARIABLES SETTINGS #####
 str_output_parser = StrOutputParser() 
-vision_model_list = ["openbmb/minicpm-o2.6:f16","gemma3", "qwen2.5vl"]
+# vision_model_list = ["openbmb/minicpm-o2.6:f16","gemma3:27b-it-fp16", "qwen2.5vl:72b", "llama3.2-vision","minicpm-v:8b-2.6-fp16", "mistral-small3.2"]
+vision_model_list = ["mistral-small3.2"]
 
 
 ##### FUNCTIONS #####

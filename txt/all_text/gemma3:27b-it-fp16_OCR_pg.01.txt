@@ -1,0 +1,61 @@
+Okay, here's the data extracted from the image, formatted as closely as possible to the original.  I'll break it down into sections as they appear in the image.
+
+**Header Information**
+
+LEP MACHINE COUNT DATA BASE
+SYSTEM-HOBITON LK-
+14:55 TUESDAY, SEPTEMBER 25, 1984 2
+
+**First Table**
+
+| DATE    | OBSERVER      | START TIME | FINISH TIME | VISUAL RUNNING TOTAL | VISUAL TOTAL | MACHINE RUNNING TOTAL |
+| :------ | :------------ | :--------- | :---------- | :------------------- | :----------- | :-------------------- |
+| 260584  | MIKE WRIGHT   | 5:00:00    | 6:00:00     | 38                   | 38          | 23                    |
+| 260584  | SHARON HAUCH  | 20:30:00   | 21:00:00    | 7                    | 7           | 0                     |
+| 270584  | SHARON HAUCH  | 16:32:00   | 17:00:00    | 1                    | 1           | 1                     |
+| 280584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 27                   | 27          | 27                    |
+| 290584  | SHARON HAUCH  | 20:13:00   | 21:00:00    | 0                    | 0           | 0                     |
+| 300584  | DENNIS RUTHERFORD | 5:00:00    | 7:00:00     | 2                    | 2           | 14                    |
+| 300584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 10                   | 10          | 10                    |
+| 300584  | MIKE WRIGHT   | 5:00:00    | 6:00:00     | 264                  | 264         | 260                   |
+| 300584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 382                  | 118         | 376                   |
+| 310584  | MIKE WRIGHT   | 7:44:00    | 8:00:00     | 5                    | 5           | 5                     |
+| 010584  | MIKE WRIGHT   | 15:03:00   | 15:29:00    | 5                    | 5           | 5                     |
+| 020584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 10                   | 10          | 10                    |
+| 020584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 24                   | 14          | 24                    |
+| 060584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 23                   | 23          | 23                    |
+| 060584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 3                    | 3           | 3                     |
+| 060584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 2                    | 2           | 2                     |
+| 070584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 22                   | 22          | 22                    |
+| 070584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 1                    | 1           | 1                     |
+| 080584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 15                   | 15          | 15                    |
+| 080584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 0                    | 0           | 0                     |
+| 090584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 11                   | 11          | 11                    |
+| 090584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 1                    | 1           | 1                     |
+| 100584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 13                   | 13          | 13                    |
+| 100584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 0                    | 0           | 0                     |
+| 110584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 16                   | 16          | 16                    |
+| 110584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 0                    | 0           | 0                     |
+| 120584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 14                   | 14          | 14                    |
+| 120584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 0                    | 0           | 0                     |
+
+**Second Table**
+
+| DATE    | OBSERVER      | START TIME | FINISH TIME | VISUAL RUNNING TOTAL | VISUAL TOTAL | MACHINE RUNNING TOTAL |
+| :------ | :------------ | :--------- | :---------- | :------------------- | :----------- | :-------------------- |
+| 130584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 12                   | 12          | 12                    |
+| 130584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 0                    | 0           | 0                     |
+| 140584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 10                   | 10          | 10                    |
+| 140584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 0                    | 0           | 0                     |
+| 150584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 8                    | 8           | 8                     |
+| 150584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 0                    | 0           | 0                     |
+| 160584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 6                    | 6           | 6                     |
+| 160584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 0                    | 0           | 0                     |
+| 170584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 4                    | 4           | 4                     |
+| 170584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 0                    | 0           | 0                     |
+| 180584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 2                    | 2           | 2                     |
+| 180584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 0                    | 0           | 0                     |
+| 190584  | MIKE WRIGHT   | 6:00:00    | 7:00:00     | 0                    | 0           | 0                     |
+| 190584  | SHARON HAUCH  | 6:00:00    | 7:00:00     | 0                    | 0           | 0                     |
+
+Let me know if you need any specific data extracted or if you want me to focus on a particular section.

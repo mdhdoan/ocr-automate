@@ -32,7 +32,7 @@ def prompt_func(data):
 
 ##### LLM VARIABLES SETTINGS #####
 str_output_parser = StrOutputParser() 
-vision_model_list = ["minicpm-v:8b-2.6-fp16"]
+vision_model_list = ["mistral-small3.2"]
 # vision_model_list = ["minicpm-v","qwen2.5vl:32b", "gemma3:27b"]
 
 

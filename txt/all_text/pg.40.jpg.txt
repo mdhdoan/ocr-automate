@@ -1,0 +1,35 @@
+```
+S A S L O G VMS SAS 4.07 14:45 THURSDAY, NOVEMBER 29, 1984 1
+
+Copyright (c) 1983, 1984 SAS Institute Inc., Cary, N. C. 27511, U. S. A.
+NOTE: VMS Version of SAS Release 4.07 at CANADIAN DEPARTMENT OF FISHERIES AND OCEANS (071B4001).
+NOTE: LICENSED CPUID MODEL = 11/780; SERIAL = 01380A39.
+
+1 /* ***************************************************************/
+2 /*
+3 /* This program uses ANOVA to determine sample hypura length differences */
+4 /* Written by C. Pucher, Oct; 1984 */
+5 /* Status: tested */
+6 /*
+7 /* ***************************************************************/
+8 /* 1/ check vax directory name */
+9 libname alsoc 'workarea.lep.corinna]';
+10 data hob84;
+11 /* 2/ check dataset name and regression variables (from lnthreg.sas) */
+12 set alsoc.hob84A;
+13 if sample = 6 or sample = 7 or sample = 8;
+14 if hypulength=. then do;
+15 if frk1ength ne . then do;
+16 if sex=1 then hypulength=.8416645*frk1ength-5.00549;
+17 if sex=2 then hypulength=.7683435*frk1ength+27.97797;
+18 end;
+19 end;
+20 end;
+21 END;
+
+180 STATEMENT IS NOT VALID OR IT IS USED OUT OF PROPER ORDER
+LABEL ST STACK
+ERROR: STACK UNDERFLOW ON INTERNAL STACK "LABEL ST".
+ERROR: AN ERROR CAUSING SAS TO ABORT HAS OCCURRED. PROGRAM EXECUTION HAS TERMINATED.
+NOTE: SAS INSTITUTE INC., SAS CIRCLE, BOX 8000, CARY, N. C., 27511-8000
+```

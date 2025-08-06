@@ -1,0 +1,19 @@
+Here is the transcribed text from the image:
+
+```
+SAS                                14:41 TUESDAY, OCTOBER 9, 1984   6
+
+GRP=2
+
+GENERAL LINEAR MODELS PROCEDURE
+
+DEPENDENT VARIABLE: HYPLNGTH  HYPURAL LENGTH (MM)
+
+SOURCE         DF      SUM OF SQUARES    MEAN SQUARE    F VALUE    PR > F    R-SQUARE    C.V.
+MODEL          1       563.60722611      563.60722611    0.67      0.4185    0.014935    6.6438
+ERROR          44      37173.89277389     844.86119941
+CORRECTED TOTAL 45      37737.50000000                  29.06649617  437.50000000
+
+SOURCE         DF      TYPE I SS    F-VALUE    PR > F    DF      TYPE III SS    F VALUE    PR > F
+SAMPLE         1       563.60722611  0.67      0.4185    1       563.60722611    0.67      0.4185
+```

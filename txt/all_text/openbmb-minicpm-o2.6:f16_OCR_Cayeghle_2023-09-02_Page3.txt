@@ -1,0 +1,12 @@
+
+1 6 Po Ru Mu % Sp Dead
+2 5 Po Rf % Sp Lead
+3 4 Po Ru Mu % Sp Live
+4 3 Po Ru Mu % Sp Live
+5 2 Po Rf % Sp Dead
+
+Species:
+- Sockeye: Adult, Jack (for all rows)
+- Coho: Adult for Rows 1 and 2; No data in other columns except Row 5 where it's "Live"
+- Pink Chinook Chum: Only visible on Row 4 with a value of '4' under the % Sp column
+- Other species are marked as "No Fish" or have no entries.

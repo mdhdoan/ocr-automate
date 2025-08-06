@@ -1,0 +1,34 @@
+
+**WCVI Stream Inspection Log**
+
+REF NO: CAY08023 PAGE 6 OF 6
+
+1. **Describe any difficulties in recording the data:**  
+   (No entry)
+
+2. **Were all of the standard survey sections surveyed?**
+   - Yes ☑ No ☐ If no, why not?
+   - Answer: Yes
+
+3. **Were all expected species observed?**
+   - Yes ☐ No ☑ Give details, and any anomalies in abundance or appearance:
+   - Details: @ CANYON - NONE THIS YR.
+   - Additional note: TYPICALLY GROUP
+
+4. **Briefly describe the water conditions in the context of recent rain or drought:**  
+   Answer: NO RAIN FOR MONTHS.
+
+5. **Describe the experience level of each swimmer:**
+   | Swimmer  | Initials | <10 swims | 10-50 swims | >100 swims |
+   |----------|----------|-----------|-------------|------------|
+   | Crew leader | Lm       |           |             |            |
+   | Crew     | Sc       |           | S           |            |
+   |          |          |           |             |            |
+
+**Experience Levels:**
+- Swimmer with initials "Lm": No entry
+- Swimmer with initials "Sc": No entry (S)
+- Additional crew members have no entries
+
+**Version Information:**  
+C.4 (ver.2014Jun)

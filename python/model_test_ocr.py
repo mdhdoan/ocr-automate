@@ -32,7 +32,7 @@ def prompt_func(data):
 
 ##### LLM VARIABLES SETTINGS #####
 str_output_parser = StrOutputParser() 
-vision_model_list = ["minicpm-v", "minicpm-v:8b-2.6-fp16", "qwen2.5vl:32b", "gemma3:27b"]
+vision_model_list = ["openbmb/minicpm-o2.6:f16","gemma3", "qwen2.5vl"]
 
 
 ##### FUNCTIONS #####
@@ -93,6 +93,10 @@ def testing_visual_models(image_b64):
     #     print(' :)')
     # return ocr_result
 
+# You are given an image of a scanned, typewritten document. Your task is to accurately transcribe the text from the image,
+#                 line by line. Pay close attention to any potentially ambiguous characters (e.g., 'l' vs '1', 'O' vs '0', 'rn' vs 'm').
+#                 If a character is unreadable, represent it with "[unreadable]". Do not attempt to correct any spelling or grammatical errors;
+#                 transcribe exactly what is visible. Prioritize accuracy over fluency. Keeps the same format if you can.
 def extracting_visual_img(vision_model, image_b64):
     ocr_result = ''
     print(f"{vision_model} running...", flush = True, end = '')
@@ -102,10 +106,9 @@ def extracting_visual_img(vision_model, image_b64):
     query_chain = chain.invoke(
         {
             "text": """
-                You are given an image of a scanned, typewritten document. Your task is to accurately transcribe the text from the image,
-                line by line. Pay close attention to any potentially ambiguous characters (e.g., 'l' vs '1', 'O' vs '0', 'rn' vs 'm').
-                If a character is unreadable, represent it with "[unreadable]". Do not attempt to correct any spelling or grammatical errors;
-                transcribe exactly what is visible. Prioritize accuracy over fluency. Keeps the same format if you can.
+                Read everything and write them down. 
+                If you encounter a table, write all data entries down following the column and rows they were seen.
+                Keep the same formatting if possible
             """, 
             "image": image_b64
         }
@@ -155,7 +158,7 @@ if __name__ == "__main__":
             file_name = vision_model + '_OCR_' + doc_id + '.txt'
             target_directory = current_directory + '/txt/all_text/'
             os.makedirs(target_directory, exist_ok = True)
-            output_file = os.path.join(target_directory, file_name)
+            output_file = os.path.join(target_directory, file_name.replace('/', '-'))
             with open(output_file, "w+") as ocr_result:
                 ocr_result.write(ocr_data)
             print(f"{file_name} written")

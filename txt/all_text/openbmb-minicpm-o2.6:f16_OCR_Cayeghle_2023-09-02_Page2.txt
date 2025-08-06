@@ -1,0 +1,33 @@
+
+**WCVI Stream Inspection Log**
+
+---
+
+| **Vertical Visibility:** | (m) Seg: |
+| Horizontal Visibility (1): | 15 (m) Seg: 2 |
+| Horizontal Visibility (2): | [Blank] |
+| Gauge Height | NA (m) |
+| Sea level active in area? | ☐ Yes ☒ No |
+| Number of seals: | [Blank] |
+| Time | [Blank] |
+| Upstream extent of seals: | [Blank] |
+
+---
+
+**Discharge Transect Data**
+
+| Distance (m) | Depth (m) | Velocity (m/s) | Notes |
+|--------------|-----------|----------------|-------|
+| 1            |           |                |       |
+| 2            |           |                |       |
+| 3            |           |                |       |
+| ...          |           |                |       |
+| 25           |           |                |       |
+
+---
+
+**Transect Location:** [Blank]
+
+---
+
+C.1 (ver.2014Jun)

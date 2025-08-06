@@ -1,0 +1,42 @@
+Here's the data extracted from the image, formatted as closely as possible to the original:
+
+**LEP MACHINE COUNT BASE**
+
+**SYSTEM=HOBITON LK**
+
+**14:56 TUESDAY, SEPTEMBER 25, 1984**
+
+| DATE     | OBSERVER           | TIME START | TIME FINISH | VISUAL RUNNING TOTAL | MACHINE RUNNING TOTAL |
+|----------|--------------------|------------|-------------|----------------------|-----------------------|
+| 260684   | CARMEN MCCONNELL   | 22:00:00   | 23:00:00    | 0                    | 0                     |
+| 260684   | SHARON WAUGH       | 23:00:00   | 24:00:00    | 22                   | 22                    |
+| 270684   | SHARON WAUGH       | 0:00:00    | 1:00:00     | 224                  | 224                   |
+| 270684   | CARMEN MCCONNELL   | 14:00:00   | 21:00:00    | 510                  | 504                   |
+| 010784   | SHARON WAUGH       | 5:30:00    | 7:00:00     | 1                    | 1                     |
+| 010784   | SHARON WAUGH       | 7:00:00    | 8:00:00     | 4                    | 3                     |
+| 020784   | MIKE WRIGHT        | 6:00:00    | 6:15:00     | 10                   | 10                    |
+| 020784   | CARMEN MCCONNELL   | 6:15:00    | 7:00:00     | 2                    | 3                     |
+| 020784   | MIKE WRIGHT        | 7:00:00    | 8:00:00     | 3                    | 3                     |
+| 030784   | SHARON WAUGH       | 23:00:00   | 24:00:00    | 9                    | 9                     |
+| 030784   | MIKE WRIGHT        | 0:00:00    | 1:00:00     | 8                    | 8                     |
+| 030784   | CARMEN MCCONNELL   | 8:00:00    | 9:00:00     | 26                   | 30                    |
+| 030784   | SHARON WAUGH       | 23:00:00   | 24:00:00    | 3                    | 3                     |
+| 040784   | MIKE WRIGHT        | 7:00:00    | 7:15:00     | 5                    | 5                     |
+| 040784   | CARMEN MCCONNELL   | 7:15:00    | 8:00:00     | 1                    | 1                     |
+| 040784   | MIKE WRIGHT        | 8:00:00    | 9:00:00     | 2                    | 2                     |
+| 050784   | CARMEN MCCONNELL   | 23:00:00   | 24:00:00    | 14                   | 14                    |
+| 050784   | MIKE WRIGHT        | 23:00:00   | 24:00:00    | 11                   | 11                    |
+| 060784   | CARMEN MCCONNELL   | 23:00:00   | 24:00:00    | 15                   | 15                    |
+| 060784   | SHARON WAUGH       | 23:00:00   | 24:00:00    | 12                   | 12                    |
+| 070784   | MIKE WRIGHT        | 23:00:00   | 24:00:00    | 13                   | 13                    |
+| 070784   | CARMEN MCCONNELL   | 23:00:00   | 24:00:00    | 16                   | 16                    |
+| 080784   | SHARON WAUGH       | 23:00:00   | 24:00:00    | 17                   | 17                    |
+| 080784   | MIKE WRIGHT        | 23:00:00   | 24:00:00    | 18                   | 18                    |
+| 090784   | CARMEN MCCONNELL   | 23:00:00   | 24:00:00    | 19                   | 19                    |
+| 100784   | SHARON WAUGH       | 23:00:00   | 24:00:00    | 20                   | 20                    |
+| 110784   | MIKE WRIGHT        | 23:00:00   | 24:00:00    | 21                   | 21                    |
+| 120784   | CARMEN MCCONNELL   | 23:00:00   | 24:00:00    | 23                   | 23                    |
+| 130784   | SHARON WAUGH       | 23:00:00   | 24:00:00    | 24                   | 24                    |
+| 140784   | MIKE WRIGHT        | 23:00:00   | 24:00:00    | 25                   | 25                    |
+
+Let me know if you need any further extraction or processing of this data!

@@ -1,0 +1,46 @@
+Okay, here's the data extracted from the image, formatted as closely as possible to the original.
+
+**Header Information**
+
+LEP MACHINE COUNT BASE
+SYSTEM=HOBITON LK-
+14:56 TUESDAY, SEPTEMBER 25, 1984
+
+**Table 1: Machine Count Data**
+
+| DATE     | OBSERVER           | TIME START | TIME FINISH | VISUAL RUNNING TOTAL | MACHINE RUNNING TOTAL |
+|----------|--------------------|------------|-------------|----------------------|-----------------------|
+| 260684   | CARMEN MCCONNELL   | 22:00:00   | 23:00:00    | 0                    | 0                     |
+| 260684   | SHARON WAUGH       | 23:00:00   | 24:00:00    | 22                   | 22                    |
+| 270684   | SHARON WAUGH       | 00:00:00   | 01:00:00    | 224                  | 224                   |
+| 270684   | CARMEN MCCONNELL   | 14:00:00   | 21:00:00    | 510                  | 504                   |
+| 010784   | SHARON WAUGH       | 5:30:00    | 7:00:00     | 1                    | 1                     |
+| 010784   | SHARON WAUGH       | 7:00:00    | 8:00:00     | 4                    | 3                     |
+| 020784   | MIKE WRIGHT        | 6:00:00    | 6:15:00     | 10                    | 10                    |
+| 020784   | CARMEN MCCONNELL   | 7:00:00    | 7:00:00     | 2                    | 3                     |
+| 020784   | MIKE WRIGHT        | 7:00:00    | 8:00:00     | 3                    | 3                     |
+| 030784   | SHARON WAUGH       | 23:00:00   | 24:00:00    | 9                    | 9                     |
+| 030784   | MIKE WRIGHT        | 1:00:00    | 1:00:00     | 8                    | 8                     |
+| 030784   | CARMEN MCCONNELL   | 8:00:00    | 9:00:00     | 26                   | 30                    |
+| 030784   | SHARON WAUGH       | 23:00:00   | 23:00:00    | 3                    | 3                     |
+| 040784   | MIKE WRIGHT        | 7:00:00    | 7:00:00     | 5                    | 5                     |
+| 040784   | CARMEN MCCONNELL   | 8:00:00    | 9:00:00     | 1                    | 1                     |
+| 040784   | MIKE WRIGHT        | 9:00:00    | 9:00:00     | 2                    | 2                     |
+| 050784   | CARMEN MCCONNELL   | 12:00:00   | 13:00:00    | 14                   | 14                    |
+| 050784   | MIKE WRIGHT        | 13:00:00   | 14:00:00    | 11                   | 11                    |
+| 050784   | CARMEN MCCONNELL   | 14:00:00   | 15:00:00    | 15                   | 15                    |
+| 060784   | MIKE WRIGHT        | 14:00:00   | 15:00:00    | 16                   | 16                    |
+| 060784   | CARMEN MCCONNELL   | 15:00:00   | 16:00:00    | 17                   | 17                    |
+| 060784   | MIKE WRIGHT        | 16:00:00   | 17:00:00    | 18                   | 18                    |
+| 070784   | CARMEN MCCONNELL   | 16:00:00   | 17:00:00    | 19                   | 19                    |
+| 070784   | MIKE WRIGHT        | 17:00:00   | 18:00:00    | 20                   | 20                    |
+| 080784   | CARMEN MCCONNELL   | 17:00:00   | 18:00:00    | 21                   | 21                    |
+| 080784   | MIKE WRIGHT        | 18:00:00   | 19:00:00    | 22                   | 22                    |
+
+**Table 2: Total Counts**
+
+| TOTAL VISUAL | TOTAL MACHINE |
+|--------------|---------------|
+| 510          | 504           |
+
+Let me know if you need any further extraction or clarification!

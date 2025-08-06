@@ -1,0 +1,55 @@
+Certainly! Here is the information from the image of the WCVI Stream Inspection Log:
+
+---
+
+**WCVI STREAM INSPECTION LOG**
+
+**REF NO:** CA/Y08020  
+**PAGE:** 2 OF 6
+
+**SECCHI:**
+
+- **Vertical Visibility:** (m) Seg:  
+- **Horizontal Visibility (1):** 15 (m) Seg: 2  
+- **GAUGE HEIGHT:** NA (m)  
+- **Seals active in area?** Yes  
+- **Number of seals:**  
+- **Horizontal Visibility (2):** (m) Seg:  
+- **Time:**  
+- **Upstream extent of seals:**  
+
+**Discharge Transect Data**
+
+| Distance (m) | Depth (m) | Velocity (m/s) | Notes |
+|--------------|------------|-----------------|-------|
+| 1            |            |                 |       |
+| 2            |            |                 |       |
+| 3            |            |                 |       |
+| 4            |            |                 |       |
+| 5            |            |                 |       |
+| 6            |            |                 |       |
+| 7            |            |                 |       |
+| 8            |            |                 |       |
+| 9            |            |                 |       |
+| 10           |            |                 |       |
+| 11           |            |                 |       |
+| 12           |            |                 |       |
+| 13           |            |                 |       |
+| 14           |            |                 |       |
+| 15           |            |                 |       |
+| 16           |            |                 |       |
+| 17           |            |                 |       |
+| 18           |            |                 |       |
+| 19           |            |                 |       |
+| 20           |            |                 |       |
+| 21           |            |                 |       |
+| 22           |            |                 |       |
+| 23           |            |                 |       |
+| 24           |            |                 |       |
+| 25           |            |                 |       |
+
+**TRANSECT LOCATION:** C.1 (ver.2014Jun)
+
+---
+
+This is the transcription of the information provided in the image.

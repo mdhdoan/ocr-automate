@@ -1,0 +1,95 @@
+Certainly! Here is the information from the form:
+
+---
+
+**WCVI STREAM INSPECTION LOG**
+
+**REF NO.:** CAY080223
+**PAGE:** 1 OF 6
+
+**STREAM NAME:** CAVEGHL
+**DATE (YYYY/MM/DD):** 2023/08/02
+
+**OBSERVER(S):** LUKAS M. STEPHEN C.
+
+**SEGMENTS / AREA SURVEYED:** 6-1
+
+**START TIME:** 0900
+**END TIME:** 1130
+
+**DISTANCE SURVEYED:** 3000 (m)
+
+**METHOD:**
+- Bank Walk
+- Stream Walk
+- Snorkel
+- Boat
+- Deadpitch
+- Glacial Silt
+- Muddy
+- Slightly Turbid
+- Iced
+
+**WATER CONDITION:**
+- Clear
+- Extremely Low
+- Clear (0%)
+- Full
+- None
+- Light
+- None
+- Light
+
+**WATER LEVEL:**
+- Extremely Low
+- Clear (0%)
+- Full
+
+**CLOUD COVER:**
+- Clear (0%)
+- Full
+
+**LIGHT LEVEL:**
+- Clear (0%)
+- Full
+
+**PRECIPITATION:**
+- None
+- Light
+
+**WATER TEMPERATURE:**
+- 10°C
+
+**FISH VISIBILITY:**
+- High
+
+**TARGET SPECIES:**
+- Sockeye
+- Pink
+- Chinook
+
+**SPAWN TIMING:**
+- Species: Sockeye
+  - Run No.: 1
+  - Pre: 2
+  - St: 
+  - Pk: 
+  - End: 
+
+- Species: Chinook
+  - Run No.: 1
+  - Pre: 2
+  - St: 
+  - Pk: 
+  - End: 
+
+- Species: Pink
+  - Run No.: 1
+  - Pre: 2
+  - St: 
+  - Pk: 
+  - End: 
+
+---
+
+This form appears to be used for tracking the conditions and observations of a stream, including water quality, fish species, and spawning timing.

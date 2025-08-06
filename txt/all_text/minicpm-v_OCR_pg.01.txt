@@ -1,0 +1,49 @@
+The provided image appears to be an old computer output from September 25, 1984, showing various pieces of information related to LEP (Large Electron-Positron Collider) machine data. Here is a transcription and summary based on the visible content:
+
+---
+
+**Title:**
+LEP Machine Data Base
+
+**Date:**  
+September 25, 1984  
+
+**Time:**  
+14:56  
+
+**Location:**  
+HOBITON LK  
+
+**Columns:**
+
+| DATE | OBSERVER | START TIME | FINISH TIME | VISUAL RUNNING TOTAL | VISUAL MACHINE RUNNING TOTAL |
+|------|----------|------------|-------------|-----------------------|-------------------------------|
+|      |          |            |             |                       |                               |
+
+---
+
+**Rows with Data Entries:**
+
+1. **Row 260584**
+   - Observer: MIKE WRIGHT
+   - Start Time: 6:00:00, Finish Time: 6:00:00, Visual Running Total: 38, Machine Running Total: 23
+
+2. **Row 260584** (Repeated)
+   - Observer: SHARON WAUGH
+   - Start Time: 17:00:00, Finish Time: 17:00:00, Visual Running Total: 7, Machine Running Total: 0
+
+3. **Row 260584** (Repeated)
+   - Observer: SHARON WAUGH
+   - Start Time: 17:00:00, Finish Time: 17:00:00, Visual Running Total: 1, Machine Running Total: 1
+
+... and so on for other entries.
+
+---
+
+**Footer Notes:**  
+- Small of Fish Record Count Data (with various numbers indicating different counts)
+- Flag to indicate normal record or comment status
+- Columns with visual count data omitted in some cases
+
+This transcription captures the essential information from the image, including dates, observers, start and finish times for machine operations, as well as running totals. The table is organized by date, observer, time entries, and corresponding operational details.
+

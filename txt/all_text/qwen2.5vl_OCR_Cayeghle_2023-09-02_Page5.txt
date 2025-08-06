@@ -1,0 +1,49 @@
+Certainly! Here is the information from the document, including the table data:
+
+---
+
+**WCVI SIL Stream: CAY**
+**Date: 02SEP23**
+**REF NO.: CAY080223**
+**Page: 5 of 6**
+
+---
+
+### POST-SURVEY NOTES
+
+- **CHECKLIST**
+  - Survey End Time Recorded: ☑
+  - Spawn Timings Recorded: ☑
+  - Survey Ref. No. Added to All Supporting Pages: ☑
+  - Page No. and Total Page No. Added to All Pages: ☑
+  - Discharge Transect Completed: ☑
+
+- **BEHAVIOUR NOTES:**
+
+  | SK | CO | PK | CM | CN | ST |
+  |----|----|----|----|----|----|
+  | % Morts That Are Pre-Spawn | NA | % | % | % | % | % |
+  | % of Fish That Appear New | 100 | % | % | % | % | % |
+  | % of Fish Paired / Spawning | 0 | % | % | % | % | % |
+
+- **OVERALL RELIABILITY [L / M / H]:** H
+
+---
+
+### SURVEY TOTALS:
+
+| Sockeye | Coho | Pink | Chum | Chinook |
+|---------|------|------|------|---------|
+| Adult   | Jack | Adult| Jack | Adult   | Jack    |
+| 4       |      |      |      |         | 2       |
+|         |      |      |      |         |         |
+|         |      |      |      |         |         |
+|         |      |      |      |         |         |
+
+| ST | OT |
+|----|----|
+| 3  |    |
+
+---
+
+The document appears to be a field survey form for fish populations, specifically for sockeye, coho, pink, chum, and chinook salmon. The data includes counts of adult and jack fish for each species, as well as reliability assessments and other survey notes.

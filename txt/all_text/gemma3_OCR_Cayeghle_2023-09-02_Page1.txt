@@ -1,0 +1,72 @@
+Okay, here's the information extracted from the provided image of the WCV Stream Inspection Log:
+
+**WCV STREAM INSPECTION LOG**
+
+REF.NO.CAY02308102 Jun’202308102
+
+STREAM NAME: CAYEGHLE
+
+OBSERVER: LUKAS M.
+
+OBSERVER: STEPHEN C.
+
+SEGMENTS/AREA SURVEYED: 6-1
+
+DISTANCE SURVEYED: 3000 (m)
+
+START TIME: 0700
+
+END TIME: 1130
+
+METHOD:
+
+*   Bank Walk
+*   Stream Walk
+*   Snorkel
+*   Deadpath
+*   Boat
+
+WATER CONDITION:
+
+*   Clear
+*   Muddy
+*   Slightly Turbid
+
+OTHER:
+
+*   Iced
+
+CLOUD COVER:
+
+*   Scattered (25%)
+*   Cloudy (75%)
+*   Overcast (100%)
+
+WATER LEVEL:
+
+*   Clear (0%)
+*   Full
+
+PRECIPITATION:
+
+*   Light
+*   Medium
+*   Heavy
+*   Snow
+
+WATER TEMPERATURE:
+
+*   10 (°C)
+
+TARGET SPECIES:
+
+*   Sockeye
+*   Pink
+*   Chinook
+*   Coho
+*   Chum
+
+FISH VISIBILITY:
+
+*   Medium
+*   Dark

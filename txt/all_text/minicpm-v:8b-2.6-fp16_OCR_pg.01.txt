@@ -1,0 +1,48 @@
+The image appears to be an old computer output or log from September 25, 1984. It contains various pieces of information such as dates, times, observers' names, machine start and finish times, visual running totals, and other details related to a specific process.
+
+Here is the transcribed text with some formatting for clarity:
+
+---
+
+**Title:**
+LEP MACHINE COUNT DATA BASE
+
+**Header Information:**
+- DATE
+  - START TIME
+    - FINISH TIME
+      - VISUAL RUNNING TOTAL
+        - MACHINE RUNNING TOTAL
+          - SMALL REFER RECORD
+            - FLAG SUPPL.
+              - VISIBLE COUNT DATA
+                - OMITTED
+                  - NORMAL RECORD
+
+---
+
+**Table Content:**
+
+| DATE | NO.   | SMALL REFER RECORD | FLAG |
+|------|-------|---------------------|------|
+| 260584 |     |                     |      |
+
+| DATE | NO.   | SMALL REFER RECORD | FLAG |
+|------|-------|---------------------|------|
+| 310584 |     |                     |      |
+
+| DATE | NO.   | SMALL REFER RECORD | FLAG |
+|------|-------|---------------------|------|
+
+**Details:**
+
+- **DATE:** September 25, 1984
+- **TIME START:** Various times listed (e.g., 6:00:00)
+- **TIME FINISH:** Various times listed (e.g., 7:30:00)
+- **VISUAL RUNNING TOTAL:** Numbers ranging from 0 to 25, with some entries marked as "NO COMMENT" or "NORMAL RECORD"
+- **MACHINE RUNNING TOTAL:** Numbers ranging from 16 to 48
+- **TOTAL** (Machine Running): Various numbers listed
+
+The table includes columns for observer names and other details related to the process being monitored. The data seems to be part of a log tracking machine counts over time, with visual running totals recorded.
+
+Please note that some parts of the text are cut off or not fully visible in the image provided.

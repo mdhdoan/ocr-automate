@@ -1,0 +1,39 @@
+Okay, here's the data transcribed from the stream inspection log:
+
+**WCI Stream Inspection Log**
+
+**REF NOCA/102 Page 2 of 6**
+
+| Discharge (m) | Depth (m) | Velocity (m/s) | IS | Seg. | Seals Active in Area? | Seals Number of |
+|---|---|---|---|---|---|---|
+| 1 | 1 | NA | NA | 1 | Yes | NA |
+| 2 | 2 | NA | NA | 2 | Yes | NA |
+| 3 | 3 | NA | NA | 3 | Yes | NA |
+| 4 | 4 | NA | NA | 4 | Yes | NA |
+| 5 | 5 | NA | NA | 5 | Yes | NA |
+| 6 | 6 | NA | NA | 6 | Yes | NA |
+| 7 | 7 | NA | NA | 7 | Yes | NA |
+| 8 | 8 | NA | NA | 8 | Yes | NA |
+| 9 | 9 | NA | NA | 9 | Yes | NA |
+| 10 | 10 | NA | NA | 10 | Yes | NA |
+| 11 | 11 | NA | NA | 11 | Yes | NA |
+| 12 | 12 | NA | NA | 12 | Yes | NA |
+| 13 | 13 | NA | NA | 13 | Yes | NA |
+| 14 | 14 | NA | NA | 14 | Yes | NA |
+| 15 | 15 | NA | NA | 15 | Yes | NA |
+| 16 | 16 | NA | NA | 16 | Yes | NA |
+| 17 | 17 | NA | NA | 17 | Yes | NA |
+| 18 | 18 | NA | NA | 18 | Yes | NA |
+| 19 | 19 | NA | NA | 19 | Yes | NA |
+| 20 | 20 | NA | NA | 20 | Yes | NA |
+| 21 | 21 | NA | NA | 21 | Yes | NA |
+| 22 | 22 | NA | NA | 22 | Yes | NA |
+| 23 | 23 | NA | NA | 23 | Yes | NA |
+| 24 | 24 | NA | NA | 24 | Yes | NA |
+| 25 | 25 | NA | NA | 25 | Yes | NA |
+
+**Notes:**  (This section is blank on the image)
+
+**Gauge Height:** NA
+
+**C.1 (ver.2014Jun)**

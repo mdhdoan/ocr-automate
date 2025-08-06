@@ -1,0 +1,14 @@
+Here's the data extracted from the image:
+
+**WCI VI Stream: CAY**
+Date: 02/23/23  REF No: CAY 02/23/23 Page 3 of 6
+
+**Table Data:**
+
+| REF | SEGMENT | HAB CODE | Po | Rf | Mu | Live | % Sp | Dead |
+|-----|---------|----------|----|----|----|------|-------|-------|
+| 1   | 6       | 95       |    |    |    |      |       |       |
+| 2   | 5       | 95       |    |    |    |      |       |       |
+| 3   | 4       | 95       |    |    |    |      |       |       |
+| 4   | 3       | 95       |    |    |    |      |       |       |
+| 5   | 2       | 95       |    |    |    |      |       |       |

@@ -28,14 +28,6 @@ def create_prompt(format_instructions):
         partial_variables={"format_instructions": format_instructions},
         template=QA_TEMPLATE)
 
-# Define your desired data structure.
-# class Answer(BaseModel):
-#     Langitude: str = Field(description="langtitude of the location in the document")
-#     Longitude: str = Field(description="longitude of the location in the document")
-#     Description: str = Field(description="brief summary description of the document")
-#     Habitat_Type: str = Field(description="type of habitat described.")
-#     Date_of_Issuance: str = Field(description="Dates of Issuance, usually found at the end of the document")
-
 
 ##### LLM VARIABLES SETTINGS #####
 output_parser = JsonOutputParser()
